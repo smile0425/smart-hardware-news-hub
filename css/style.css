@@ -1,0 +1,281 @@
+/* ===== Reset & Base ===== */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: #f0f2f5;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* ===== Header ===== */
+.site-header {
+  background: linear-gradient(135deg, #1a73e8, #0d47a1);
+  color: #fff;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.site-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.site-subtitle {
+  margin-top: 0.25rem;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+/* ===== Main Content ===== */
+.main-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+}
+
+
+/* ===== Search ===== */
+.search-section {
+  margin-bottom: 1.25rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.search-input:focus {
+  border-color: #1a73e8;
+}
+
+/* ===== Category Filter ===== */
+.category-filter {
+  margin-bottom: 1.5rem;
+  overflow-x: auto;
+}
+
+.category-list {
+  display: flex;
+  gap: 0.5rem;
+  list-style: none;
+  padding-bottom: 0.25rem;
+}
+
+.category-btn {
+  padding: 0.4rem 1rem;
+  border: 1.5px solid #ccc;
+  border-radius: 20px;
+  background: #fff;
+  color: #555;
+  font-size: 0.875rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+
+.category-btn:hover {
+  border-color: #1a73e8;
+  color: #1a73e8;
+}
+
+.category-btn.active {
+  background: #1a73e8;
+  border-color: #1a73e8;
+  color: #fff;
+}
+
+/* Category color variants */
+.category-tag {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.category-tag[data-category="芯片"] { background: #e53935; }
+.category-tag[data-category="AI"] { background: #8e24aa; }
+.category-tag[data-category="机器人"] { background: #1e88e5; }
+.category-tag[data-category="IoT"] { background: #43a047; }
+.category-tag[data-category="可穿戴"] { background: #fb8c00; }
+.category-tag[data-category="无人机"] { background: #00acc1; }
+.category-tag[data-category="智能家居"] { background: #6d4c41; }
+.category-tag[data-category="汽车电子"] { background: #546e7a; }
+
+
+/* ===== News Grid ===== */
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+/* ===== News Card ===== */
+.news-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.news-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.news-card-header {
+  padding: 1rem 1rem 0.5rem;
+}
+
+.news-card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+}
+
+.news-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.news-card-body {
+  padding: 0 1rem;
+  flex: 1;
+}
+
+.news-card-summary {
+  font-size: 0.875rem;
+  color: #555;
+  line-height: 1.5;
+  max-height: 4.5em;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+}
+
+.news-card.expanded .news-card-summary {
+  max-height: 50em;
+}
+
+.news-card-footer {
+  padding: 0.75rem 1rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.expand-btn {
+  background: none;
+  border: none;
+  color: #1a73e8;
+  font-size: 0.8rem;
+  cursor: pointer;
+  padding: 0.25rem 0;
+}
+
+.expand-btn:hover {
+  text-decoration: underline;
+}
+
+/* ===== Empty State ===== */
+.empty-state {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: #999;
+}
+
+.empty-state-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.empty-state-text {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #666;
+}
+
+.empty-state-hint {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+}
+
+/* ===== Responsive: Tablet (≤768px) ===== */
+@media (max-width: 768px) {
+  .news-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .site-title {
+    font-size: 1.5rem;
+  }
+}
+
+/* ===== Responsive: Mobile (≤480px) ===== */
+@media (max-width: 480px) {
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .site-header {
+    padding: 1.5rem 1rem;
+  }
+
+  .site-title {
+    font-size: 1.25rem;
+  }
+
+  .main-content {
+    padding: 1rem 0.75rem;
+  }
+}
+
+
+/* ===== Category Tags (actual data categories) ===== */
+.category-tag[data-category="smart-glasses"] { background: #1e88e5; }
+.category-tag[data-category="ai-phone"] { background: #8e24aa; }
+.category-tag[data-category="smart-watch"] { background: #fb8c00; }
+.category-tag[data-category="ai-pc"] { background: #43a047; }
+.category-tag[data-category="other"] { background: #546e7a; }
+
+
+
+/* 原文链接样式 */
+.news-card-link {
+  padding: 8px 20px 16px;
+  border-top: 1px solid #eee;
+  margin-top: 8px;
+}
+
+.source-link {
+  color: #1976d2;
+  text-decoration: none;
+  font-size: 0.85rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: color 0.2s;
+}
+
+.source-link:hover {
+  color: #0d47a1;
+  text-decoration: underline;
+}

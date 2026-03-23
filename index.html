@@ -1,0 +1,262 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>智能硬件新闻中心</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title">智能硬件新闻中心</h1>
+    <p class="site-subtitle">汇聚最新智能硬件资讯</p>
+  </header>
+
+  <main class="main-content">
+    <section class="search-section" aria-label="搜索">
+      <div class="search-box">
+        <input
+          type="search"
+          id="searchInput"
+          class="search-input"
+          placeholder="搜索新闻标题或内容..."
+          aria-label="搜索新闻"
+        >
+      </div>
+    </section>
+
+    <nav class="category-filter" aria-label="分类筛选">
+      <ul class="category-list" id="categoryList">
+        <li>
+          <button class="category-btn active" data-category="all">全部</button>
+        </li>
+      </ul>
+    </nav>
+
+    <section class="news-section" aria-label="新闻列表">
+      <div class="news-grid" id="newsGrid">
+        <!-- 新闻卡片由 JS 动态渲染 -->
+      </div>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <div class="empty-state-icon" aria-hidden="true">📭</div>
+        <p class="empty-state-text">没有找到相关新闻</p>
+        <p class="empty-state-hint">试试其他关键词或分类</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/data.js"></script>
+
+  <script>
+    /**
+     * 页面交互模块 - 智能硬件新闻中心
+     * 负责卡片渲染、分类筛选、搜索和页面初始化
+     */
+
+    // ===== 状态管理 =====
+    let allNews = [];
+    let currentCategory = 'all';
+    let currentKeyword = '';
+
+    // ===== 分类映射 =====
+    const CATEGORY_MAP = {
+      'all': '全部',
+      'smart-glasses': '智能眼镜',
+      'ai-phone': 'AI手机',
+      'smart-watch': '智能手表',
+      'ai-pc': 'AI PC',
+      'other': '其他'
+    };
+
+    // ===== DOM 引用 =====
+    const newsGrid = document.getElementById('newsGrid');
+    const emptyState = document.getElementById('emptyState');
+    const categoryList = document.getElementById('categoryList');
+    const searchInput = document.getElementById('searchInput');
+
+    // ===== 5.1 新闻卡片渲染与展开交互 =====
+
+    /**
+     * 渲染新闻卡片列表
+     * @param {Array} newsList - 要渲染的新闻数组
+     */
+    function renderNewsCards(newsList) {
+      if (!newsList || newsList.length === 0) {
+        newsGrid.innerHTML = '';
+        showEmptyState('没有找到相关新闻');
+        return;
+      }
+
+      emptyState.hidden = true;
+      newsGrid.innerHTML = newsList.map(item => {
+        const categoryLabel = CATEGORY_MAP[item.category] || item.category;
+        return `
+          <article class="news-card" data-id="${item.id}">
+            <div class="news-card-header">
+              <h2 class="news-card-title">${item.title}</h2>
+              <div class="news-card-meta">
+                <span class="category-tag" data-category="${item.category}">${categoryLabel}</span>
+                <time datetime="${item.date}">${item.date}</time>
+                <span>${item.source}</span>
+              </div>
+            </div>
+            <div class="news-card-body">
+              <p class="news-card-summary">${item.summary}</p>
+              <div class="news-card-content" hidden>${item.content}</div>
+            </div>
+            <div class="news-card-footer">
+              <button class="expand-btn" aria-expanded="false">展开详情</button>
+              <a class="source-link" href="${item.url}" target="_blank" rel="noopener noreferrer">查看原文 </a>
+            </div>
+          </article>
+        `;
+      }).join('');
+
+      // 绑定展开/收起事件
+      newsGrid.querySelectorAll('.news-card').forEach(card => {
+        card.querySelector('.expand-btn').addEventListener('click', (e) => {
+          e.stopPropagation();
+          toggleCardExpand(card);
+        });
+      });
+    }
+
+    /**
+     * 切换卡片展开/收起状态
+     * @param {HTMLElement} cardElement - 卡片 DOM 元素
+     */
+    function toggleCardExpand(cardElement) {
+      const isExpanded = cardElement.classList.toggle('expanded');
+      const btn = cardElement.querySelector('.expand-btn');
+      const summary = cardElement.querySelector('.news-card-summary');
+      const content = cardElement.querySelector('.news-card-content');
+
+      btn.textContent = isExpanded ? '收起' : '展开详情';
+      btn.setAttribute('aria-expanded', isExpanded);
+
+      if (isExpanded) {
+        summary.textContent = content.textContent;
+      } else {
+        // 恢复摘要
+        const id = Number(cardElement.dataset.id);
+        const newsItem = allNews.find(n => n.id === id);
+        if (newsItem) {
+          summary.textContent = newsItem.summary;
+        }
+      }
+    }
+
+    /**
+     * 显示空状态提示
+     * @param {string} message - 提示文字
+     */
+    function showEmptyState(message) {
+      newsGrid.innerHTML = '';
+      emptyState.hidden = false;
+      emptyState.querySelector('.empty-state-text').textContent = message || '没有找到相关新闻';
+    }
+
+    // ===== 5.2 分类筛选交互 =====
+
+    /**
+     * 渲染分类筛选栏
+     */
+    function renderCategories() {
+      categoryList.innerHTML = Object.entries(CATEGORY_MAP).map(([key, label]) => `
+        <li>
+          <button class="category-btn${key === currentCategory ? ' active' : ''}"
+                  data-category="${key}">${label}</button>
+        </li>
+      `).join('');
+
+      // 绑定分类点击事件
+      categoryList.querySelectorAll('.category-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const category = btn.dataset.category;
+          updateActiveCategory(category);
+          applyFilters();
+        });
+      });
+    }
+
+    /**
+     * 更新分类高亮状态
+     * @param {string} categoryKey - 分类键名
+     */
+    function updateActiveCategory(categoryKey) {
+      currentCategory = categoryKey;
+      categoryList.querySelectorAll('.category-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.category === categoryKey);
+      });
+    }
+
+    // ===== 5.3 搜索功能交互 =====
+
+    /**
+     * 搜索新闻（按标题和摘要模糊匹配，不区分大小写）
+     * @param {Array} news - 新闻数组
+     * @param {string} keyword - 搜索关键词
+     * @returns {Array} 匹配的新闻数组
+     */
+    function searchNews(news, keyword) {
+      if (!keyword || !keyword.trim()) return news;
+      const kw = keyword.trim().toLowerCase();
+      return news.filter(item =>
+        item.title.toLowerCase().includes(kw) ||
+        item.summary.toLowerCase().includes(kw)
+      );
+    }
+
+    /**
+     * 防抖函数
+     * @param {Function} fn - 要防抖的函数
+     * @param {number} delay - 延迟毫秒数
+     * @returns {Function} 防抖后的函数
+     */
+    function debounce(fn, delay) {
+      let timer = null;
+      return function (...args) {
+        clearTimeout(timer);
+        timer = setTimeout(() => fn.apply(this, args), delay);
+      };
+    }
+
+    /**
+     * 综合应用分类筛选和搜索，重新渲染卡片
+     */
+    function applyFilters() {
+      let result = NewsData.sortByDate([...allNews]);
+      result = NewsData.filterByCategory(result, currentCategory);
+      result = searchNews(result, currentKeyword);
+      renderNewsCards(result);
+    }
+
+    // ===== 5.4 页面初始化流程 =====
+
+    /**
+     * 页面初始化
+     */
+    async function init() {
+      try {
+        allNews = await NewsData.loadNews();
+        const sorted = NewsData.sortByDate(allNews);
+        renderCategories();
+        renderNewsCards(sorted);
+
+        // 绑定搜索事件（带 300ms 防抖）
+        searchInput.addEventListener('input', debounce((e) => {
+          currentKeyword = e.target.value;
+          applyFilters();
+        }, 300));
+      } catch (err) {
+        showEmptyState('加载新闻失败，请稍后重试');
+        console.error('Failed to initialize:', err);
+      }
+    }
+
+    // 页面加载后初始化
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>

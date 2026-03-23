@@ -1,0 +1,102 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Google Gemini AI眼镜确认2026年发布，搭载Android XR系统",
+    "summary": "Google正式宣布将于2026年推出搭载Gemini AI的智能眼镜，支持语音搜索、实时翻译和上下文AI叠加显示。",
+    "content": "Google已确认其下一代AI驱动智能眼镜将于2026年亮相，搭载Android XR系统和Gemini AI。新款眼镜内置扬声器、麦克风和摄像头，用户可与Gemini进行语音交互并拍照。设备支持免屏幕辅助功能，包括实时翻译、图像识别和通知摘要。",
+    "category": "smart-glasses",
+    "date": "2026-03-15",
+    "source": "The Outpost AI",
+    "url": "https://theoutpost.ai/news-story/google-reveals-android-xr-smart-glasses-with-displays-arriving-in-2026-challenging-meta-and-apple-22252/"
+  },
+  {
+    "id": 2,
+    "title": "Warby Parker联手Google推出处方AI智能眼镜，2026年上市",
+    "summary": "Warby Parker将与Google合作推出搭载AI技术的智能眼镜，通过线下零售门店销售，解决处方适配和时尚设计两大痛点。",
+    "content": "据路透社报道，Warby Parker将于2026年发售搭载Google技术的AI智能眼镜。这一合作有望解决智能眼镜推广的关键障碍处方镜片适配和时尚外观设计，从而将AR技术带入主流消费市场。智能眼镜市场预计将从2025年的600万台增长到2026年的2000万台。",
+    "category": "smart-glasses",
+    "date": "2026-03-12",
+    "source": "Glass Almanac",
+    "url": "https://glassalmanac.com/6-ar-glasses-arriving-in-2026-reveal-new-ai-features-heres-why/"
+  },
+  {
+    "id": 3,
+    "title": "三星发布Galaxy S26系列：首款Agentic AI手机",
+    "summary": "三星在Galaxy Unpacked 2026上发布Galaxy S26系列，搭载全新Agentic AI，支持主动式、上下文感知的多应用工作流。",
+    "content": "2026年2月25日，三星在旧金山Galaxy Unpacked发布会上推出Galaxy S26系列。新机搭载骁龙8 Elite处理器和One UI 8.5系统，Galaxy AI升级为Agentic AI，可主动观察用户习惯并自动推荐操作。Galaxy S26 Ultra还首创隐私显示屏技术，限制侧面角度可视性。机身比上代薄0.3mm，重量仅214克。",
+    "category": "ai-phone",
+    "date": "2026-02-25",
+    "source": "Samsung Newsroom",
+    "url": "https://news.samsung.com/global/samsung-unveils-galaxy-s26-series-the-most-intuitive-galaxy-ai-phone-yet"
+  },
+  {
+    "id": 4,
+    "title": "AMD发布Ryzen AI 400系列，首次将Copilot+带入桌面平台",
+    "summary": "AMD在MWC 2026上发布Ryzen AI 400系列处理器，全球首款支持Copilot+的桌面芯片，NPU算力超40 TOPS。",
+    "content": "在2026年巴塞罗那MWC大会上，AMD发布了Ryzen AI 400系列处理器，搭载XDNA 2 NPU，算力超过40 TOPS，支持本地AI推理。AMD预计2026年AI PC销量将首次超过非AI PC，市场规模将以30%年复合增长率增长。",
+    "category": "ai-pc",
+    "date": "2026-03-01",
+    "source": "GSM Go Tech",
+    "url": "https://www.gsmgotech.com/2026/03/amd-unleashes-ai-pc-era-for-everyone.html"
+  },
+  {
+    "id": 5,
+    "title": "Apple Watch Series 11搭载watchOS 26，AI健康助手全面升级",
+    "summary": "Apple Watch Series 11通过watchOS 26引入Apple Intelligence，AI驱动的Workout Buddy和全新Liquid Glass界面带来重大升级。",
+    "content": "Apple Watch Series 11搭载S11芯片和5G连接，通过watchOS 26将Apple Intelligence引入手腕。新增AI驱动的Workout Buddy功能和Liquid Glass界面设计，血压监测功能首次加入。这是自2015年初代Apple Watch以来最大的一次飞跃。",
+    "category": "smart-watch",
+    "date": "2026-01-05",
+    "source": "Gadget Hacks",
+    "url": "https://watchos.gadgethacks.com/news/blood-pressure-monitoring-finally-arrives-why-the-apple-watch-series-11-changes-everything/"
+  },
+  {
+    "id": 6,
+    "title": "XREAL与华硕ROG合作推出240Hz游戏智能眼镜",
+    "summary": "XREAL在CES 2026上发布与华硕ROG联名的智能眼镜，搭载240Hz显示屏，为游戏玩家提供超流畅视觉体验。",
+    "content": "XREAL在CES 2026上揭晓了与华硕ROG的合作成果首款搭载240Hz刷新率显示屏的智能眼镜。随着显示技术接近足够好的透明度和亮度，设备端AI在计算机视觉和翻译任务上越来越快，智能眼镜正在从概念走向实用。",
+    "category": "smart-glasses",
+    "date": "2026-02-12",
+    "source": "IDC",
+    "url": "https://www.idc.com/resource-center/blog/the-future-of-smart-glasses-was-on-full-display-at-ces-2026/"
+  },
+  {
+    "id": 7,
+    "title": "联想CES 2026：Aura Edition将AI融入Windows PC每个角落",
+    "summary": "联想在CES 2026展示Aura Edition和Qira AI助手，将AI从独立应用转变为Windows系统中无处不在的环境智能层。",
+    "content": "联想的Aura Edition是其2026年AI战略的核心，将AI从独立聊天机器人转变为Windows系统中的环境智能层。同时展出AI Glasses概念硬件，支持触控和语音操作、免提通话，并可与手机或PC配对使用。",
+    "category": "ai-pc",
+    "date": "2026-01-08",
+    "source": "Windows News AI",
+    "url": "https://windowsnews.ai/article/lenovo-ces-2026-smarter-ai-for-all-transforms-windows-pcs-with-aura-edition-qira.395942"
+  },
+  {
+    "id": 8,
+    "title": "Apple智能眼镜曝光：定位iPhone配件，主打AI功能",
+    "summary": "彭博社报道Apple正在开发首款智能眼镜，定位为iPhone配件，聚焦AI功能而非AR显示，直接对标Meta Ray-Ban。",
+    "content": "据彭博社Mark Gurman报道，Apple正计划推出首款智能眼镜，将其定位为iPhone配件，重点放在AI功能而非增强现实显示上，直接与Meta Ray-Ban智能眼镜竞争。随着Meta、Apple和Google三大巨头纷纷押注AI眼镜，市场正迎来爆发式增长。",
+    "category": "smart-glasses",
+    "date": "2026-01-26",
+    "source": "Technobezz",
+    "url": "https://www.technobezz.com/news/apple-smart-glasses-everything-we-know-so-far"
+  },
+  {
+    "id": 9,
+    "title": "三星Galaxy Watch8亮相MWC 2026，AI生态全面扩展",
+    "summary": "三星在MWC 2026上展示Galaxy Watch8智能手表，作为Galaxy S26 AI生态系统的重要组成部分，深度整合Galaxy AI功能。",
+    "content": "三星在MWC 2026上展示了Galaxy Watch8，与Galaxy S26系列、Galaxy Buds4和Tab S11共同构成完整的AI生态系统。Galaxy Watch8深度整合Galaxy AI功能，支持智能健康监测和主动式通知管理。",
+    "category": "smart-watch",
+    "date": "2026-02-26",
+    "source": "TechBuzz AI",
+    "url": "https://www.techbuzz.ai/articles/samsung-unveils-galaxy-s26-with-agentic-ai-at-mwc-2026"
+  },
+  {
+    "id": 10,
+    "title": "CES 2026：AI硬件成为焦点，从眼镜到PC全面智能化",
+    "summary": "CES 2026展会上AI硬件成为绝对主角，从智能眼镜、AI PC到可穿戴设备，AI正在成为下一代人机交互界面。",
+    "content": "CES 2026明确传递了一个信号：AI的下一个界面就是你自己。从联想AI眼镜到各厂商Copilot+ PC，再到双屏笔记本和键盘PC等新形态设备，AI硬件正在全面渗透消费电子领域。新一代AI芯片提供的NPU算力为这些功能提供了底层支撑。",
+    "category": "other",
+    "date": "2026-01-08",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/ronschmelzer/2026/01/08/ces-2026-makes-one-thing-clear-ais-next-interface-is-you/"
+  }
+]

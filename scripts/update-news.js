@@ -1,6 +1,6 @@
 ﻿/**
  * 自动更新新闻数据脚本
- * 通过 Kimi API 搜索最新 AI 智能硬件新闻并更新 news.json
+ * 通过 Kimi API + 联网搜索获取最新 AI 智能硬件新闻并更新 news.json
  */
 
 const fs = require('fs');
@@ -10,6 +10,31 @@ const KIMI_API_URL = 'https://api.moonshot.cn/v1/chat/completions';
 const KIMI_API_KEY = process.env.KIMI_API_KEY;
 const NEWS_FILE = path.join(__dirname, '..', 'data', 'news.json');
 
+async function chat(messages, tools) {
+  const body = {
+    model: 'moonshot-v1-128k',
+    messages,
+    temperature: 0.3,
+    max_tokens: 8192
+  };
+  if (tools) body.tools = tools;
+
+  const resp = await fetch(KIMI_API_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${KIMI_API_KEY}`
+    },
+    body: JSON.stringify(body)
+  });
+
+  if (!resp.ok) {
+    const err = await resp.text();
+    throw new Error(`API 调用失败: ${resp.status} ${err}`);
+  }
+  return resp.json();
+}
+
 async function fetchLatestNews() {
   if (!KIMI_API_KEY) {
     console.error('未设置 KIMI_API_KEY 环境变量');
@@ -18,7 +43,10 @@ async function fetchLatestNews() {
 
   const today = new Date().toISOString().split('T')[0];
 
-  const prompt = `请搜索最新的AI智能硬件领域新闻和动态。
+
+  const systemMsg = '你是一个专业的AI智能硬件和嵌入式技术新闻编辑。请使用联网搜索功能查找真实的最新新闻，确保新闻内容、来源和URL都是真实可访问的。请严格按要求的JSON格式输出，不要添加任何markdown标记或额外文字。如果无法确认某条新闻的真实URL，url字段填空字符串。';
+
+  const prompt = `请通过联网搜索，查找最新的AI智能硬件领域真实新闻和动态。
 
 需要覆盖以下8个分类，每个分类至少1-2条，共返回15条最新新闻：
 
@@ -41,7 +69,7 @@ async function fetchLatestNews() {
     "category": "分类key",
     "date": "YYYY-MM-DD",
     "source": "来源名称",
-    "url": "原始新闻链接"
+    "url": "从搜索结果中获取的真实新闻链接"
   }
 ]
 
@@ -49,67 +77,77 @@ async function fetchLatestNews() {
 - category 只能是: smart-glasses, ai-phone, smart-watch, ai-pc, competitor, rtos, ai-ecosystem, other
 - 尽量覆盖所有8个分类
 - date 必须使用新闻的原始发布日期，不是搜索日期。今天是 ${today}，请搜索最近一周内的新闻
-- url 请使用联网搜索功能查找真实存在的新闻链接，如果找不到真实链接就填空字符串""，绝对不要编造URL
+- url 请使用联网搜索找到的真实链接，不要编造URL，找不到就填空字符串""
 - 只输出JSON数组，不要有其他文字`;
 
-  console.log('正在通过 Kimi API 获取最新新闻...');
+  // 启用 Kimi 内置联网搜索工具
+  const tools = [
+    {
+      type: 'builtin_function',
+      function: { name: '$web_search' }
+    }
+  ];
 
-  const resp = await fetch(KIMI_API_URL, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${KIMI_API_KEY}`
-    },
-    body: JSON.stringify({
-      model: 'moonshot-v1-32k',
-      messages: [
-        { role: 'system', content: '你是一个专业的AI智能硬件和嵌入式技术新闻编辑。请使用你的联网搜索能力查找真实新闻，确保新闻内容和来源真实可靠。请严格按要求的JSON格式输出，不要添加任何markdown标记或额外文字。如果无法确认某条新闻的真实URL，url字段填空字符串。' },
-        { role: 'user', content: prompt }
-      ],
-      temperature: 0.3,
-      max_tokens: 8192
-    })
-  });
+  const messages = [
+    { role: 'system', content: systemMsg },
+    { role: 'user', content: prompt }
+  ];
 
+  console.log('正在通过 Kimi API + 联网搜索获取最新新闻...');
 
-  if (!resp.ok) {
-    const err = await resp.text();
-    console.error('Kimi API 调用失败:', resp.status, err);
-    process.exit(1);
+  // 循环处理 tool_calls
+  let maxRounds = 10;
+  while (maxRounds-- > 0) {
+    const data = await chat(messages, tools);
+    const choice = data.choices[0];
+
+    if (choice.finish_reason === 'tool_calls' && choice.message.tool_calls) {
+      // 模型要求执行联网搜索
+      messages.push(choice.message);
+      for (const tc of choice.message.tool_calls) {
+        console.log(`执行联网搜索: ${tc.function.name}`);
+        // 对于 $web_search，原封不动返回 arguments
+        messages.push({
+          role: 'tool',
+          tool_call_id: tc.id,
+          name: tc.function.name,
+          content: tc.function.arguments
+        });
+      }
+      continue;
+    }
+
+    // 模型返回最终结果
+    let content = choice.message.content.trim();
+    content = content.replace(/^```json?\s*/i, '').replace(/\s*```$/i, '');
+
+    let news;
+    try {
+      news = JSON.parse(content);
+    } catch (e) {
+      console.error('JSON 解析失败:', e.message);
+      console.error('原始内容:', content.substring(0, 500));
+      process.exit(1);
+    }
+
+    if (!Array.isArray(news) || news.length === 0) {
+      console.error('返回数据不是有效的新闻数组');
+      process.exit(1);
+    }
+
+    news.forEach((item, i) => { item.id = i + 1; });
+
+    const output = { updatedAt: new Date().toISOString(), news };
+    fs.writeFileSync(NEWS_FILE, JSON.stringify(output, null, 2), 'utf8');
+    console.log(`成功更新 ${news.length} 条新闻到 ${NEWS_FILE}`);
+    return;
   }
 
-  const data = await resp.json();
-  let content = data.choices[0].message.content.trim();
-
-  // 清理可能的 markdown 代码块标记
-  content = content.replace(/^```json?\s*/i, '').replace(/\s*```$/i, '');
-
-  let news;
-  try {
-    news = JSON.parse(content);
-  } catch (e) {
-    console.error('JSON 解析失败:', e.message);
-    console.error('原始内容:', content.substring(0, 500));
-    process.exit(1);
-  }
-
-  if (!Array.isArray(news) || news.length === 0) {
-    console.error('返回数据不是有效的新闻数组');
-    process.exit(1);
-  }
-
-  // 重新编号
-  news.forEach((item, i) => { item.id = i + 1; });
-
-  const output = { updatedAt: new Date().toISOString(), news: news };
-  fs.writeFileSync(NEWS_FILE, JSON.stringify(output, null, 2), 'utf8');
-  console.log(`成功更新 ${news.length} 条新闻到 ${NEWS_FILE}`);
+  console.error('超过最大轮次，联网搜索未完成');
+  process.exit(1);
 }
 
 fetchLatestNews().catch(err => {
   console.error('更新失败:', err);
   process.exit(1);
 });
-
-
-

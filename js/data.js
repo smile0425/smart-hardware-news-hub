@@ -5,20 +5,24 @@
 
 /**
  * 加载新闻数据
- * 通过 fetch 从 data/news.json 加载新闻列表
- * @returns {Promise<Array>} 新闻数组
+ * 兼容两种格式：纯数组 或 {updatedAt, news} 对象
+ * @returns {Promise<{news: Array, updatedAt: string|null}>}
  */
 async function loadNews() {
   try {
     const response = await fetch('data/news.json');
     if (!response.ok) {
-      throw new Error(`加载新闻数据失败: ${response.status}`);
+      throw new Error('加载新闻数据失败: ' + response.status);
     }
-    const news = await response.json();
-    return news;
+    const data = await response.json();
+    // 兼容两种格式
+    if (Array.isArray(data)) {
+      return { news: data, updatedAt: null };
+    }
+    return { news: data.news || [], updatedAt: data.updatedAt || null };
   } catch (error) {
     console.error('加载新闻数据出错:', error);
-    return [];
+    return { news: [], updatedAt: null };
   }
 }
 
@@ -46,7 +50,6 @@ function filterByCategory(news, category) {
 
 /**
  * 按关键词搜索新闻（不区分大小写的模糊搜索）
- * 搜索范围：标题和摘要
  * @param {Array} news - 新闻数组
  * @param {string} keyword - 搜索关键词
  * @returns {Array} 匹配的新闻数组
@@ -63,7 +66,7 @@ function searchNews(news, keyword) {
   });
 }
 
-// 导出函数到全局作用域，供页面脚本调用
+// 导出函数到全局作用域
 window.NewsData = {
   loadNews,
   sortByDate,

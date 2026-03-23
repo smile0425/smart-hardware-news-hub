@@ -25,7 +25,7 @@ async function fetchLatestNews() {
   {
     "id": 1,
     "title": "新闻标题",
-    "summary": "50字以内的摘要",
+    "summary": "100字左右的关键摘要，需涵盖核心信息",
     "content": "200字以内的详细内容",
     "category": "分类key",
     "date": "YYYY-MM-DD",
@@ -98,3 +98,4 @@ fetchLatestNews().catch(err => {
   console.error('更新失败:', err);
   process.exit(1);
 });
+

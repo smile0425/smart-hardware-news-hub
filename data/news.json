@@ -1,8 +1,8 @@
-[
+﻿[
   {
     "id": 1,
     "title": "Google Glass Enterprise Edition 2发布",
-    "summary": "Google发布新一代企业版智能眼镜",
+    "summary": "Google推出第二代企业版智能眼镜，搭载高通Snapdragon XR1平台，提供增强现实功能，旨在提升企业场景下的工作效率和安全性，支持更复杂的AR应用。",
     "content": "Google宣布推出第二代企业版智能眼镜Google Glass Enterprise Edition 2，旨在提高工作效率和安全性。这款设备搭载了高通Snapdragon XR1平台，提供增强现实功能。",
     "category": "smart-glasses",
     "date": "2026-03-23",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "Apple Watch Series 8支持血糖监测",
-    "summary": "Apple Watch Series 8新增血糖监测功能",
+    "summary": "据彭博社报道，Apple Watch Series 8将首次支持非侵入式血糖监测功能，这是苹果在可穿戴健康领域的重大突破，有望帮助糖尿病患者更好地管理血糖水平。",
     "content": "据彭博社报道，Apple Watch Series 8将支持非侵入式血糖监测功能，这是苹果在可穿戴设备领域的又一重大突破。该功能有望帮助糖尿病患者更好地管理血糖水平。",
     "category": "smart-watch",
     "date": "2026-03-23",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "title": "Samsung Galaxy S23搭载AI处理器",
-    "summary": "三星Galaxy S23系列手机搭载AI处理器",
+    "summary": "三星Galaxy S23系列搭载最新Exynos AI处理器，采用5纳米工艺制造，AI性能大幅提升，支持更复杂的机器学习任务和端侧AI应用，带来更智能的手机体验。",
     "content": "三星宣布Galaxy S23系列手机将搭载最新的Exynos AI处理器，提供更强大的AI性能。该处理器采用5纳米工艺制造，支持更复杂的AI应用和机器学习任务。",
     "category": "ai-phone",
     "date": "2026-03-23",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "title": "Microsoft Surface Pro 9发布",
-    "summary": "微软发布Surface Pro 9，搭载AI功能",
+    "summary": "微软发布最新Surface Pro 9二合一设备，深度集成AI功能，包括语音识别、图像识别和智能办公助手，目标是打造更智能高效的移动办公体验。",
     "content": "微软发布了最新的Surface Pro 9二合一设备，该设备搭载了AI功能，包括语音识别和图像识别等。Surface Pro 9的目标是提供更智能的办公体验。",
     "category": "ai-pc",
     "date": "2026-03-23",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "title": "Fitbit Sense 2支持心电图监测",
-    "summary": "Fitbit Sense 2智能手表支持心电图监测",
+    "summary": "Fitbit最新智能手表Sense 2新增心电图监测功能，已获FDA批准，可帮助用户实时监测心脏健康状况，提供更精准的健康数据和异常预警。",
     "content": "Fitbit宣布其最新的智能手表Sense 2将支持心电图监测功能，帮助用户监测心脏健康。该功能已获得FDA批准，为用户提供更准确的健康数据。",
     "category": "smart-watch",
     "date": "2026-03-23",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "title": "Sony Xperia Pro-I升级AI摄影功能",
-    "summary": "索尼Xperia Pro-I手机升级AI摄影功能",
+    "summary": "索尼为Xperia Pro-I手机推送AI摄影升级，新增自动场景识别和智能HDR功能，利用AI算法优化拍摄参数，帮助用户轻松捕捉更高质量的照片和视频。",
     "content": "索尼宣布为其Xperia Pro-I手机升级AI摄影功能，包括自动场景识别和智能HDR。这些升级将帮助用户捕捉更高质量的照片和视频。",
     "category": "ai-phone",
     "date": "2026-03-23",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "title": "Amazon Echo Frames 2发布",
-    "summary": "亚马逊发布第二代Echo Frames智能眼镜",
+    "summary": "亚马逊发布第二代Echo Frames智能眼镜，内置Alexa语音助手，支持语音控制音乐播放、获取新闻天气等，外观更轻薄时尚，续航也有明显提升。",
     "content": "亚马逊发布了第二代Echo Frames智能眼镜，这款眼镜集成了Alexa语音助手，允许用户通过语音命令控制音乐播放、获取新闻和天气预报等。",
     "category": "smart-glasses",
     "date": "2026-03-23",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "title": "Lenovo ThinkPad X1 Fold Gen 2发布",
-    "summary": "联想发布第二代ThinkPad X1 Fold可折叠PC",
+    "summary": "联想发布第二代ThinkPad X1 Fold可折叠PC，采用最新柔性OLED显示屏和改进铰链设计，便携性和耐用性大幅提升，为移动办公提供全新形态选择。",
     "content": "联想发布了第二代ThinkPad X1 Fold可折叠PC，这款设备采用了最新的柔性OLED显示屏和改进的铰链设计，提供了更好的便携性和耐用性。",
     "category": "ai-pc",
     "date": "2026-03-23",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "title": "华为推出AI智能手表Watch GT 3 Pro",
-    "summary": "华为发布AI智能手表Watch GT 3 Pro",
+    "summary": "华为发布Watch GT 3 Pro智能手表，集成AI健康监测功能，支持心率、血氧、压力等多维度健康数据追踪，结合AI算法提供个性化健康建议。",
     "content": "华为推出了其最新的智能手表Watch GT 3 Pro，这款手表集成了AI健康监测功能，包括心率监测、血氧监测和压力监测等。",
     "category": "smart-watch",
     "date": "2026-03-23",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "title": "小米发布AIoT智能家居中心",
-    "summary": "小米推出AIoT智能家居中心",
+    "summary": "小米推出全新AIoT智能家居中心，可连接和控制各类智能家居设备，支持语音控制和场景自动化，打造一站式智能家居管理体验，生态兼容性进一步增强。",
     "content": "小米发布了一款AIoT智能家居中心，这款设备可以连接和控制各种智能家居设备，提供语音控制和自动化功能。",
     "category": "other",
     "date": "2026-03-23",

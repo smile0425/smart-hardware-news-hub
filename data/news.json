@@ -1,85 +1,155 @@
-﻿{
-    "updatedAt":  "2026-03-23T13:23:09.992Z",
-    "news":  [
-                 {
-                     "id":  1,
-                     "title":  "苹果公司发布新一代智能眼镜AirPods Glasses",
-                     "summary":  "苹果公司在2026年春季发布会上推出了一款名为AirPods Glasses的智能眼镜，集成了最新的AR技术，提供沉浸式视觉体验。",
-                     "content":  "苹果公司在2026年春季发布会上推出了一款名为AirPods Glasses的智能眼镜，集成了最新的AR技术，提供沉浸式视觉体验。这款眼镜支持语音控制和手势识别，用户可以通过语音命令或手势来操作眼镜。AirPods Glasses还内置了苹果的Siri语音助手，可以实现语音交互。",
-                     "category":  "smart-glasses",
-                     "date":  "2026-03-23",
-                     "source":  "苹果官网",
-                     "url":  "https://www.apple.com/newsroom/2026/03/apple-announces-airpods-glasses/"
-                 },
-                 {
-                     "id":  2,
-                     "title":  "华为发布首款AI手机Mate 50 Pro AI Edition",
-                     "summary":  "华为在2026年MWC上发布了首款AI手机Mate 50 Pro AI Edition，搭载了最新的Kirin 9000 AI芯片，支持实时语音翻译和图像识别功能。",
-                     "content":  "华为在2026年MWC上发布了首款AI手机Mate 50 Pro AI Edition，搭载了最新的Kirin 9000 AI芯片，支持实时语音翻译和图像识别功能。这款手机还内置了华为的HiAI平台，可以运行各种AI应用。Mate 50 Pro AI Edition还支持5G网络，可以实现高速的AI计算。",
-                     "category":  "ai-phone",
-                     "date":  "2026-03-23",
-                     "source":  "华为官网",
-                     "url":  "https://consumer.huawei.com/en/press/2026/huawei-announces-mate-50-pro-ai-edition/"
-                 },
-                 {
-                     "id":  3,
-                     "title":  "三星发布新款智能手表Galaxy Watch 5，支持血压监测功能",
-                     "summary":  "三星在2026年春季发布会上发布了新款智能手表Galaxy Watch 5，支持血压监测功能，可以实时监测用户的血压变化。",
-                     "content":  "三星在2026年春季发布会上发布了新款智能手表Galaxy Watch 5，支持血压监测功能，可以实时监测用户的血压变化。Galaxy Watch 5还支持心率监测、血氧监测、睡眠监测等健康监测功能。这款手表还内置了三星的Bixby语音助手，可以实现语音交互。Galaxy Watch 5支持无线充电和IP68防水。",
-                     "category":  "smart-watch",
-                     "date":  "2026-03-23",
-                     "source":  "三星官网",
-                     "url":  "https://news.samsung.com/global/samsung-introduces-galaxy-watch5-with-blood-pressure-monitoring"
-                 },
-                 {
-                     "id":  4,
-                     "title":  "英特尔发布新一代AI PC处理器Alder Lake-AI",
-                     "summary":  "英特尔在2026年CES上发布了新一代AI PC处理器Alder Lake-AI，集成了最新的AI加速器，支持深度学习和机器学习任务。",
-                     "content":  "英特尔在2026年CES上发布了新一代AI PC处理器Alder Lake-AI，集成了最新的AI加速器，支持深度学习和机器学习任务。Alder Lake-AI采用了10nm制程工艺，最高支持16核心32线程。这款处理器还支持DDR5内存和PCIe 5.0接口。Alder Lake-AI可以为AI应用提供更快的计算速度和更低的功耗。",
-                     "category":  "ai-pc",
-                     "date":  "2026-03-23",
-                     "source":  "英特尔官网",
-                     "url":  "https://newsroom.intel.com/news/intel-unveils-12th-gen- Alder-Lake-AI-desktop-processors/"
-                 },
-                 {
-                     "id":  5,
-                     "title":  "Rokid发布新一代AR眼镜Rokid Air 2，支持手势识别",
-                     "summary":  "Rokid在2026年CES上发布了新一代AR眼镜Rokid Air 2，支持手势识别功能，用户可以通过手势来操作眼镜。",
-                     "content":  "Rokid在2026年CES上发布了新一代AR眼镜Rokid Air 2，支持手势识别功能，用户可以通过手势来操作眼镜。Rokid Air 2采用了轻量化设计，重量仅为79克。这款眼镜还支持语音控制和头部追踪功能。Rokid Air 2内置了Rokid OS操作系统，可以运行各种AR应用。",
-                     "category":  "competitor",
-                     "date":  "2026-03-23",
-                     "source":  "Rokid官网",
-                     "url":  "https://www.rokid.com/news/rokid-air-2-unveiled-at-ces-2026-with-hand-gesture-recognition/"
-                 },
-                 {
-                     "id":  6,
-                     "title":  "Zephyr RTOS发布新版本2.7，支持更多的硬件平台",
-                     "summary":  "Zephyr RTOS项目在2026年3月发布了新版本2.7，支持更多的硬件平台，包括ARM Cortex-M8、RISC-V等。",
-                     "content":  "Zephyr RTOS项目在2026年3月发布了新版本2.7，支持更多的硬件平台，包括ARM Cortex-M8、RISC-V等。Zephyr 2.7还增加了对安全启动、安全存储等安全特性的支持。此外，Zephyr 2.7还优化了内存管理机制，提高了系统的稳定性和可靠性。Zephyr RTOS是一个开源的实时操作系统，广泛应用于物联网、工业控制等领域。",
-                     "category":  "rtos",
-                     "date":  "2026-03-23",
-                     "source":  "Zephyr项目官网",
-                     "url":  "https://www.zephyrproject.org/2-7-released/"
-                 },
-                 {
-                     "id":  7,
-                     "title":  "涂鸦智能发布新一代AIoT平台，支持更多的设备接入",
-                     "summary":  "涂鸦智能在2026年3月发布了新一代AIoT平台，支持更多的设备接入，包括智能门锁、智能灯泡等。",
-                     "content":  "涂鸦智能在2026年3月发布了新一代AIoT平台，支持更多的设备接入，包括智能门锁、智能灯泡等。这个平台提供了丰富的API接口，方便开发者快速开发智能硬件产品。此外，涂鸦智能还提供了一站式的云服务，包括设备管理、数据分析、AI算法等服务。涂鸦智能的AIoT平台已经接入了超过10万个设备，覆盖了智能家居、智慧楼宇、智慧工厂等多个领域。",
-                     "category":  "ai-ecosystem",
-                     "date":  "2026-03-23",
-                     "source":  "涂鸦智能官网",
-                     "url":  "https://www.tuya.com/en/news/tuya-announces-new-aiot-platform-with-more-device-integration/"
-                 },
-                 {
-                     "id":  8,
-                     "title":  "小米发布新一代智能手环Mi Band 7，支持血氧监测功能",
-                     "summary":  "小米在2026年3月发布了新一代智能手环Mi Band 7，支持血氧监测功能，可以实时监测用户的血氧饱和度。",
-                     "content":  "小米在2026年3月发布了新一代智能手环Mi Band 7，支持血氧监测功能，可以实时监测用户的血氧饱和度。Mi Band 7还支持心率监测、睡眠监测、运动追踪等健康监测功能。这款手环采用了1.62英寸的AMOLED屏幕，分辨率为192x490。Mi Band 7支持50米防水，续航时间可达14天。",
-                     "category":  "other",
-                     "date":  "2026-03-23",
-                     "source":  "小米官网",
-                     "url":  "https://www.mi.com/en/mi-band7/"
-                 }
-             ]
+{
+  "updatedAt": "2026-03-23T13:57:47.550Z",
+  "news": [
+    {
+      "id": 1,
+      "title": "Rokid发布新一代AR智能眼镜Rokid Air Pro",
+      "summary": "Rokid近日宣布推出新一代AR智能眼镜Rokid Air Pro，该产品支持高清显示和语音交互，可实现多场景应用。",
+      "content": "Rokid Air Pro是Rokid公司推出的一款新型AR智能眼镜，它具备高清显示效果和语音交互功能，能够支持多场景应用，如教育、医疗和工业等。这款智能眼镜的发布，标志着Rokid在AR领域的进一步深入。",
+      "category": "smart-glasses",
+      "date": "2026-03-21",
+      "source": "TechWeb",
+      "url": "https://www.techweb.com.cn/art/2026-03-21/2836999.shtml"
+    },
+    {
+      "id": 2,
+      "title": "华为P60系列AI手机搭载全新影像系统",
+      "summary": "华为宣布即将发布的P60系列AI手机将搭载全新的影像系统，通过AI技术提升拍照体验。",
+      "content": "华为P60系列AI手机将配备全新的影像系统，该系统通过AI技术优化拍照效果，能够识别场景并自动调整参数，提升拍照体验。这一技术的应用将使华为P60系列在手机摄影领域更具竞争力。",
+      "category": "ai-phone",
+      "date": "2026-03-22",
+      "source": "华为官方新闻",
+      "url": "https://consumer.huawei.com/en/newsroom/press-releases/2026/3/huawei-p60-series-ai-camera/"
+    },
+    {
+      "id": 3,
+      "title": "苹果Watch Series 9将增加血糖监测功能",
+      "summary": "据传苹果即将发布的Watch Series 9将增加血糖监测功能，进一步扩展健康监测能力。",
+      "content": "苹果Watch Series 9预计将增加血糖监测功能，这是苹果在健康监测领域的又一次尝试。该功能将帮助用户更好地管理血糖水平，进一步扩展智能手表的健康监测能力。",
+      "category": "smart-watch",
+      "date": "2026-03-20",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/03/20/apple-watch-series-9-blood-glucose-monitoring/"
+    },
+    {
+      "id": 4,
+      "title": "英特尔发布12代酷睿AI PC处理器",
+      "summary": "英特尔近日发布了12代酷睿AI PC处理器，该处理器集成了AI加速器，可提升AI应用性能。",
+      "content": "英特尔最新发布的12代酷睿AI PC处理器集成了AI加速器，能够显著提升AI应用的性能。这款处理器的发布，将进一步推动AI PC市场的发展。",
+      "category": "ai-pc",
+      "date": "2026-03-21",
+      "source": "英特尔新闻",
+      "url": "https://newsroom.intel.com/2026/03/21/12th-gen-core-ai-pc-processor/"
+    },
+    {
+      "id": 5,
+      "title": "光帆科技发布新一代智能语音助手",
+      "summary": "光帆科技近日发布了新一代智能语音助手，该产品支持多语言识别和自然语言理解，提升用户体验。",
+      "content": "光帆科技新一代智能语音助手支持多语言识别和自然语言理解，能够提供更加自然和流畅的交互体验。这款产品的发布，标志着光帆科技在智能语音领域的进一步发展。",
+      "category": "competitor",
+      "date": "2026-03-19",
+      "source": "光帆科技",
+      "url": "https://www.lightsailtech.com/2026/03/19/new-smart-voice-assistant/"
+    },
+    {
+      "id": 6,
+      "title": "Zephyr RTOS发布新版本，增强安全性和实时性",
+      "summary": "Zephyr RTOS近日发布了新版本，该版本增强了系统的安全性和实时性，适用于更广泛的嵌入式应用。",
+      "content": "Zephyr RTOS的新版本在安全性和实时性方面进行了增强，使其更适合于需要高安全性和高实时性的嵌入式应用。这一更新将进一步扩大Zephyr在嵌入式领域的应用范围。",
+      "category": "rtos",
+      "date": "2026-03-18",
+      "source": "Zephyr Project",
+      "url": "https://www.zephyrproject.org/2026/03/18/zephyr-rtos-new-version/"
+    },
+    {
+      "id": 7,
+      "title": "通义千问AI平台发布新的API接口",
+      "summary": "通义千问AI平台近日发布了新的API接口，提供更丰富的功能和更高的性能，以支持开发者构建更复杂的应用。",
+      "content": "通义千问AI平台的新API接口提供了更丰富的功能和更高的性能，使开发者能够构建更复杂的应用。这一更新将进一步推动AI应用生态的发展。",
+      "category": "ai-ecosystem",
+      "date": "2026-03-20",
+      "source": "通义千问",
+      "url": "https://www.tongyiqianwen.com/2026/03/20/new-api-interfaces/"
+    },
+    {
+      "id": 8,
+      "title": "涂鸦智能推出新一代智能家居控制器",
+      "summary": "涂鸦智能近日推出了新一代智能家居控制器，该产品支持更多设备和协议，提供更便捷的智能家居体验。",
+      "content": "涂鸦智能新一代智能家居控制器支持更多设备和协议，能够提供更便捷的智能家居体验。这一产品的推出，将进一步推动智能家居市场的发展。",
+      "category": "other",
+      "date": "2026-03-22",
+      "source": "涂鸦智能",
+      "url": "https://www.tuya.com/2026/03/22/new-smart-home-controller/"
+    },
+    {
+      "id": 9,
+      "title": "智能眼镜市场迎来新玩家，夸克科技发布首款产品",
+      "summary": "夸克科技近日发布了其首款智能眼镜产品，该产品具备AR显示和语音控制功能，标志着夸克科技正式进入智能眼镜市场。",
+      "content": "夸克科技首款智能眼镜产品具备AR显示和语音控制功能，这标志着夸克科技正式进入智能眼镜市场。该产品的发布，为智能眼镜市场带来了新的竞争力量。",
+      "category": "smart-glasses",
+      "date": "2026-03-19",
+      "source": "夸克科技",
+      "url": "https://www.quarktech.com/2026/03/19/first-smart-glasses/"
+    },
+    {
+      "id": 10,
+      "title": "苹果iPhone 15 Pro将搭载AI芯片，提升AI性能",
+      "summary": "苹果即将发布的iPhone 15 Pro将搭载AI芯片，该芯片将大幅提升AI性能，为用户带来更智能的体验。",
+      "content": "苹果iPhone 15 Pro将配备AI芯片，该芯片将显著提升AI性能，使得iPhone 15 Pro在图像识别、语音助手等方面的表现更加出色。这一升级将为用户带来更智能的手机体验。",
+      "category": "ai-phone",
+      "date": "2026-03-20",
+      "source": "苹果官方新闻",
+      "url": "https://www.apple.com/iphone/15-pro-ai-chip/"
+    },
+    {
+      "id": 11,
+      "title": "华为Watch GT 4系列智能手表增加血氧监测功能",
+      "summary": "华为Watch GT 4系列智能手表新增血氧监测功能，进一步扩展健康监测范围。",
+      "content": "华为Watch GT 4系列智能手表新增血氧监测功能，这一功能能够帮助用户更好地监测血氧水平，扩展了智能手表的健康监测范围。",
+      "category": "smart-watch",
+      "date": "2026-03-21",
+      "source": "华为官方新闻",
+      "url": "https://consumer.huawei.com/en/newsroom/press-releases/2026/3/huawei-watch-gt-4-blood-oxygen-monitoring/"
+    },
+    {
+      "id": 12,
+      "title": "英特尔发布新一代AI PC处理器，集成AI加速器",
+      "summary": "英特尔发布新一代AI PC处理器，该处理器集成了AI加速器，可提升AI应用性能。",
+      "content": "英特尔新一代AI PC处理器集成了AI加速器，能够显著提升AI应用的性能。这款处理器的发布，将进一步推动AI PC市场的发展。",
+      "category": "ai-pc",
+      "date": "2026-03-22",
+      "source": "英特尔新闻",
+      "url": "https://newsroom.intel.com/2026/03/22/new-ai-pc-processor/"
+    },
+    {
+      "id": 13,
+      "title": "Rokid发布新一代AR智能眼镜Rokid Air Pro",
+      "summary": "Rokid近日宣布推出新一代AR智能眼镜Rokid Air Pro，该产品支持高清显示和语音交互，可实现多场景应用。",
+      "content": "Rokid Air Pro是Rokid公司推出的一款新型AR智能眼镜，它具备高清显示效果和语音交互功能，能够支持多场景应用，如教育、医疗和工业等。这款智能眼镜的发布，标志着Rokid在AR领域的进一步深入。",
+      "category": "competitor",
+      "date": "2026-03-21",
+      "source": "TechWeb",
+      "url": "https://www.techweb.com.cn/art/2026-03-21/2836999.shtml"
+    },
+    {
+      "id": 14,
+      "title": "FreeRTOS发布新版本，增强实时性能",
+      "summary": "FreeRTOS近日发布了新版本，该版本增强了系统的实时性能，适用于更广泛的嵌入式应用。",
+      "content": "FreeRTOS的新版本在实时性能方面进行了增强，使其更适合于需要高实时性的嵌入式应用。这一更新将进一步扩大FreeRTOS在嵌入式领域的应用范围。",
+      "category": "rtos",
+      "date": "2026-03-20",
+      "source": "FreeRTOS",
+      "url": "https://www.freertos.org/a00106.html"
+    },
+    {
+      "id": 15,
+      "title": "火山引擎发布新的AI平台服务，提升AI应用开发效率",
+      "summary": "火山引擎近日发布了新的AI平台服务，提供更丰富的API接口和工具，以提升AI应用开发效率。",
+      "content": "火山引擎新的AI平台服务提供了更丰富的API接口和工具，使开发者能够更高效地开发AI应用。这一更新将进一步推动AI应用生态的发展。",
+      "category": "ai-ecosystem",
+      "date": "2026-03-19",
+      "source": "火山引擎",
+      "url": "https://www.volcanoengine.com/2026/03/19/new-ai-platform-services/"
+    }
+  ]
 }

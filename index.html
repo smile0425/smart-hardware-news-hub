@@ -22,6 +22,14 @@
           placeholder="搜索新闻标题或内容..."
           aria-label="搜索新闻"
         >
+        <button id="aiSearchBtn" class="ai-search-btn" title="AI智能搜索"> AI搜索</button>
+      </div>
+      <div class="ai-answer-box" id="aiAnswerBox" hidden>
+        <div class="ai-answer-header">
+          <span> Kimi AI 回答</span>
+          <button class="ai-close-btn" id="aiCloseBtn"></button>
+        </div>
+        <div class="ai-answer-content" id="aiAnswerContent"></div>
       </div>
     </section>
 
@@ -232,6 +240,51 @@
       renderNewsCards(result);
     }
 
+    
+    // ===== AI 搜索功能 =====
+    const aiSearchBtn = document.getElementById('aiSearchBtn');
+    const aiAnswerBox = document.getElementById('aiAnswerBox');
+    const aiAnswerContent = document.getElementById('aiAnswerContent');
+    const aiCloseBtn = document.getElementById('aiCloseBtn');
+
+    async function aiSearch(query) {
+      if (!query || !query.trim()) return;
+      aiAnswerBox.hidden = false;
+      aiAnswerContent.textContent = '正在思考中...';
+      aiSearchBtn.disabled = true;
+      aiSearchBtn.textContent = '⏳ 搜索中';
+
+      try {
+        const resp = await fetch('https://api.moonshot.cn/v1/chat/completions', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer sk-jlxcyz7kGRwjiGqphEGpCdLpDeeEzEDzEPfnD2sHG7hjieWJ'
+          },
+          body: JSON.stringify({
+            model: 'moonshot-v1-8k',
+            messages: [
+              { role: 'system', content: '你是AI智能硬件新闻中心的搜索助手。用户会输入关于智能硬件的问题。请用简洁专业的中文回答，控制在300字以内。' },
+              { role: 'user', content: query.trim() }
+            ],
+            temperature: 0.7,
+            max_tokens: 1024
+          })
+        });
+        const data = await resp.json();
+        if (data.error) {
+          aiAnswerContent.textContent = ' ' + (data.error.message || 'AI服务暂时不可用');
+        } else {
+          aiAnswerContent.textContent = data.choices[0].message.content;
+        }
+      } catch (err) {
+        aiAnswerContent.textContent = ' 网络错误，请稍后重试';
+      } finally {
+        aiSearchBtn.disabled = false;
+        aiSearchBtn.textContent = ' AI搜索';
+      }
+    }
+
     // ===== 5.4 页面初始化流程 =====
 
     /**
@@ -249,6 +302,22 @@
           currentKeyword = e.target.value;
           applyFilters();
         }, 300));
+
+        // AI 搜索按钮事件
+        aiSearchBtn.addEventListener('click', () => {
+          aiSearch(searchInput.value);
+        });
+        // 回车触发 AI 搜索
+        searchInput.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter') {
+            e.preventDefault();
+            aiSearch(searchInput.value);
+          }
+        });
+        // 关闭 AI 回答
+        aiCloseBtn.addEventListener('click', () => {
+          aiAnswerBox.hidden = true;
+        });
       } catch (err) {
         showEmptyState('加载新闻失败，请稍后重试');
         console.error('Failed to initialize:', err);

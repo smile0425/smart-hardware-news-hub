@@ -1,0 +1,13 @@
+{
+  "name": "smart-hardware-news-hub",
+  "version": "1.0.0",
+  "description": "AI智能硬件新闻中心",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

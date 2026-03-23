@@ -46,7 +46,7 @@ async function fetchLatestNews() {
 
   const systemMsg = '你是一个专业的AI智能硬件和嵌入式技术新闻编辑。请使用联网搜索功能查找真实的最新新闻，确保新闻内容、来源和URL都是真实可访问的。请严格按要求的JSON格式输出，不要添加任何markdown标记或额外文字。如果无法确认某条新闻的真实URL，url字段填空字符串。';
 
-  const prompt = `请通过联网搜索，查找最新的AI智能硬件领域真实新闻和动态。
+  const prompt = `请通过联网搜索，查找最新的AI智能硬件领域真实新闻和动态。搜索范围应包括但不限于：科技新闻网站（36kr、极客公园、The Verge、TechCrunch等）、Reddit（r/hardware、r/embedded、r/RTOS等）、Twitter/X上的科技博主动态、小红书上的智能硬件评测、GitHub上的开源项目动态、以及各厂商官方新闻页面。
 
 需要覆盖以下8个分类，每个分类至少1-2条，共返回15条最新新闻：
 
@@ -151,3 +151,4 @@ fetchLatestNews().catch(err => {
   console.error('更新失败:', err);
   process.exit(1);
 });
+

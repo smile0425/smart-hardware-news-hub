@@ -5,255 +5,176 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>智能硬件新闻中心</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <header class="site-header">
-    <h1 class="site-title">智能硬件新闻中心</h1>
-    <p class="site-subtitle">汇聚最新智能硬件资讯</p>
+    <div class="header-content">
+      <div class="header-left">
+        <h1 class="site-title">⚡ 智能硬件新闻中心</h1>
+        <p class="site-subtitle">汇聚最新智能硬件资讯</p>
+      </div>
+      <div class="sync-time" id="syncTime"></div>
+    </div>
   </header>
 
   <main class="main-content">
-    <section class="search-section" aria-label="搜索">
+    <section class="search-section">
       <div class="search-box">
-        <input
-          type="search"
-          id="searchInput"
-          class="search-input"
-          placeholder="搜索新闻标题或内容..."
-          aria-label="搜索新闻"
-        >
-        <button id="aiSearchBtn" class="ai-search-btn" title="AI智能搜索"> AI搜索</button>
+        <span class="search-icon">🔍</span>
+        <input type="search" id="searchInput" class="search-input"
+          placeholder="搜索新闻标题或内容..." aria-label="搜索新闻">
+        <button id="aiSearchBtn" class="ai-search-btn">🤖 AI搜索</button>
       </div>
       <div class="ai-answer-box" id="aiAnswerBox" hidden>
         <div class="ai-answer-header">
-          <span> Kimi AI 回答</span>
-          <button class="ai-close-btn" id="aiCloseBtn"></button>
+          <span>🤖 Kimi AI 回答</span>
+          <button class="ai-close-btn" id="aiCloseBtn">✕</button>
         </div>
         <div class="ai-answer-content" id="aiAnswerContent"></div>
       </div>
     </section>
 
-    <nav class="category-filter" aria-label="分类筛选">
-      <ul class="category-list" id="categoryList">
-        <li>
-          <button class="category-btn active" data-category="all">全部</button>
-        </li>
-      </ul>
+    <nav class="category-filter">
+      <ul class="category-list" id="categoryList"></ul>
     </nav>
 
-    <section class="news-section" aria-label="新闻列表">
-      <div class="news-grid" id="newsGrid">
-        <!-- 新闻卡片由 JS 动态渲染 -->
-      </div>
-
+    <section class="news-section">
+      <div class="news-list" id="newsGrid"></div>
       <div class="empty-state" id="emptyState" hidden>
-        <div class="empty-state-icon" aria-hidden="true">📭</div>
-        <p class="empty-state-text">没有找到相关新闻</p>
-        <p class="empty-state-hint">试试其他关键词或分类</p>
+        <div class="empty-icon">📭</div>
+        <p class="empty-text">没有找到相关新闻</p>
+        <p class="empty-hint">试试其他关键词或分类</p>
       </div>
     </section>
   </main>
 
+  <footer class="site-footer">
+    <p>AI智能硬件新闻中心 · 数据每日自动更新</p>
+  </footer>
+
   <script src="js/data.js"></script>
-
   <script>
-    /**
-     * 页面交互模块 - 智能硬件新闻中心
-     * 负责卡片渲染、分类筛选、搜索和页面初始化
-     */
-
-    // ===== 状态管理 =====
+    // ===== 状态 =====
     let allNews = [];
     let currentCategory = 'all';
     let currentKeyword = '';
 
-    // ===== 分类映射 =====
     const CATEGORY_MAP = {
-      'all': '全部',
-      'smart-glasses': '智能眼镜',
-      'ai-phone': 'AI手机',
-      'smart-watch': '智能手表',
-      'ai-pc': 'AI PC',
-      'other': '其他'
+      'all': '全部', 'smart-glasses': '智能眼镜', 'ai-phone': 'AI手机',
+      'smart-watch': '智能手表', 'ai-pc': 'AI PC', 'other': '其他'
+    };
+    const CATEGORY_ICONS = {
+      'all': '📰', 'smart-glasses': '👓', 'ai-phone': '📱',
+      'smart-watch': '⌚', 'ai-pc': '💻', 'other': '🔮'
     };
 
-    // ===== DOM 引用 =====
     const newsGrid = document.getElementById('newsGrid');
     const emptyState = document.getElementById('emptyState');
     const categoryList = document.getElementById('categoryList');
     const searchInput = document.getElementById('searchInput');
-
-    // ===== 5.1 新闻卡片渲染与展开交互 =====
-
-    /**
-     * 渲染新闻卡片列表
-     * @param {Array} newsList - 要渲染的新闻数组
-     */
-    function renderNewsCards(newsList) {
-      if (!newsList || newsList.length === 0) {
-        newsGrid.innerHTML = '';
-        showEmptyState('没有找到相关新闻');
-        return;
-      }
-
-      emptyState.hidden = true;
-      newsGrid.innerHTML = newsList.map(item => {
-        const categoryLabel = CATEGORY_MAP[item.category] || item.category;
-        return `
-          <article class="news-card" data-id="${item.id}">
-            <div class="news-card-header">
-              <h2 class="news-card-title">${item.title}</h2>
-              <div class="news-card-meta">
-                <span class="category-tag" data-category="${item.category}">${categoryLabel}</span>
-                <time datetime="${item.date}">${item.date}</time>
-                <span>${item.source}</span>
-              </div>
-            </div>
-            <div class="news-card-body">
-              <p class="news-card-summary">${item.summary}</p>
-              <div class="news-card-content" hidden>${item.content}</div>
-            </div>
-            <div class="news-card-footer">
-              <button class="expand-btn" aria-expanded="false">展开详情</button>
-              <a class="source-link" href="${item.url}" target="_blank" rel="noopener noreferrer">查看原文 </a>
-            </div>
-          </article>
-        `;
-      }).join('');
-
-      // 绑定展开/收起事件
-      newsGrid.querySelectorAll('.news-card').forEach(card => {
-        card.querySelector('.expand-btn').addEventListener('click', (e) => {
-          e.stopPropagation();
-          toggleCardExpand(card);
-        });
-      });
-    }
-
-    /**
-     * 切换卡片展开/收起状态
-     * @param {HTMLElement} cardElement - 卡片 DOM 元素
-     */
-    function toggleCardExpand(cardElement) {
-      const isExpanded = cardElement.classList.toggle('expanded');
-      const btn = cardElement.querySelector('.expand-btn');
-      const summary = cardElement.querySelector('.news-card-summary');
-      const content = cardElement.querySelector('.news-card-content');
-
-      btn.textContent = isExpanded ? '收起' : '展开详情';
-      btn.setAttribute('aria-expanded', isExpanded);
-
-      if (isExpanded) {
-        summary.textContent = content.textContent;
-      } else {
-        // 恢复摘要
-        const id = Number(cardElement.dataset.id);
-        const newsItem = allNews.find(n => n.id === id);
-        if (newsItem) {
-          summary.textContent = newsItem.summary;
-        }
-      }
-    }
-
-    /**
-     * 显示空状态提示
-     * @param {string} message - 提示文字
-     */
-    function showEmptyState(message) {
-      newsGrid.innerHTML = '';
-      emptyState.hidden = false;
-      emptyState.querySelector('.empty-state-text').textContent = message || '没有找到相关新闻';
-    }
-
-    // ===== 5.2 分类筛选交互 =====
-
-    /**
-     * 渲染分类筛选栏
-     */
-    function renderCategories() {
-      categoryList.innerHTML = Object.entries(CATEGORY_MAP).map(([key, label]) => `
-        <li>
-          <button class="category-btn${key === currentCategory ? ' active' : ''}"
-                  data-category="${key}">${label}</button>
-        </li>
-      `).join('');
-
-      // 绑定分类点击事件
-      categoryList.querySelectorAll('.category-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-          const category = btn.dataset.category;
-          updateActiveCategory(category);
-          applyFilters();
-        });
-      });
-    }
-
-    /**
-     * 更新分类高亮状态
-     * @param {string} categoryKey - 分类键名
-     */
-    function updateActiveCategory(categoryKey) {
-      currentCategory = categoryKey;
-      categoryList.querySelectorAll('.category-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.category === categoryKey);
-      });
-    }
-
-    // ===== 5.3 搜索功能交互 =====
-
-    /**
-     * 搜索新闻（按标题和摘要模糊匹配，不区分大小写）
-     * @param {Array} news - 新闻数组
-     * @param {string} keyword - 搜索关键词
-     * @returns {Array} 匹配的新闻数组
-     */
-    function searchNews(news, keyword) {
-      if (!keyword || !keyword.trim()) return news;
-      const kw = keyword.trim().toLowerCase();
-      return news.filter(item =>
-        item.title.toLowerCase().includes(kw) ||
-        item.summary.toLowerCase().includes(kw)
-      );
-    }
-
-    /**
-     * 防抖函数
-     * @param {Function} fn - 要防抖的函数
-     * @param {number} delay - 延迟毫秒数
-     * @returns {Function} 防抖后的函数
-     */
-    function debounce(fn, delay) {
-      let timer = null;
-      return function (...args) {
-        clearTimeout(timer);
-        timer = setTimeout(() => fn.apply(this, args), delay);
-      };
-    }
-
-    /**
-     * 综合应用分类筛选和搜索，重新渲染卡片
-     */
-    function applyFilters() {
-      let result = NewsData.sortByDate([...allNews]);
-      result = NewsData.filterByCategory(result, currentCategory);
-      result = searchNews(result, currentKeyword);
-      renderNewsCards(result);
-    }
-
-    
-    // ===== AI 搜索功能 =====
     const aiSearchBtn = document.getElementById('aiSearchBtn');
     const aiAnswerBox = document.getElementById('aiAnswerBox');
     const aiAnswerContent = document.getElementById('aiAnswerContent');
     const aiCloseBtn = document.getElementById('aiCloseBtn');
 
+    // ===== 渲染新闻卡片 =====
+    function renderNewsCards(list) {
+      if (!list || list.length === 0) {
+        newsGrid.innerHTML = '';
+        emptyState.hidden = false;
+        return;
+      }
+      emptyState.hidden = true;
+      newsGrid.innerHTML = list.map(item => {
+        const label = CATEGORY_MAP[item.category] || item.category;
+        const icon = CATEGORY_ICONS[item.category] || '📰';
+        return `
+          <article class="news-card" data-id="${item.id}">
+            <div class="card-main">
+              <div class="card-category">
+                <span class="tag" data-category="${item.category}">${icon} ${label}</span>
+                <time>${item.date}</time>
+              </div>
+              <h2 class="card-title">${item.title}</h2>
+              <p class="card-summary">${item.summary}</p>
+              <div class="card-content" hidden>${item.content}</div>
+            </div>
+            <div class="card-footer">
+              <button class="expand-btn" aria-expanded="false">展开详情 ▾</button>
+              <div class="card-meta">
+                <span class="card-source">${item.source}</span>
+                ${item.url ? `<a href="${item.url}" target="_blank" rel="noopener" class="source-link">查看原文 ↗</a>` : ''}
+              </div>
+            </div>
+          </article>`;
+      }).join('');
+
+      newsGrid.querySelectorAll('.news-card').forEach(card => {
+        card.querySelector('.expand-btn').addEventListener('click', e => {
+          e.stopPropagation();
+          toggleExpand(card);
+        });
+      });
+    }
+
+    function toggleExpand(card) {
+      const expanded = card.classList.toggle('expanded');
+      const btn = card.querySelector('.expand-btn');
+      const summary = card.querySelector('.card-summary');
+      const content = card.querySelector('.card-content');
+      btn.textContent = expanded ? '收起 ▴' : '展开详情 ▾';
+      btn.setAttribute('aria-expanded', expanded);
+      if (expanded) {
+        summary.textContent = content.textContent;
+      } else {
+        const id = Number(card.dataset.id);
+        const item = allNews.find(n => n.id === id);
+        if (item) summary.textContent = item.summary;
+      }
+    }
+
+    // ===== 分类 =====
+    function renderCategories() {
+      categoryList.innerHTML = Object.entries(CATEGORY_MAP).map(([key, label]) => `
+        <li><button class="cat-btn${key === currentCategory ? ' active' : ''}"
+          data-category="${key}">${CATEGORY_ICONS[key] || ''} ${label}</button></li>
+      `).join('');
+      categoryList.querySelectorAll('.cat-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          currentCategory = btn.dataset.category;
+          categoryList.querySelectorAll('.cat-btn').forEach(b => b.classList.toggle('active', b === btn));
+          applyFilters();
+        });
+      });
+    }
+
+    // ===== 搜索 =====
+    function searchNews(news, kw) {
+      if (!kw || !kw.trim()) return news;
+      const q = kw.trim().toLowerCase();
+      return news.filter(n => n.title.toLowerCase().includes(q) || n.summary.toLowerCase().includes(q));
+    }
+
+    function debounce(fn, ms) {
+      let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); };
+    }
+
+    function applyFilters() {
+      let r = NewsData.sortByDate([...allNews]);
+      r = NewsData.filterByCategory(r, currentCategory);
+      r = searchNews(r, currentKeyword);
+      renderNewsCards(r);
+    }
+
+    // ===== AI 搜索 =====
     async function aiSearch(query) {
       if (!query || !query.trim()) return;
       aiAnswerBox.hidden = false;
       aiAnswerContent.textContent = '正在思考中...';
       aiSearchBtn.disabled = true;
       aiSearchBtn.textContent = '⏳ 搜索中';
-
       try {
         const resp = await fetch('https://api.moonshot.cn/v1/chat/completions', {
           method: 'POST',
@@ -264,67 +185,52 @@
           body: JSON.stringify({
             model: 'moonshot-v1-8k',
             messages: [
-              { role: 'system', content: '你是AI智能硬件新闻中心的搜索助手。用户会输入关于智能硬件的问题。请用简洁专业的中文回答，控制在300字以内。' },
+              { role: 'system', content: '你是AI智能硬件新闻中心的搜索助手。请用简洁专业的中文回答，控制在300字以内。' },
               { role: 'user', content: query.trim() }
             ],
-            temperature: 0.7,
-            max_tokens: 1024
+            temperature: 0.7, max_tokens: 1024
           })
         });
         const data = await resp.json();
-        if (data.error) {
-          aiAnswerContent.textContent = ' ' + (data.error.message || 'AI服务暂时不可用');
-        } else {
-          aiAnswerContent.textContent = data.choices[0].message.content;
-        }
-      } catch (err) {
-        aiAnswerContent.textContent = ' 网络错误，请稍后重试';
+        aiAnswerContent.textContent = data.error
+          ? '❌ ' + (data.error.message || 'AI服务暂时不可用')
+          : data.choices[0].message.content;
+      } catch (e) {
+        aiAnswerContent.textContent = '❌ 网络错误，请稍后重试';
       } finally {
         aiSearchBtn.disabled = false;
-        aiSearchBtn.textContent = ' AI搜索';
+        aiSearchBtn.textContent = '🤖 AI搜索';
       }
     }
 
-    // ===== 5.4 页面初始化流程 =====
-
-    /**
-     * 页面初始化
-     */
+    // ===== 初始化 =====
     async function init() {
       try {
-        allNews = await NewsData.loadNews();
+        const result = await NewsData.loadNews();
+        allNews = result.news;
         const sorted = NewsData.sortByDate(allNews);
         renderCategories();
         renderNewsCards(sorted);
 
-        // 绑定搜索事件（带 300ms 防抖）
-        searchInput.addEventListener('input', debounce((e) => {
-          currentKeyword = e.target.value;
-          applyFilters();
-        }, 300));
+        // 同步时间
+        const syncEl = document.getElementById('syncTime');
+        if (result.updatedAt) {
+          syncEl.textContent = '🔄 ' + new Date(result.updatedAt).toLocaleString('zh-CN', {timeZone:'Asia/Shanghai'});
+        } else if (sorted.length > 0) {
+          syncEl.textContent = '🔄 ' + sorted[0].date;
+        }
 
-        // AI 搜索按钮事件
-        aiSearchBtn.addEventListener('click', () => {
-          aiSearch(searchInput.value);
-        });
-        // 回车触发 AI 搜索
-        searchInput.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter') {
-            e.preventDefault();
-            aiSearch(searchInput.value);
-          }
-        });
-        // 关闭 AI 回答
-        aiCloseBtn.addEventListener('click', () => {
-          aiAnswerBox.hidden = true;
-        });
+        searchInput.addEventListener('input', debounce(e => { currentKeyword = e.target.value; applyFilters(); }, 300));
+        aiSearchBtn.addEventListener('click', () => aiSearch(searchInput.value));
+        searchInput.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); aiSearch(searchInput.value); } });
+        aiCloseBtn.addEventListener('click', () => { aiAnswerBox.hidden = true; });
       } catch (err) {
-        showEmptyState('加载新闻失败，请稍后重试');
-        console.error('Failed to initialize:', err);
+        emptyState.hidden = false;
+        emptyState.querySelector('.empty-text').textContent = '加载新闻失败，请稍后重试';
+        console.error(err);
       }
     }
 
-    // 页面加载后初始化
     document.addEventListener('DOMContentLoaded', init);
   </script>
 </body>

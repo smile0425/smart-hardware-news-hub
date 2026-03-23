@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 自动更新新闻数据脚本
  * 通过 Kimi API 搜索最新 AI 智能硬件新闻并更新 news.json
  */
@@ -89,7 +89,8 @@ async function fetchLatestNews() {
   // 重新编号
   news.forEach((item, i) => { item.id = i + 1; });
 
-  fs.writeFileSync(NEWS_FILE, JSON.stringify(news, null, 2), 'utf8');
+  const output = { updatedAt: new Date().toISOString(), news: news };
+  fs.writeFileSync(NEWS_FILE, JSON.stringify(output, null, 2), 'utf8');
   console.log(`成功更新 ${news.length} 条新闻到 ${NEWS_FILE}`);
 }
 

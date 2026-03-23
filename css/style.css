@@ -284,7 +284,12 @@ body {
 
 /* 展开状态 */
 .news-card.expanded { box-shadow: 0 8px 30px rgba(0,0,0,0.12); }
-.news-card.expanded .card-summary { color: #1f2937; }
+.news-card.expanded .card-summary {
+  color: #1f2937;
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
+}
 
 /* ===== 空状态 ===== */
 .empty-state {

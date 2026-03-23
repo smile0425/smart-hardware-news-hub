@@ -48,8 +48,8 @@ async function fetchLatestNews() {
 要求：
 - category 只能是: smart-glasses, ai-phone, smart-watch, ai-pc, competitor, rtos, ai-ecosystem, other
 - 尽量覆盖所有8个分类
-- date 使用最近的真实日期，今天是 ${today}
-- url 必须是真实可访问的新闻链接
+- date 必须使用新闻的原始发布日期，不是搜索日期。今天是 ${today}，请搜索最近一周内的新闻
+- url 请使用联网搜索功能查找真实存在的新闻链接，如果找不到真实链接就填空字符串""，绝对不要编造URL
 - 只输出JSON数组，不要有其他文字`;
 
   console.log('正在通过 Kimi API 获取最新新闻...');
@@ -63,7 +63,7 @@ async function fetchLatestNews() {
     body: JSON.stringify({
       model: 'moonshot-v1-32k',
       messages: [
-        { role: 'system', content: '你是一个专业的AI智能硬件和嵌入式技术新闻编辑。请严格按要求的JSON格式输出，不要添加任何markdown标记或额外文字。' },
+        { role: 'system', content: '你是一个专业的AI智能硬件和嵌入式技术新闻编辑。请使用你的联网搜索能力查找真实新闻，确保新闻内容和来源真实可靠。请严格按要求的JSON格式输出，不要添加任何markdown标记或额外文字。如果无法确认某条新闻的真实URL，url字段填空字符串。' },
         { role: 'user', content: prompt }
       ],
       temperature: 0.3,
@@ -110,3 +110,6 @@ fetchLatestNews().catch(err => {
   console.error('更新失败:', err);
   process.exit(1);
 });
+
+
+

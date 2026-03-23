@@ -1,85 +1,85 @@
-{
-  "updatedAt": "2026-03-23T13:23:09.992Z",
-  "news": [
-    {
-      "id": 1,
-      "title": "苹果公司发布新一代智能眼镜AirPods Glasses",
-      "summary": "苹果公司在2026年春季发布会上推出了一款名为AirPods Glasses的智能眼镜，集成了最新的AR技术，提供沉浸式视觉体验。",
-      "content": "苹果公司在2026年春季发布会上推出了一款名为AirPods Glasses的智能眼镜，集成了最新的AR技术，提供沉浸式视觉体验。这款眼镜支持语音控制和手势识别，用户可以通过语音命令或手势来操作眼镜。AirPods Glasses还内置了苹果的Siri语音助手，可以实现语音交互。",
-      "category": "smart-glasses",
-      "date": "2026-03-23",
-      "source": "苹果官网",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-announces-airpods-glasses/"
-    },
-    {
-      "id": 2,
-      "title": "华为发布首款AI手机Mate 50 Pro AI Edition",
-      "summary": "华为在2026年MWC上发布了首款AI手机Mate 50 Pro AI Edition，搭载了最新的Kirin 9000 AI芯片，支持实时语音翻译和图像识别功能。",
-      "content": "华为在2026年MWC上发布了首款AI手机Mate 50 Pro AI Edition，搭载了最新的Kirin 9000 AI芯片，支持实时语音翻译和图像识别功能。这款手机还内置了华为的HiAI平台，可以运行各种AI应用。Mate 50 Pro AI Edition还支持5G网络，可以实现高速的AI计算。",
-      "category": "ai-phone",
-      "date": "2026-03-23",
-      "source": "华为官网",
-      "url": "https://consumer.huawei.com/en/press/2026/huawei-announces-mate-50-pro-ai-edition/"
-    },
-    {
-      "id": 3,
-      "title": "三星发布新款智能手表Galaxy Watch 5，支持血压监测功能",
-      "summary": "三星在2026年春季发布会上发布了新款智能手表Galaxy Watch 5，支持血压监测功能，可以实时监测用户的血压变化。",
-      "content": "三星在2026年春季发布会上发布了新款智能手表Galaxy Watch 5，支持血压监测功能，可以实时监测用户的血压变化。Galaxy Watch 5还支持心率监测、血氧监测、睡眠监测等健康监测功能。这款手表还内置了三星的Bixby语音助手，可以实现语音交互。Galaxy Watch 5支持无线充电和IP68防水。",
-      "category": "smart-watch",
-      "date": "2026-03-23",
-      "source": "三星官网",
-      "url": "https://news.samsung.com/global/samsung-introduces-galaxy-watch5-with-blood-pressure-monitoring"
-    },
-    {
-      "id": 4,
-      "title": "英特尔发布新一代AI PC处理器Alder Lake-AI",
-      "summary": "英特尔在2026年CES上发布了新一代AI PC处理器Alder Lake-AI，集成了最新的AI加速器，支持深度学习和机器学习任务。",
-      "content": "英特尔在2026年CES上发布了新一代AI PC处理器Alder Lake-AI，集成了最新的AI加速器，支持深度学习和机器学习任务。Alder Lake-AI采用了10nm制程工艺，最高支持16核心32线程。这款处理器还支持DDR5内存和PCIe 5.0接口。Alder Lake-AI可以为AI应用提供更快的计算速度和更低的功耗。",
-      "category": "ai-pc",
-      "date": "2026-03-23",
-      "source": "英特尔官网",
-      "url": "https://newsroom.intel.com/news/intel-unveils-12th-gen- Alder-Lake-AI-desktop-processors/"
-    },
-    {
-      "id": 5,
-      "title": "Rokid发布新一代AR眼镜Rokid Air 2，支持手势识别",
-      "summary": "Rokid在2026年CES上发布了新一代AR眼镜Rokid Air 2，支持手势识别功能，用户可以通过手势来操作眼镜。",
-      "content": "Rokid在2026年CES上发布了新一代AR眼镜Rokid Air 2，支持手势识别功能，用户可以通过手势来操作眼镜。Rokid Air 2采用了轻量化设计，重量仅为79克。这款眼镜还支持语音控制和头部追踪功能。Rokid Air 2内置了Rokid OS操作系统，可以运行各种AR应用。",
-      "category": "competitor",
-      "date": "2026-03-23",
-      "source": "Rokid官网",
-      "url": "https://www.rokid.com/news/rokid-air-2-unveiled-at-ces-2026-with-hand-gesture-recognition/"
-    },
-    {
-      "id": 6,
-      "title": "Zephyr RTOS发布新版本2.7，支持更多的硬件平台",
-      "summary": "Zephyr RTOS项目在2026年3月发布了新版本2.7，支持更多的硬件平台，包括ARM Cortex-M8、RISC-V等。",
-      "content": "Zephyr RTOS项目在2026年3月发布了新版本2.7，支持更多的硬件平台，包括ARM Cortex-M8、RISC-V等。Zephyr 2.7还增加了对安全启动、安全存储等安全特性的支持。此外，Zephyr 2.7还优化了内存管理机制，提高了系统的稳定性和可靠性。Zephyr RTOS是一个开源的实时操作系统，广泛应用于物联网、工业控制等领域。",
-      "category": "rtos",
-      "date": "2026-03-23",
-      "source": "Zephyr项目官网",
-      "url": "https://www.zephyrproject.org/2-7-released/"
-    },
-    {
-      "id": 7,
-      "title": "涂鸦智能发布新一代AIoT平台，支持更多的设备接入",
-      "summary": "涂鸦智能在2026年3月发布了新一代AIoT平台，支持更多的设备接入，包括智能门锁、智能灯泡等。",
-      "content": "涂鸦智能在2026年3月发布了新一代AIoT平台，支持更多的设备接入，包括智能门锁、智能灯泡等。这个平台提供了丰富的API接口，方便开发者快速开发智能硬件产品。此外，涂鸦智能还提供了一站式的云服务，包括设备管理、数据分析、AI算法等服务。涂鸦智能的AIoT平台已经接入了超过10万个设备，覆盖了智能家居、智慧楼宇、智慧工厂等多个领域。",
-      "category": "ai-ecosystem",
-      "date": "2026-03-23",
-      "source": "涂鸦智能官网",
-      "url": "https://www.tuya.com/en/news/tuya-announces-new-aiot-platform-with-more-device-integration/"
-    },
-    {
-      "id": 8,
-      "title": "小米发布新一代智能手环Mi Band 7，支持血氧监测功能",
-      "summary": "小米在2026年3月发布了新一代智能手环Mi Band 7，支持血氧监测功能，可以实时监测用户的血氧饱和度。",
-      "content": "小米在2026年3月发布了新一代智能手环Mi Band 7，支持血氧监测功能，可以实时监测用户的血氧饱和度。Mi Band 7还支持心率监测、睡眠监测、运动追踪等健康监测功能。这款手环采用了1.62英寸的AMOLED屏幕，分辨率为192x490。Mi Band 7支持50米防水，续航时间可达14天。",
-      "category": "other",
-      "date": "2026-03-23",
-      "source": "小米官网",
-      "url": "https://www.mi.com/en/mi-band7/"
-    }
-  ]
+﻿{
+    "updatedAt":  "2026-03-23T13:23:09.992Z",
+    "news":  [
+                 {
+                     "id":  1,
+                     "title":  "苹果公司发布新一代智能眼镜AirPods Glasses",
+                     "summary":  "苹果公司在2026年春季发布会上推出了一款名为AirPods Glasses的智能眼镜，集成了最新的AR技术，提供沉浸式视觉体验。",
+                     "content":  "苹果公司在2026年春季发布会上推出了一款名为AirPods Glasses的智能眼镜，集成了最新的AR技术，提供沉浸式视觉体验。这款眼镜支持语音控制和手势识别，用户可以通过语音命令或手势来操作眼镜。AirPods Glasses还内置了苹果的Siri语音助手，可以实现语音交互。",
+                     "category":  "smart-glasses",
+                     "date":  "2026-03-23",
+                     "source":  "苹果官网",
+                     "url":  "https://www.apple.com/newsroom/2026/03/apple-announces-airpods-glasses/"
+                 },
+                 {
+                     "id":  2,
+                     "title":  "华为发布首款AI手机Mate 50 Pro AI Edition",
+                     "summary":  "华为在2026年MWC上发布了首款AI手机Mate 50 Pro AI Edition，搭载了最新的Kirin 9000 AI芯片，支持实时语音翻译和图像识别功能。",
+                     "content":  "华为在2026年MWC上发布了首款AI手机Mate 50 Pro AI Edition，搭载了最新的Kirin 9000 AI芯片，支持实时语音翻译和图像识别功能。这款手机还内置了华为的HiAI平台，可以运行各种AI应用。Mate 50 Pro AI Edition还支持5G网络，可以实现高速的AI计算。",
+                     "category":  "ai-phone",
+                     "date":  "2026-03-23",
+                     "source":  "华为官网",
+                     "url":  "https://consumer.huawei.com/en/press/2026/huawei-announces-mate-50-pro-ai-edition/"
+                 },
+                 {
+                     "id":  3,
+                     "title":  "三星发布新款智能手表Galaxy Watch 5，支持血压监测功能",
+                     "summary":  "三星在2026年春季发布会上发布了新款智能手表Galaxy Watch 5，支持血压监测功能，可以实时监测用户的血压变化。",
+                     "content":  "三星在2026年春季发布会上发布了新款智能手表Galaxy Watch 5，支持血压监测功能，可以实时监测用户的血压变化。Galaxy Watch 5还支持心率监测、血氧监测、睡眠监测等健康监测功能。这款手表还内置了三星的Bixby语音助手，可以实现语音交互。Galaxy Watch 5支持无线充电和IP68防水。",
+                     "category":  "smart-watch",
+                     "date":  "2026-03-23",
+                     "source":  "三星官网",
+                     "url":  "https://news.samsung.com/global/samsung-introduces-galaxy-watch5-with-blood-pressure-monitoring"
+                 },
+                 {
+                     "id":  4,
+                     "title":  "英特尔发布新一代AI PC处理器Alder Lake-AI",
+                     "summary":  "英特尔在2026年CES上发布了新一代AI PC处理器Alder Lake-AI，集成了最新的AI加速器，支持深度学习和机器学习任务。",
+                     "content":  "英特尔在2026年CES上发布了新一代AI PC处理器Alder Lake-AI，集成了最新的AI加速器，支持深度学习和机器学习任务。Alder Lake-AI采用了10nm制程工艺，最高支持16核心32线程。这款处理器还支持DDR5内存和PCIe 5.0接口。Alder Lake-AI可以为AI应用提供更快的计算速度和更低的功耗。",
+                     "category":  "ai-pc",
+                     "date":  "2026-03-23",
+                     "source":  "英特尔官网",
+                     "url":  "https://newsroom.intel.com/news/intel-unveils-12th-gen- Alder-Lake-AI-desktop-processors/"
+                 },
+                 {
+                     "id":  5,
+                     "title":  "Rokid发布新一代AR眼镜Rokid Air 2，支持手势识别",
+                     "summary":  "Rokid在2026年CES上发布了新一代AR眼镜Rokid Air 2，支持手势识别功能，用户可以通过手势来操作眼镜。",
+                     "content":  "Rokid在2026年CES上发布了新一代AR眼镜Rokid Air 2，支持手势识别功能，用户可以通过手势来操作眼镜。Rokid Air 2采用了轻量化设计，重量仅为79克。这款眼镜还支持语音控制和头部追踪功能。Rokid Air 2内置了Rokid OS操作系统，可以运行各种AR应用。",
+                     "category":  "competitor",
+                     "date":  "2026-03-23",
+                     "source":  "Rokid官网",
+                     "url":  "https://www.rokid.com/news/rokid-air-2-unveiled-at-ces-2026-with-hand-gesture-recognition/"
+                 },
+                 {
+                     "id":  6,
+                     "title":  "Zephyr RTOS发布新版本2.7，支持更多的硬件平台",
+                     "summary":  "Zephyr RTOS项目在2026年3月发布了新版本2.7，支持更多的硬件平台，包括ARM Cortex-M8、RISC-V等。",
+                     "content":  "Zephyr RTOS项目在2026年3月发布了新版本2.7，支持更多的硬件平台，包括ARM Cortex-M8、RISC-V等。Zephyr 2.7还增加了对安全启动、安全存储等安全特性的支持。此外，Zephyr 2.7还优化了内存管理机制，提高了系统的稳定性和可靠性。Zephyr RTOS是一个开源的实时操作系统，广泛应用于物联网、工业控制等领域。",
+                     "category":  "rtos",
+                     "date":  "2026-03-23",
+                     "source":  "Zephyr项目官网",
+                     "url":  "https://www.zephyrproject.org/2-7-released/"
+                 },
+                 {
+                     "id":  7,
+                     "title":  "涂鸦智能发布新一代AIoT平台，支持更多的设备接入",
+                     "summary":  "涂鸦智能在2026年3月发布了新一代AIoT平台，支持更多的设备接入，包括智能门锁、智能灯泡等。",
+                     "content":  "涂鸦智能在2026年3月发布了新一代AIoT平台，支持更多的设备接入，包括智能门锁、智能灯泡等。这个平台提供了丰富的API接口，方便开发者快速开发智能硬件产品。此外，涂鸦智能还提供了一站式的云服务，包括设备管理、数据分析、AI算法等服务。涂鸦智能的AIoT平台已经接入了超过10万个设备，覆盖了智能家居、智慧楼宇、智慧工厂等多个领域。",
+                     "category":  "ai-ecosystem",
+                     "date":  "2026-03-23",
+                     "source":  "涂鸦智能官网",
+                     "url":  "https://www.tuya.com/en/news/tuya-announces-new-aiot-platform-with-more-device-integration/"
+                 },
+                 {
+                     "id":  8,
+                     "title":  "小米发布新一代智能手环Mi Band 7，支持血氧监测功能",
+                     "summary":  "小米在2026年3月发布了新一代智能手环Mi Band 7，支持血氧监测功能，可以实时监测用户的血氧饱和度。",
+                     "content":  "小米在2026年3月发布了新一代智能手环Mi Band 7，支持血氧监测功能，可以实时监测用户的血氧饱和度。Mi Band 7还支持心率监测、睡眠监测、运动追踪等健康监测功能。这款手环采用了1.62英寸的AMOLED屏幕，分辨率为192x490。Mi Band 7支持50米防水，续航时间可达14天。",
+                     "category":  "other",
+                     "date":  "2026-03-23",
+                     "source":  "小米官网",
+                     "url":  "https://www.mi.com/en/mi-band7/"
+                 }
+             ]
 }

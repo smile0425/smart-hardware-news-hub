@@ -220,6 +220,9 @@ body {
 .tag[data-category="smart-watch"] { background: linear-gradient(135deg, #f59e0b, #d97706); }
 .tag[data-category="ai-pc"] { background: linear-gradient(135deg, #10b981, #059669); }
 .tag[data-category="other"] { background: linear-gradient(135deg, #6b7280, #4b5563); }
+.tag[data-category="competitor"] { background: linear-gradient(135deg, #ef4444, #dc2626); }
+.tag[data-category="rtos"] { background: linear-gradient(135deg, #0ea5e9, #0284c7); }
+.tag[data-category="ai-ecosystem"] { background: linear-gradient(135deg, #a855f7, #9333ea); }
 
 .card-category time {
   font-size: 0.78rem;
@@ -327,3 +330,4 @@ body {
   .search-box { border-radius: 12px; }
   .ai-search-btn { padding: 8px 14px; font-size: 0.8rem; }
 }
+

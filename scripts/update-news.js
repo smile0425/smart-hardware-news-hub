@@ -18,15 +18,26 @@ async function fetchLatestNews() {
 
   const today = new Date().toISOString().split('T')[0];
 
-  const prompt = `请搜索最新的AI智能硬件领域新闻，包括智能眼镜、AI手机、智能手表、AI PC等品类。
+  const prompt = `请搜索最新的AI智能硬件领域新闻和动态。
 
-请返回10条最新新闻，严格按以下JSON数组格式输出，不要输出任何其他内容：
+需要覆盖以下8个分类，每个分类至少1-2条，共返回15条最新新闻：
+
+1. smart-glasses（智能眼镜）：智能眼镜产品、技术动态
+2. ai-phone（AI手机）：AI手机产品、功能更新
+3. smart-watch（智能手表）：智能手表产品、健康监测技术
+4. ai-pc（AI PC）：AI PC产品、芯片技术
+5. competitor（竞品动态）：重点关注 Rokid、夸克、华为、苹果、光帆科技 的最新产品和战略动态
+6. rtos（RTOS操作系统）：重点关注 Zephyr、FreeRTOS、Linux、RT-Thread、NuttX、OpenVela 等嵌入式/实时操作系统的最新版本发布、技术更新、社区动态
+7. ai-ecosystem（AI应用生态）：重点关注 通义千问、火山引擎/豆包、涂鸦智能、小智AI 等AI平台和应用的最新动态、API更新、生态合作
+8. other（其他）：其他智能硬件相关新闻
+
+严格按以下JSON数组格式输出，不要输出任何其他内容：
 [
   {
     "id": 1,
     "title": "新闻标题",
     "summary": "150-200字的关键摘要，需涵盖核心信息和关键细节",
-    "content": "200字以内的详细内容",
+    "content": "300字以内的详细内容",
     "category": "分类key",
     "date": "YYYY-MM-DD",
     "source": "来源名称",
@@ -35,8 +46,8 @@ async function fetchLatestNews() {
 ]
 
 要求：
-- category 只能是: smart-glasses, ai-phone, smart-watch, ai-pc, other
-- 尽量覆盖所有分类
+- category 只能是: smart-glasses, ai-phone, smart-watch, ai-pc, competitor, rtos, ai-ecosystem, other
+- 尽量覆盖所有8个分类
 - date 使用最近的真实日期，今天是 ${today}
 - url 必须是真实可访问的新闻链接
 - 只输出JSON数组，不要有其他文字`;
@@ -52,13 +63,14 @@ async function fetchLatestNews() {
     body: JSON.stringify({
       model: 'moonshot-v1-32k',
       messages: [
-        { role: 'system', content: '你是一个专业的AI智能硬件新闻编辑。请严格按要求的JSON格式输出，不要添加任何markdown标记或额外文字。' },
+        { role: 'system', content: '你是一个专业的AI智能硬件和嵌入式技术新闻编辑。请严格按要求的JSON格式输出，不要添加任何markdown标记或额外文字。' },
         { role: 'user', content: prompt }
       ],
       temperature: 0.3,
-      max_tokens: 4096
+      max_tokens: 8192
     })
   });
+
 
   if (!resp.ok) {
     const err = await resp.text();
@@ -98,5 +110,3 @@ fetchLatestNews().catch(err => {
   console.error('更新失败:', err);
   process.exit(1);
 });
-
-

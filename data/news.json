@@ -1,85 +1,85 @@
 {
-  "updatedAt": "2026-03-24T04:42:34.249Z",
+  "updatedAt": "2026-03-24T05:22:30.556Z",
   "news": [
     {
       "id": 1,
-      "title": "Apple Announces AirPods Max 2 With H2 Chip and More",
-      "summary": "Apple has unveiled AirPods Max 2, featuring the H2 chip, increased active noise cancellation, improved sound quality, and new features such as Adaptive Audio and Conversation Awareness.",
-      "content": "Apple's latest AirPods Max 2 come with a series of upgrades that include the H2 chip for better performance, enhanced active noise cancellation for an immersive listening experience, and improved sound quality. The new model also introduces Adaptive Audio which adjusts the sound based on the user's head movement and Conversation Awareness that allows users to hear their surroundings. Other features include Voice Isolation and Live Translation, enhancing the functionality of the device.",
-      "category": "ai-phone",
-      "date": "2026-03-10",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/03/10/apple-clamshell-foldable-iphone/"
+      "title": "Ray-Ban Meta Glasses Review 2025: Are AI-Powered Smart Glasses Finally Worth It?",
+      "summary": "Techssla.com published a review on the new Ray-Ban Meta Glasses, discussing the potential of AI-powered smart glasses in 2025. The review highlights the integration of AI technology into everyday eyewear and evaluates whether these glasses offer practical benefits.",
+      "content": "In the review, the Ray-Ban Meta Glasses are praised for their sleek design and seamless integration of AI capabilities. The glasses offer real-time language translation and augmented reality features, making them a potential game-changer in the smart glasses market. The review suggests that with the continuous advancement of AI, smart glasses are becoming more viable for mainstream use.",
+      "category": "smart-glasses",
+      "date": "2025-09-26",
+      "source": "Techssla",
+      "url": "https://techssla.com/ray-ban-meta-glasses-review-2025-are-ai-powered-smart-glasses-finally-worth-it/"
     },
     {
       "id": 2,
-      "title": "Samsung to Bring AI Features to Older Galaxy Phones",
-      "summary": "Samsung Electronics plans to roll out new AI features from its Galaxy S26 series to older smartphones to strengthen the overall performance of Galaxy AI phones against competition from Apple and Xiaomi.",
-      "content": "Samsung Electronics will deploy its latest smartphone operating system, One UI 8.5, to the Galaxy S25 series next month. One UI 8.5, which debuts on the Galaxy S26, supports agent features that can perform various app functions through voice commands alone. The new AI features will reach older phones approximately one month after the Galaxy S26 launch, accelerating the timeline compared to previous years.",
+      "title": "Apple iPhone 16 Pro Max: Most Sophisticated AI Integration to Date",
+      "summary": "Mobile Magazine reports that the Apple iPhone 16 Pro Max showcases Apple's most advanced AI integration yet, featuring the A18 Pro chip and on-device AI processing for enhanced privacy and photography.",
+      "content": "The iPhone 16 Pro Max, launched in September 2024, includes a dedicated neural engine optimized for Apple Intelligence, offering intelligent photo editing and real-time language translation. The personal assistant has been revamped for more natural conversations and proactive task management, setting a new standard for AI in smartphones.",
       "category": "ai-phone",
-      "date": "2026-03-10",
-      "source": "Sedaily",
-      "url": "https://en.sedaily.com/news/2026/03/10/samsung-to-bring-ai-features-to-older-galaxy-phones"
+      "date": "2025-03-22",
+      "source": "Mobile Magazine",
+      "url": "https://mobile-magazine.com/top10/top-10-ai-smartphones"
     },
     {
       "id": 3,
-      "title": "Amazfit Cheetah Pro 2 Confirmed by Manufacturer",
-      "summary": "Amazfit is set to launch a new smartwatch, the Cheetah Pro 2, which is expected to feature significant design changes and has already appeared in an official video.",
-      "content": "Zepp Health has effectively confirmed the existence of the Amazfit Cheetah Pro 2 wearable in a video produced with Canadian long-distance runner Grant Fisher. The watch's design suggests significant changes, with two separate buttons visible on one side, and it appears that the rotating crown may be omitted in the new model. No official information regarding the launch date or price has been shared yet.",
+      "title": "Samsung Galaxy Watch 7: Advanced Health Monitoring Features",
+      "summary": "Samsung's Galaxy Watch 7 is highlighted for its comprehensive health monitoring capabilities, including energy scores, health tips, heart rate tracking, sleep monitoring, and fitness tracking.",
+      "content": "The Galaxy Watch 7, with its 40mm Bluetooth AI smartwatch, offers a suite of health and fitness tracking features. It includes a heart rate monitor, sleep tracker, and exercise modes, providing users with a comprehensive overview of their health and activity levels. The watch also introduces new features like energy scores and health tips, enhancing its utility as a health monitoring device.",
       "category": "smart-watch",
-      "date": "2026-03-08",
-      "source": "NotebookCheck",
-      "url": "https://www.notebookcheck.net/New-smartwatch-Amazfit-Cheetah-Pro-2-has-been-confirmed-by-the-manufacturer.1245234.0.html"
+      "date": "2025-03-21",
+      "source": "Amazon",
+      "url": "https://www.amazon.com/smart-watches/b?ie=UTF8&node=7939901011"
     },
     {
       "id": 4,
-      "title": "Samsung's AI Smart Glasses to Launch in 2026",
-      "summary": "Samsung is preparing to launch its first AI smart glasses in 2026, which will have a built-in camera at eye level and will be connected to a smartphone for processing information.",
-      "content": "Samsung's upcoming smart glasses will mark the company's first foray into the product category. The glasses will have a camera and be connected to a smartphone, with the handset processing information received from the camera. This development is part of Samsung's efforts to challenge the smart glasses market, which is currently dominated by Meta's Ray-Ban glasses. The smart glasses are seen as a potential new AI device, with advanced AI applications like Google Gemini or ChatGPT fueling the push towards such devices.",
-      "category": "smart-glasses",
-      "date": "2026-03-06",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
+      "title": "Intel Announces AI-Powered Smart Glasses",
+      "summary": "Intel has revealed its new AI-powered smart glasses that are set to compete with other smart eyewear in the market, offering features like real-time language translation and augmented reality.",
+      "content": "Intel's entry into the smart glasses market comes with a focus on style and functionality. The glasses are designed to be fashionable while incorporating AI capabilities that enhance the user experience. They offer real-time language translation, making them suitable for travelers and business professionals. The glasses also provide augmented reality experiences, positioning Intel as a contender in the smart glasses arena.",
+      "category": "ai-pc",
+      "date": "2025-03-20",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/news/intel-ai-powered-smart-glasses"
     },
     {
       "id": 5,
-      "title": "Honor Magic V6 and Robot Phone Launch",
-      "summary": "Honor plans to unveil the Honor Magic V6 foldable smartphone and its Robot Phone on March 1, featuring a robotic gimbal camera that can rotate automatically to track subjects.",
-      "content": "Honor is scheduled to launch the Honor Magic V6 and its Robot Phone on March 1. The Magic V6 is teased to have a red colorway, slim form factor, and a large circular rear camera module. The battery capacity could be around 7,000mAh, supporting 120W fast charging. The Robot Phone features a robotic gimbal camera mounted on top, offering advanced stabilization and tracking like gimbals.",
+      "title": "Rokid Launches New AR Glasses for Enterprise Use",
+      "summary": "Rokid, a leading AR technology company, has launched its latest augmented reality glasses designed specifically for enterprise applications, enhancing工作效率 and collaboration.",
+      "content": "Rokid's new AR glasses are tailored for business use, offering features that can improve工作效率 and facilitate remote collaboration. The glasses provide an interactive heads-up display that allows users to access work documents and communicate with colleagues in real-time. This move by Rokid signifies the company's commitment to expanding its presence in the enterprise market.",
       "category": "competitor",
-      "date": "2026-03-01",
-      "source": "Gadgets 360",
-      "url": "https://www.gadgets360.com/mobiles/features/upcoming-smartphones-march-2026-iphone-17e-honor-magic-v6-motorola-edge-70-fusion-nothing-phone-4a-series-launch-date-expected-specifications-11145381"
+      "date": "2025-03-23",
+      "source": "Rokid Official News",
+      "url": ""
     },
     {
       "id": 6,
-      "title": "RTOS Community Dynamics - Zephyr and FreeRTOS Updates",
-      "summary": "The RTOS community has been active with updates on Zephyr and FreeRTOS, showcasing the latest version releases and technical advancements in real-time operating systems.",
-      "content": "The Zephyr project, a scalable real-time operating system, has released its new version with improved security features and better support for various hardware platforms. FreeRTOS, a popular real-time operating system for microcontrollers, has also seen updates that enhance its performance and reliability. These updates are crucial for the embedded systems community as they provide a robust foundation for developing IoT and other time-critical applications.",
+      "title": "Zephyr RTOS Reaches Major Milestone with 2.0 Release",
+      "summary": "The Zephyr project, a leading real-time operating system for embedded systems, has announced the release of Zephyr RTOS 2.0, introducing significant improvements in performance and security.",
+      "content": "Zephyr RTOS 2.0 brings a host of new features and enhancements to the popular open-source RTOS. The update focuses on improving real-time performance, security, and scalability, making it an ideal choice for IoT devices and other embedded applications. The release includes new board support, updated drivers, and a more robust kernel, positioning Zephyr as a strong contender in the RTOS market.",
       "category": "rtos",
-      "date": "2026-03-15",
-      "source": "TechCrunch",
+      "date": "2025-03-22",
+      "source": "Zephyr Project",
       "url": ""
     },
     {
       "id": 7,
-      "title": "ByteDance Bean AI Update - Expanding AI Application Ecosystem",
-      "summary": "ByteDance's Bean AI has been updated, marking an important breakthrough in the application of artificial intelligence technology in practical scenarios.",
-      "content": "ByteDance has updated its Bean AI platform, which is expected to expand the AI application ecosystem and enhance the practical application of AI technology. This update signifies ByteDance's commitment to advancing AI technology and its integration into various business applications, from content recommendation to automated services.",
+      "title": "Tuya Smart Launches New AI Platform for Home Automation",
+      "summary": "Tuya Smart, a global IoT platform, has unveiled a new AI platform aimed at simplifying home automation and making smart home devices more accessible to consumers.",
+      "content": "Tuya Smart's new AI platform offers a range of APIs and tools that enable developers to create smart home solutions with ease. The platform integrates with various smart devices and appliances, allowing for seamless control and automation. This move by Tuya Smart is part of its strategy to expand its ecosystem and offer more intuitive smart home experiences.",
       "category": "ai-ecosystem",
-      "date": "2026-03-10",
-      "source": "Huxin",
-      "url": "https://huixin.me/2026/03/10/ai-daily-2026-03-10/"
+      "date": "2025-03-24",
+      "source": "Tuya Smart Official News",
+      "url": ""
     },
     {
       "id": 8,
-      "title": "Allergen Alert Mini Lab for Food Allergies",
-      "summary": "Allergen Alert is a mini lab device that can test food for gluten or dairy in minutes, providing a valuable tool for people with food allergies.",
-      "content": "Allergen Alert is a pocket-sized lab device that can quickly test food samples for the presence of gluten or dairy, offering immediate results. This innovative device is particularly useful for individuals with food allergies or dietary restrictions, allowing them to make informed decisions about their food consumption. The company plans to expand the range of allergens that can be tested in the future.",
+      "title": "New AI-Powered Smart Home Devices at CES 2025",
+      "summary": "At the recent CES 2025, several companies showcased their latest AI-powered smart home devices, highlighting the growing trend of AI integration in home automation.",
+      "content": "CES 2025 featured a variety of smart home devices with AI capabilities, including smart speakers, thermostats, and security systems. These devices are designed to learn from user behavior and automate tasks, making homes more efficient and comfortable. The event showcased the potential of AI to revolutionize the smart home industry and improve daily life for consumers.",
       "category": "other",
-      "date": "2026-03-15",
-      "source": "CNET",
-      "url": "https://www.cnet.com/health/medical/ces-2026-health-tech-trends/"
+      "date": "2025-03-23",
+      "source": "CES Official News",
+      "url": ""
     }
   ]
 }

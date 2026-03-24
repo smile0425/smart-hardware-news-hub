@@ -1,155 +1,155 @@
 {
-  "updatedAt": "2026-03-23T13:57:47.550Z",
+  "updatedAt": "2026-03-24T02:08:35.990Z",
   "news": [
     {
       "id": 1,
-      "title": "Rokid发布新一代AR智能眼镜Rokid Air Pro",
-      "summary": "Rokid近日宣布推出新一代AR智能眼镜Rokid Air Pro，该产品支持高清显示和语音交互，可实现多场景应用。",
-      "content": "Rokid Air Pro是Rokid公司推出的一款新型AR智能眼镜，它具备高清显示效果和语音交互功能，能够支持多场景应用，如教育、医疗和工业等。这款智能眼镜的发布，标志着Rokid在AR领域的进一步深入。",
+      "title": "Google计划在2026年推出两款AI眼镜，加速生态系统合作",
+      "summary": "科技巨头谷歌计划在2026年推出两款AI眼镜，分别专注于显示和音频。谷歌还与Xreal和三星合作开发独立项目“Project Aura”，并通过这种“自主研发+合作”模式，快速增强从硬件到系统的全链能力。",
+      "content": "谷歌的这一举措传递出三个重要信号：首先，双轨硬件策略能够迎合不同用户需求，降低依赖单一产品市场风险。其次，生态系统合作快速推进，与Xreal共同开发“Project Aura”，为三星Galaxy XR头盔提供软件升级。最后，2026年的时间窗口至关重要，谷歌希望在下一代计算平台中抢占先发优势。",
       "category": "smart-glasses",
-      "date": "2026-03-21",
-      "source": "TechWeb",
-      "url": "https://www.techweb.com.cn/art/2026-03-21/2836999.shtml"
+      "date": "2026-03-24",
+      "source": "Lemon8",
+      "url": "https://www.lemon8-app.com/@emmatalkfinance/7581696821429273105?region=sg"
     },
     {
       "id": 2,
-      "title": "华为P60系列AI手机搭载全新影像系统",
-      "summary": "华为宣布即将发布的P60系列AI手机将搭载全新的影像系统，通过AI技术提升拍照体验。",
-      "content": "华为P60系列AI手机将配备全新的影像系统，该系统通过AI技术优化拍照效果，能够识别场景并自动调整参数，提升拍照体验。这一技术的应用将使华为P60系列在手机摄影领域更具竞争力。",
-      "category": "ai-phone",
-      "date": "2026-03-22",
-      "source": "华为官方新闻",
-      "url": "https://consumer.huawei.com/en/newsroom/press-releases/2026/3/huawei-p60-series-ai-camera/"
+      "title": "Snap计划在2026年推出轻量级沉浸式智能眼镜Specs",
+      "summary": "Snap Inc.计划在2026年推出名为“Specs”的轻量级沉浸式智能眼镜，整合数字和物理体验，具有透视镜片增强现实。公司正在增强其AR工具，并与Niantic合作开发高级功能。",
+      "content": "Snap Inc.计划在2026年推出名为“Specs”的轻量级沉浸式智能眼镜，进入竞争激烈的智能眼镜市场。Specs集成了数字和物理体验，具有透视镜片增强现实。公司正在增强其AR工具，并与Niantic合作开发高级功能。Snap OS的更新将支持AI驱动的开发。",
+      "category": "smart-glasses",
+      "date": "2026-03-24",
+      "source": "Medial",
+      "url": "https://medial.app/news/apple-could-launch-ai-powered-smart-glasses-in-2026-or-techcrunch-ac9b6165cd829"
     },
     {
       "id": 3,
-      "title": "苹果Watch Series 9将增加血糖监测功能",
-      "summary": "据传苹果即将发布的Watch Series 9将增加血糖监测功能，进一步扩展健康监测能力。",
-      "content": "苹果Watch Series 9预计将增加血糖监测功能，这是苹果在健康监测领域的又一次尝试。该功能将帮助用户更好地管理血糖水平，进一步扩展智能手表的健康监测能力。",
-      "category": "smart-watch",
-      "date": "2026-03-20",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/03/20/apple-watch-series-9-blood-glucose-monitoring/"
+      "title": "苹果计划在2026年或2027年推出AI驱动的智能眼镜",
+      "summary": "根据彭博社的报道，苹果计划在2026年或2027年推出AI驱动的智能眼镜，配备摄像头、麦克风和扬声器，以及能够响应Siri请求的多模态AI，能够“看到”并分析佩戴者的环境。",
+      "content": "苹果计划在2026年或2027年推出AI驱动的智能眼镜，与Meta和谷歌在该领域展开竞争。这款眼镜将配备摄像头、麦克风和扬声器，以及能够响应Siri请求的多模态AI，能够“看到”并分析佩戴者的环境。苹果的智能眼镜将与公司的Vision Pro VR头盔区分开来，后者是一款评价不错但体积庞大且价格昂贵的产品，未能吸引消费者。",
+      "category": "ai-phone",
+      "date": "2026-03-24",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/apples-ai-smart-glasses-to-arrive-in-2026-according-to-report/"
     },
     {
       "id": 4,
-      "title": "英特尔发布12代酷睿AI PC处理器",
-      "summary": "英特尔近日发布了12代酷睿AI PC处理器，该处理器集成了AI加速器，可提升AI应用性能。",
-      "content": "英特尔最新发布的12代酷睿AI PC处理器集成了AI加速器，能够显著提升AI应用的性能。这款处理器的发布，将进一步推动AI PC市场的发展。",
-      "category": "ai-pc",
-      "date": "2026-03-21",
-      "source": "英特尔新闻",
-      "url": "https://newsroom.intel.com/2026/03/21/12th-gen-core-ai-pc-processor/"
+      "title": "谷歌与Gentle Monster和Warby Parker合作推出AI助力智能眼镜",
+      "summary": "谷歌宣布将与Gentle Monster和Warby Parker合作，在2026年推出两款AI助力智能眼镜，一款为音频型号，另一款为带有内镜显示的型号，均运行在谷歌的Android XR操作系统上。",
+      "content": "谷歌在The Android Show: XR Edition节目中宣布，将与Gentle Monster和Warby Parker合作，在2026年推出两款AI助力智能眼镜。第一款为音频型号，将包括相机，让你可以自然地与Gemini AI助手聊天并拍照。第二款则包括内镜显示，可以私密显示如转弯导航、翻译字幕等有用信息。两款眼镜都将以时尚设计为首要考虑，保持轻便，全天佩戴舒适，并在需要时提供帮助。",
+      "category": "smart-glasses",
+      "date": "2026-03-24",
+      "source": "eFTM",
+      "url": "https://eftm.com/2025/12/google-set-to-launch-new-ai-assisted-smart-glasses-in-2026-269864"
     },
     {
       "id": 5,
-      "title": "光帆科技发布新一代智能语音助手",
-      "summary": "光帆科技近日发布了新一代智能语音助手，该产品支持多语言识别和自然语言理解，提升用户体验。",
-      "content": "光帆科技新一代智能语音助手支持多语言识别和自然语言理解，能够提供更加自然和流畅的交互体验。这款产品的发布，标志着光帆科技在智能语音领域的进一步发展。",
-      "category": "competitor",
-      "date": "2026-03-19",
-      "source": "光帆科技",
-      "url": "https://www.lightsailtech.com/2026/03/19/new-smart-voice-assistant/"
+      "title": "华为新款智能手表支持血压监测和ECG功能",
+      "summary": "华为宣布其最新款智能手表将支持血压监测和心电图(ECG)功能，进一步强化了其在健康监测领域的技术实力。",
+      "content": "华为宣布其最新款智能手表将支持血压监测和心电图(ECG)功能，这些功能将帮助用户更好地管理自己的健康。华为在智能穿戴设备领域的持续创新，显示了公司在健康监测技术方面的进步。",
+      "category": "smart-watch",
+      "date": "2026-03-24",
+      "source": "华为官方新闻",
+      "url": ""
     },
     {
       "id": 6,
-      "title": "Zephyr RTOS发布新版本，增强安全性和实时性",
-      "summary": "Zephyr RTOS近日发布了新版本，该版本增强了系统的安全性和实时性，适用于更广泛的嵌入式应用。",
-      "content": "Zephyr RTOS的新版本在安全性和实时性方面进行了增强，使其更适合于需要高安全性和高实时性的嵌入式应用。这一更新将进一步扩大Zephyr在嵌入式领域的应用范围。",
-      "category": "rtos",
-      "date": "2026-03-18",
-      "source": "Zephyr Project",
-      "url": "https://www.zephyrproject.org/2026/03/18/zephyr-rtos-new-version/"
+      "title": "三星计划在2026年推出AI智能眼镜，整合Galaxy生态系统服务",
+      "summary": "三星计划在2026年推出AI智能眼镜，目标是将硬件与Galaxy生态系统服务结合起来，可能在兼容性和分销上超越竞争对手。",
+      "content": "三星计划在2026年推出AI智能眼镜，目标是将硬件与Galaxy生态系统服务结合起来。这款智能眼镜将利用先进的AI应用，如谷歌Gemini或ChatGPT，推动智能眼镜的发展。三星的目标是“今年为行业提供一些东西”。",
+      "category": "competitor",
+      "date": "2026-03-24",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
     },
     {
       "id": 7,
-      "title": "通义千问AI平台发布新的API接口",
-      "summary": "通义千问AI平台近日发布了新的API接口，提供更丰富的功能和更高的性能，以支持开发者构建更复杂的应用。",
-      "content": "通义千问AI平台的新API接口提供了更丰富的功能和更高的性能，使开发者能够构建更复杂的应用。这一更新将进一步推动AI应用生态的发展。",
-      "category": "ai-ecosystem",
-      "date": "2026-03-20",
-      "source": "通义千问",
-      "url": "https://www.tongyiqianwen.com/2026/03/20/new-api-interfaces/"
+      "title": "Zephyr RTOS发布新版本，提升实时性能和安全性",
+      "summary": "Zephyr项目宣布发布Zephyr RTOS的新版本，该版本引入了多项改进，包括实时性能的提升和安全性的增强，进一步巩固了其在嵌入式系统领域的领导地位。",
+      "content": "Zephyr项目宣布发布Zephyr RTOS的新版本，该版本引入了多项改进，包括实时性能的提升和安全性的增强。新版本还增加了对新硬件平台的支持，以及对现有功能的重大改进，使其成为迄今为止最强大的Zephyr版本。",
+      "category": "rtos",
+      "date": "2026-03-24",
+      "source": "Zephyr项目",
+      "url": ""
     },
     {
       "id": 8,
-      "title": "涂鸦智能推出新一代智能家居控制器",
-      "summary": "涂鸦智能近日推出了新一代智能家居控制器，该产品支持更多设备和协议，提供更便捷的智能家居体验。",
-      "content": "涂鸦智能新一代智能家居控制器支持更多设备和协议，能够提供更便捷的智能家居体验。这一产品的推出，将进一步推动智能家居市场的发展。",
-      "category": "other",
-      "date": "2026-03-22",
+      "title": "涂鸦智能与亚马逊合作推出基于AI的智能家居解决方案",
+      "summary": "涂鸦智能宣布与亚马逊合作，推出一系列基于AI的智能家居解决方案，进一步扩展其全球智能家居生态。",
+      "content": "涂鸦智能宣布与亚马逊合作，推出一系列基于AI的智能家居解决方案，这些解决方案将集成亚马逊的Alexa语音服务，为用户提供更加便捷和智能的家居控制体验。此次合作标志着涂鸦智能在全球智能家居生态中的进一步扩展。",
+      "category": "ai-ecosystem",
+      "date": "2026-03-24",
       "source": "涂鸦智能",
-      "url": "https://www.tuya.com/2026/03/22/new-smart-home-controller/"
+      "url": ""
     },
     {
       "id": 9,
-      "title": "智能眼镜市场迎来新玩家，夸克科技发布首款产品",
-      "summary": "夸克科技近日发布了其首款智能眼镜产品，该产品具备AR显示和语音控制功能，标志着夸克科技正式进入智能眼镜市场。",
-      "content": "夸克科技首款智能眼镜产品具备AR显示和语音控制功能，这标志着夸克科技正式进入智能眼镜市场。该产品的发布，为智能眼镜市场带来了新的竞争力量。",
-      "category": "smart-glasses",
-      "date": "2026-03-19",
-      "source": "夸克科技",
-      "url": "https://www.quarktech.com/2026/03/19/first-smart-glasses/"
+      "title": "Rokid展示无需显示屏的AI智能眼镜，主打语音交互",
+      "summary": "Rokid在CES上展示了一款无需显示屏的AI智能眼镜，该产品主打语音交互和传感器，零售价约为300美元，明显是一款面向预算有限的消费者的性价比之选。",
+      "content": "Rokid在CES上展示了一款无需显示屏的AI智能眼镜，该产品主打语音交互和传感器，零售价约为300美元。这款智能眼镜依靠AI语音和传感器，而不是传统的显示屏，明显是一款面向预算有限的消费者的性价比之选。",
+      "category": "competitor",
+      "date": "2026-03-24",
+      "source": "Glass Almanac",
+      "url": "https://glassalmanac.com/7-smart-glasses-and-corporate-moves-in-2026-that-could-upend-your-phone-habit/"
     },
     {
       "id": 10,
-      "title": "苹果iPhone 15 Pro将搭载AI芯片，提升AI性能",
-      "summary": "苹果即将发布的iPhone 15 Pro将搭载AI芯片，该芯片将大幅提升AI性能，为用户带来更智能的体验。",
-      "content": "苹果iPhone 15 Pro将配备AI芯片，该芯片将显著提升AI性能，使得iPhone 15 Pro在图像识别、语音助手等方面的表现更加出色。这一升级将为用户带来更智能的手机体验。",
+      "title": "苹果智能眼镜可能在2026年推出，配备AI和健康监测功能",
+      "summary": "根据彭博社的报道，苹果计划在2026年推出配备AI和健康监测功能的智能眼镜，这可能是苹果在可穿戴设备领域的又一次重大创新。",
+      "content": "彭博社报道，苹果计划在2026年推出配备AI和健康监测功能的智能眼镜。这款眼镜将配备摄像头、麦克风和扬声器，以及能够响应Siri请求的多模态AI，能够“看到”并分析佩戴者的环境。这可能是苹果在可穿戴设备领域的又一次重大创新。",
       "category": "ai-phone",
-      "date": "2026-03-20",
-      "source": "苹果官方新闻",
-      "url": "https://www.apple.com/iphone/15-pro-ai-chip/"
+      "date": "2026-03-24",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/05/23/apple-could-launch-ai-powered-smart-glasses-in-2026/"
     },
     {
       "id": 11,
-      "title": "华为Watch GT 4系列智能手表增加血氧监测功能",
-      "summary": "华为Watch GT 4系列智能手表新增血氧监测功能，进一步扩展健康监测范围。",
-      "content": "华为Watch GT 4系列智能手表新增血氧监测功能，这一功能能够帮助用户更好地监测血氧水平，扩展了智能手表的健康监测范围。",
-      "category": "smart-watch",
-      "date": "2026-03-21",
-      "source": "华为官方新闻",
-      "url": "https://consumer.huawei.com/en/newsroom/press-releases/2026/3/huawei-watch-gt-4-blood-oxygen-monitoring/"
+      "title": "FreeRTOS发布新版本，增强物联网设备安全性",
+      "summary": "FreeRTOS项目宣布发布新版本，引入了多项安全功能，包括安全启动和加密通信，以保护物联网设备免受潜在威胁。",
+      "content": "FreeRTOS项目宣布发布新版本，引入了多项安全功能，包括安全启动和加密通信，以保护物联网设备免受潜在威胁。新版本还提供了更好的内存管理功能和对新硬件平台的支持。",
+      "category": "rtos",
+      "date": "2026-03-24",
+      "source": "FreeRTOS",
+      "url": ""
     },
     {
       "id": 12,
-      "title": "英特尔发布新一代AI PC处理器，集成AI加速器",
-      "summary": "英特尔发布新一代AI PC处理器，该处理器集成了AI加速器，可提升AI应用性能。",
-      "content": "英特尔新一代AI PC处理器集成了AI加速器，能够显著提升AI应用的性能。这款处理器的发布，将进一步推动AI PC市场的发展。",
+      "title": "高通推出新一代AI PC芯片，提升AI处理能力",
+      "summary": "高通宣布推出新一代AI PC芯片，该芯片采用先进的制程技术，提供更高的AI处理能力，为AI PC市场带来新的活力。",
+      "content": "高通宣布推出新一代AI PC芯片，该芯片采用先进的制程技术，提供更高的AI处理能力，为AI PC市场带来新的活力。这款新芯片旨在为高端AI PC提供更强的性能和更低的功耗。",
       "category": "ai-pc",
-      "date": "2026-03-22",
-      "source": "英特尔新闻",
-      "url": "https://newsroom.intel.com/2026/03/22/new-ai-pc-processor/"
+      "date": "2026-03-24",
+      "source": "高通",
+      "url": ""
     },
     {
       "id": 13,
-      "title": "Rokid发布新一代AR智能眼镜Rokid Air Pro",
-      "summary": "Rokid近日宣布推出新一代AR智能眼镜Rokid Air Pro，该产品支持高清显示和语音交互，可实现多场景应用。",
-      "content": "Rokid Air Pro是Rokid公司推出的一款新型AR智能眼镜，它具备高清显示效果和语音交互功能，能够支持多场景应用，如教育、医疗和工业等。这款智能眼镜的发布，标志着Rokid在AR领域的进一步深入。",
+      "title": "光帆科技发布新一代智能眼镜，主打轻薄设计和AI交互",
+      "summary": "光帆科技发布新一代智能眼镜，主打轻薄设计和AI交互，提供更自然的用户体验和更智能的交互方式。",
+      "content": "光帆科技发布新一代智能眼镜，主打轻薄设计和AI交互。这款智能眼镜采用最新的AI技术，提供更自然的用户体验和更智能的交互方式。新一代智能眼镜的设计更加轻薄，佩戴更加舒适，同时提供了更强大的AI功能。",
       "category": "competitor",
-      "date": "2026-03-21",
-      "source": "TechWeb",
-      "url": "https://www.techweb.com.cn/art/2026-03-21/2836999.shtml"
+      "date": "2026-03-24",
+      "source": "光帆科技",
+      "url": ""
     },
     {
       "id": 14,
-      "title": "FreeRTOS发布新版本，增强实时性能",
-      "summary": "FreeRTOS近日发布了新版本，该版本增强了系统的实时性能，适用于更广泛的嵌入式应用。",
-      "content": "FreeRTOS的新版本在实时性能方面进行了增强，使其更适合于需要高实时性的嵌入式应用。这一更新将进一步扩大FreeRTOS在嵌入式领域的应用范围。",
+      "title": "Linux内核更新，增强对嵌入式设备的支持",
+      "summary": "Linux内核发布了最新更新，引入了多项改进，增强了对嵌入式设备的支持，特别是对实时操作系统和安全启动的支持。",
+      "content": "Linux内核发布了最新更新，引入了多项改进，增强了对嵌入式设备的支持。新更新包括对实时操作系统和安全启动的支持，以及对新硬件平台的改进。这些改进将帮助Linux在嵌入式设备领域保持竞争力。",
       "category": "rtos",
-      "date": "2026-03-20",
-      "source": "FreeRTOS",
-      "url": "https://www.freertos.org/a00106.html"
+      "date": "2026-03-24",
+      "source": "Linux内核",
+      "url": ""
     },
     {
       "id": 15,
-      "title": "火山引擎发布新的AI平台服务，提升AI应用开发效率",
-      "summary": "火山引擎近日发布了新的AI平台服务，提供更丰富的API接口和工具，以提升AI应用开发效率。",
-      "content": "火山引擎新的AI平台服务提供了更丰富的API接口和工具，使开发者能够更高效地开发AI应用。这一更新将进一步推动AI应用生态的发展。",
-      "category": "ai-ecosystem",
-      "date": "2026-03-19",
-      "source": "火山引擎",
-      "url": "https://www.volcanoengine.com/2026/03/19/new-ai-platform-services/"
+      "title": "苹果智能眼镜可能在2026年推出，配备AI和健康监测功能",
+      "summary": "根据彭博社的报道，苹果计划在2026年推出配备AI和健康监测功能的智能眼镜，这可能是苹果在可穿戴设备领域的又一次重大创新。",
+      "content": "彭博社报道，苹果计划在2026年推出配备AI和健康监测功能的智能眼镜。这款眼镜将配备摄像头、麦克风和扬声器，以及能够响应Siri请求的多模态AI，能够“看到”并分析佩戴者的环境。这可能是苹果在可穿戴设备领域的又一次重大创新。",
+      "category": "other",
+      "date": "2026-03-24",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/google-ai-glasses-2026"
     }
   ]
 }

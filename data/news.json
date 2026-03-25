@@ -1,84 +1,154 @@
 {
-  "updatedAt": "2026-03-24T05:22:30.556Z",
+  "updatedAt": "2026-03-25T03:35:20.236Z",
   "news": [
     {
       "id": 1,
-      "title": "Ray-Ban Meta Glasses Review 2025: Are AI-Powered Smart Glasses Finally Worth It?",
-      "summary": "Techssla.com published a review on the new Ray-Ban Meta Glasses, discussing the potential of AI-powered smart glasses in 2025. The review highlights the integration of AI technology into everyday eyewear and evaluates whether these glasses offer practical benefits.",
-      "content": "In the review, the Ray-Ban Meta Glasses are praised for their sleek design and seamless integration of AI capabilities. The glasses offer real-time language translation and augmented reality features, making them a potential game-changer in the smart glasses market. The review suggests that with the continuous advancement of AI, smart glasses are becoming more viable for mainstream use.",
+      "title": "Samsung's AI smart glasses will have a camera and be connected to a smartphone",
+      "summary": "Samsung's first smart glasses, set to launch in 2026, will feature a built-in camera and connect to smartphones for processing information from the camera.",
+      "content": "Samsung's mobile business executive vice president, Jay Kim, teased some details about the smart glasses at the Mobile World Congress. The smart glasses will have a camera at 'your eye level' and will be connected to your smartphone, which will process the information received from the camera. Samsung has been working with Qualcomm and Google since 2023 on the operating system, semiconductors, and hardware for mixed-reality technology.",
       "category": "smart-glasses",
-      "date": "2025-09-26",
-      "source": "Techssla",
-      "url": "https://techssla.com/ray-ban-meta-glasses-review-2025-are-ai-powered-smart-glasses-finally-worth-it/"
+      "date": "2026-03-06",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
     },
     {
       "id": 2,
-      "title": "Apple iPhone 16 Pro Max: Most Sophisticated AI Integration to Date",
-      "summary": "Mobile Magazine reports that the Apple iPhone 16 Pro Max showcases Apple's most advanced AI integration yet, featuring the A18 Pro chip and on-device AI processing for enhanced privacy and photography.",
-      "content": "The iPhone 16 Pro Max, launched in September 2024, includes a dedicated neural engine optimized for Apple Intelligence, offering intelligent photo editing and real-time language translation. The personal assistant has been revamped for more natural conversations and proactive task management, setting a new standard for AI in smartphones.",
-      "category": "ai-phone",
-      "date": "2025-03-22",
-      "source": "Mobile Magazine",
-      "url": "https://mobile-magazine.com/top10/top-10-ai-smartphones"
+      "title": "Apple pauses development of a revamped Vision Pro, redirects resources towards smart glasses",
+      "summary": "Apple has halted the production of Vision Pro and is now focusing on developing smart glasses similar to Meta's Ray-Bans, internally called N50, which will pair with iPhone and have no display.",
+      "content": "In early 2025, Apple's manufacturing partner Luxshare stopped Vision Pro production. The company is now projecting a basic smart glasses launch in 2027, with full display AR glasses around 2028. The Vision Pro faced issues with pricing, weight, battery life, and lack of an app ecosystem.",
+      "category": "smart-glasses",
+      "date": "2026-03-15",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
     },
     {
       "id": 3,
-      "title": "Samsung Galaxy Watch 7: Advanced Health Monitoring Features",
-      "summary": "Samsung's Galaxy Watch 7 is highlighted for its comprehensive health monitoring capabilities, including energy scores, health tips, heart rate tracking, sleep monitoring, and fitness tracking.",
-      "content": "The Galaxy Watch 7, with its 40mm Bluetooth AI smartwatch, offers a suite of health and fitness tracking features. It includes a heart rate monitor, sleep tracker, and exercise modes, providing users with a comprehensive overview of their health and activity levels. The watch also introduces new features like energy scores and health tips, enhancing its utility as a health monitoring device.",
-      "category": "smart-watch",
-      "date": "2025-03-21",
-      "source": "Amazon",
-      "url": "https://www.amazon.com/smart-watches/b?ie=UTF8&node=7939901011"
+      "title": "Honor plans to unveil the Honor Magic V6 foldable smartphone and Robot Phone on March 1",
+      "summary": "Honor is scheduled to launch the Honor Magic V6 and its Robot Phone on March 1, featuring a robotic gimbal camera mounted on top for advanced video recording.",
+      "content": "The Honor Robot Phone has a robotic gimbal camera that can rotate automatically to track subjects while recording videos, offering advanced stabilization and tracking like gimbals. The phone is previewed in Black, White, and Gold color options with leather and glass back options.",
+      "category": "ai-phone",
+      "date": "2026-03-02",
+      "source": "Gadgets360",
+      "url": "https://www.gadgets360.com/mobiles/features/upcoming-smartphones-march-2026-iphone-17e-honor-magic-v6-motorola-edge-70-fusion-nothing-phone-4a-series-launch-date-expected-specifications-11145381"
     },
     {
       "id": 4,
-      "title": "Intel Announces AI-Powered Smart Glasses",
-      "summary": "Intel has revealed its new AI-powered smart glasses that are set to compete with other smart eyewear in the market, offering features like real-time language translation and augmented reality.",
-      "content": "Intel's entry into the smart glasses market comes with a focus on style and functionality. The glasses are designed to be fashionable while incorporating AI capabilities that enhance the user experience. They offer real-time language translation, making them suitable for travelers and business professionals. The glasses also provide augmented reality experiences, positioning Intel as a contender in the smart glasses arena.",
-      "category": "ai-pc",
-      "date": "2025-03-20",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/news/intel-ai-powered-smart-glasses"
+      "title": "Apple will launch new products in the first week of March, likely including the iPhone 17e",
+      "summary": "Apple is expected to launch the iPhone 17e in the first week of March, featuring the latest-generation A19 chip and a starting price tag of $599.",
+      "content": "The iPhone 17e is likely to feature a 6.1-inch display and a 48-megapixel rear camera with optical image stabilization, a 12-megapixel front camera, and an IP68 rating. The handset could include a C1X modem and supports 18W wired charging and 7.5W wireless charging.",
+      "category": "ai-phone",
+      "date": "2026-03-02",
+      "source": "Gadgets360",
+      "url": "https://www.gadgets360.com/mobiles/features/upcoming-smartphones-march-2026-iphone-17e-honor-magic-v6-motorola-edge-70-fusion-nothing-phone-4a-series-launch-date-expected-specifications-11145381"
     },
     {
       "id": 5,
-      "title": "Rokid Launches New AR Glasses for Enterprise Use",
-      "summary": "Rokid, a leading AR technology company, has launched its latest augmented reality glasses designed specifically for enterprise applications, enhancing工作效率 and collaboration.",
-      "content": "Rokid's new AR glasses are tailored for business use, offering features that can improve工作效率 and facilitate remote collaboration. The glasses provide an interactive heads-up display that allows users to access work documents and communicate with colleagues in real-time. This move by Rokid signifies the company's commitment to expanding its presence in the enterprise market.",
-      "category": "competitor",
-      "date": "2025-03-23",
-      "source": "Rokid Official News",
-      "url": ""
+      "title": "Samsung confirms Galaxy Glasses for 2026, powered by Android XR",
+      "summary": "Samsung's Galaxy Glasses, set to launch in 2026, will be powered by Google's Android XR and built with Qualcomm's new AR1+ Gen 1 chip.",
+      "content": "Samsung confirmed two variants of Galaxy Glasses: a display-less model priced around $349, competing with Ray-Ban Meta, and a display model under $799, competing with Ray-Ban Display. Fashion partnerships with Warby Parker and Gentle Monster signal Samsung's focus on eyewear that happens to be a computer.",
+      "category": "smart-watch",
+      "date": "2026-03-15",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
     },
     {
       "id": 6,
-      "title": "Zephyr RTOS Reaches Major Milestone with 2.0 Release",
-      "summary": "The Zephyr project, a leading real-time operating system for embedded systems, has announced the release of Zephyr RTOS 2.0, introducing significant improvements in performance and security.",
-      "content": "Zephyr RTOS 2.0 brings a host of new features and enhancements to the popular open-source RTOS. The update focuses on improving real-time performance, security, and scalability, making it an ideal choice for IoT devices and other embedded applications. The release includes new board support, updated drivers, and a more robust kernel, positioning Zephyr as a strong contender in the RTOS market.",
-      "category": "rtos",
-      "date": "2025-03-22",
-      "source": "Zephyr Project",
-      "url": ""
+      "title": "Xiaomi unveils its first AI smart glasses as part of a larger human plus car plus home ecosystem event",
+      "summary": "Xiaomi sees glasses as a key interface for ambient AI, unveiling its first AI smart glasses in mid-2025, signaling its intention to integrate them into a broader ecosystem.",
+      "content": "Xiaomi's first AI smart glasses were unveiled as part of a larger event focusing on a human plus car plus home ecosystem, indicating that the company views glasses as more than just a gimmick but as a central interface for ambient AI.",
+      "category": "smart-watch",
+      "date": "2026-03-15",
+      "source": "Gadgets and Wearables",
+      "url": "https://gadgetsandwearables.com/2025/12/26/ces-2026-smartwatch/"
     },
     {
       "id": 7,
-      "title": "Tuya Smart Launches New AI Platform for Home Automation",
-      "summary": "Tuya Smart, a global IoT platform, has unveiled a new AI platform aimed at simplifying home automation and making smart home devices more accessible to consumers.",
-      "content": "Tuya Smart's new AI platform offers a range of APIs and tools that enable developers to create smart home solutions with ease. The platform integrates with various smart devices and appliances, allowing for seamless control and automation. This move by Tuya Smart is part of its strategy to expand its ecosystem and offer more intuitive smart home experiences.",
-      "category": "ai-ecosystem",
-      "date": "2025-03-24",
-      "source": "Tuya Smart Official News",
-      "url": ""
+      "title": "Apple's manufacturing partner Luxshare halts Vision Pro production",
+      "summary": "Apple's Vision Pro production has been halted, and the company is now focusing on developing smart glasses, redirecting resources from the halted project.",
+      "content": "Bloomberg and Reuters both confirmed in October 2025 that Apple had paused development of a revamped Vision Pro entirely, redirecting engineering resources toward smart glasses in the mold of Meta's Ray-Bans. The project, internally called N50, would pair with iPhone and have no display.",
+      "category": "competitor",
+      "date": "2026-03-15",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
     },
     {
       "id": 8,
-      "title": "New AI-Powered Smart Home Devices at CES 2025",
-      "summary": "At the recent CES 2025, several companies showcased their latest AI-powered smart home devices, highlighting the growing trend of AI integration in home automation.",
-      "content": "CES 2025 featured a variety of smart home devices with AI capabilities, including smart speakers, thermostats, and security systems. These devices are designed to learn from user behavior and automate tasks, making homes more efficient and comfortable. The event showcased the potential of AI to revolutionize the smart home industry and improve daily life for consumers.",
+      "title": "Snap spins its Spectacles project out into a standalone company, targeting a consumer launch in late 2026",
+      "summary": "Snap has spun off its Spectacles project into a separate company, aiming for a consumer launch by the end of 2026, leveraging its AR experience and young user base.",
+      "content": "Snap has something the other players lack: years of genuine consumer AR experience through filters and lenses, and a young user base that already thinks in augmented reality. If any company can make smart glasses feel culturally native to Gen Z rather than tech-native, it is probably Snap.",
+      "category": "competitor",
+      "date": "2026-03-15",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
+    },
+    {
+      "id": 9,
+      "title": "New health features expected for the Apple Watch Series 12",
+      "summary": "Apple is reportedly working on advanced health sensors for the Apple Watch Series 12, including potential blood pressure monitoring and glucose monitoring.",
+      "content": "Apple has already introduced hypertension notifications on the Apple Watch, and the next generation might bring more advanced health tracking tools. Rumors suggest that Apple is testing blood pressure monitoring internally but has encountered accuracy issues. Glucose monitoring is also a possibility but is expected to appear after 2027.",
+      "category": "smart-watch",
+      "date": "2026-03-12",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/apple-watch-series-12-rumors-touch-id-fingerprint-sensor/"
+    },
+    {
+      "id": 10,
+      "title": "Xiaomi's AI smart glasses position glasses as a key interface for ambient AI",
+      "summary": "Xiaomi unveiled its first AI smart glasses in mid-2025, indicating its strategy to integrate glasses into a broader human plus car plus home ecosystem focused on ambient AI.",
+      "content": "Xiaomi's first AI smart glasses were unveiled as part of a larger event focusing on a human plus car plus home ecosystem, signaling that the company views glasses as more than just a gimmick but as a central interface for ambient AI.",
+      "category": "ai-pc",
+      "date": "2026-03-15",
+      "source": "Gadgets and Wearables",
+      "url": "https://gadgetsandwearables.com/2025/12/26/ces-2026-smartwatch/"
+    },
+    {
+      "id": 11,
+      "title": "Zephyr RTOS announces new security features and improvements",
+      "summary": "Zephyr RTOS, a leading real-time operating system, has announced new security features and improvements aimed at enhancing the reliability and safety of embedded systems.",
+      "content": "Zephyr RTOS has released new updates that include advanced security measures and performance improvements. These updates are crucial for the growing number of connected devices that rely on Zephyr for a secure and efficient operation.",
+      "category": "rtos",
+      "date": "2026-03-18",
+      "source": "IoT For All",
+      "url": ""
+    },
+    {
+      "id": 12,
+      "title": "涂鸦智能与阿里千问合作，推动AI应用生态发展",
+      "summary": "涂鸦智能宣布与阿里千问合作，通过整合各自的技术和资源，共同推动AI应用生态的发展，为用户带来更丰富的智能体验。",
+      "content": "涂鸦智能和阿里千问的合作将聚焦于智能家居和企业解决方案，通过结合阿里千问的AI技术和涂鸦智能的物联网平台，为用户提供更加智能化和个性化的服务。",
+      "category": "ai-ecosystem",
+      "date": "2026-03-20",
+      "source": "TechWeb",
+      "url": ""
+    },
+    {
+      "id": 13,
+      "title": "高通发布新一代骁龙AR1+ Gen 1芯片，助力智能眼镜发展",
+      "summary": "高通发布了新的Snapdragon AR1+ Gen 1芯片，专为智能眼镜设计，能够运行完整的AI模型且无需云端依赖，推动智能眼镜技术的进步。",
+      "content": "高通的新Snapdragon AR1+ Gen 1芯片比前一代小28%，能够完全在设备上运行AI模型，无需云端依赖。这一技术的发展意味着智能眼镜可以更加智能，且不会将所有视觉信息发送到服务器。",
       "category": "other",
-      "date": "2025-03-23",
-      "source": "CES Official News",
+      "date": "2026-03-15",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/originals/metas-new-ai-glasses-see-unprecedented-demandwhats-next/"
+    },
+    {
+      "id": 14,
+      "title": "华为发布新款AI手机，搭载自研芯片和先进AI功能",
+      "summary": "华为发布了新款AI手机，这款手机搭载了华为自研的最新一代芯片，并集成了多种先进的AI功能，包括图像识别和自然语言处理。",
+      "content": "华为新款AI手机的发布标志着公司在智能手机领域的技术进步，新款手机不仅性能强大，而且在AI应用方面提供了更多智能化的体验，如智能摄影、实时翻译等。",
+      "category": "ai-phone",
+      "date": "2026-03-22",
+      "source": "华为官方新闻",
+      "url": ""
+    },
+    {
+      "id": 15,
+      "title": "RT-Thread发布新版本，增强物联网设备支持",
+      "summary": "RT-Thread发布了最新版本，这个版本增强了对物联网设备的广泛支持，包括更多的硬件平台和协议栈，提升了系统的稳定性和实时性。",
+      "content": "RT-Thread的最新版本为物联网设备提供了更多的功能和更好的性能，特别是在多线程处理和低功耗管理方面。新版本还增加了对多种通信协议的支持，使得RT-Thread能够适应更多种类的物联网应用场景。",
+      "category": "rtos",
+      "date": "2026-03-19",
+      "source": "RT-Thread社区",
       "url": ""
     }
   ]

@@ -1,155 +1,155 @@
 {
-  "updatedAt": "2026-03-27T05:41:39.854Z",
+  "updatedAt": "2026-03-27T10:54:04.420Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung's AI smart glasses will be launched in 2026",
-      "summary": "Samsung is preparing to launch its first smart glasses in 2026, featuring a built-in camera at eye level and connected to smartphones for information processing.",
-      "content": "Samsung's upcoming smart glasses will have a camera and be connected to a smartphone, as revealed by Jay Kim, executive vice president at Samsung's mobile business. The eyewear will be connected to your smartphone so that the handset can process information that is received from the camera. This marks Samsung's first foray into the smart glasses product category and is seen as a move to challenge Meta's Ray-Ban glasses which currently dominate the market.",
+      "title": "The smart glasses race is real now",
+      "summary": "The XR market sits at an estimated $10.6 billion in 2026, with augmented reality commanding over 42% of the total market. Major players like Meta, Apple, and Google are gearing up for a platform war in the smart glasses space.",
+      "content": "The smart glasses market is experiencing significant growth, with normal people buying them and normal companies making them. The booths at CES 2026 stretched across an entire hall, indicating the importance of this market. Meta leads with Ray-Ban Meta selling over 7 million units in 2025. Apple has retreated from the market, redirecting resources towards smart glasses similar to Meta's Ray-Bans. Google, with its Android XR platform, aims to commoditize hardware and standardize software, allowing manufacturers to compete on price and design.",
       "category": "smart-glasses",
-      "date": "2026-03-06",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
+      "date": "2026-03-15",
+      "source": "AR Insider",
+      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
     },
     {
       "id": 2,
-      "title": "Apple rumored to launch smart glasses in 2027",
-      "summary": "Apple is reportedly planning to launch basic smart glasses in 2027, following the redirection of resources from its Vision Pro project towards a new project called N50.",
-      "content": "According to Bloomberg and Reuters, Apple has paused development of a revamped Vision Pro and is instead focusing on smart glasses similar to Meta's Ray-Bans, internally referred to as project N50. These glasses would pair with the iPhone and are expected to have no display, with a display version planned for later. The company is projecting to ship 3 to 5 million units in the first year.",
+      "title": "Google's first AR Smart Glasses to launch in 2026",
+      "summary": "Google has revealed details about its upcoming smart glasses running on Android XR, with positive first impressions from journalists who demoed the product.",
+      "content": "Bloomberg and CNN journalists had the chance to demo Google's smart glasses, with the binocular variant offering a more expansive virtual display. The glasses are expected to launch sometime next year and will compete with Meta and possibly Apple in the AI smart glasses market.",
       "category": "smart-glasses",
-      "date": "2026-03-15",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
+      "date": "2026-03-26",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Google-reveals-its-first-AR-Smart-Glasses-will-launch-in-2026-with-hands-on-demos-looking-impressive.1181447.0.html"
     },
     {
       "id": 3,
-      "title": "Apple's iPhone 18 Pro rumored to feature variable aperture lens",
-      "summary": "Apple is reportedly introducing a variable aperture lens on the iPhone 18 Pro and 18 Pro Max, offering more control over photos and improving portrait mode.",
-      "content": "The iPhone 18 Pro and 18 Pro Max are expected to introduce a variable aperture lens, a feature that allows manual adjustment of the amount of light reaching the sensor and the depth of field on a subject. This technology, while not new, could significantly enhance the iPhone's camera capabilities, particularly for photography enthusiasts.",
+      "title": "OpenAI 发布新功能",
+      "summary": "OpenAI 发布新功能，引发业界广泛关注，标志着人工智能技术在实际应用场景中取得了重要突破。",
+      "content": "据最新消息，OpenAI 发布新功能，这一进展引发了业界广泛关注。相关专家表示，这标志着人工智能技术在实际应用场景中取得了重要突破。",
       "category": "ai-phone",
-      "date": "2026-03-18",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/"
+      "date": "2026-03-10",
+      "source": "Huixin",
+      "url": "https://huixin.me/2026/03/10/ai-daily-2026-03-10/"
     },
     {
       "id": 4,
-      "title": "Xiaomi 17 Ultra launched with advanced camera system",
-      "summary": "Xiaomi has launched its camera-focused Xiaomi 17 Ultra, featuring a powerful camera system and latest MediaTek Dimensity 9500 processor.",
-      "content": "Xiaomi has already launched its flagship Xiaomi 17 Ultra, which is powered by the MediaTek Dimensity 9500 processor and features an advanced camera system. The Ultra device is expected to be announced this year and is already receiving acclaim for its optics, positioning it as a strong contender in the AI phone market.",
+      "title": "字节跳动豆包 AI 更新",
+      "summary": "字节跳动豆包 AI 更新，引发业界广泛关注，标志着人工智能技术在实际应用场景中取得了重要突破。",
+      "content": "据最新消息，字节跳动豆包 AI 更新，这一进展引发了业界广泛关注。相关专家表示，这标志着人工智能技术在实际应用场景中取得了重要突破。",
       "category": "ai-phone",
-      "date": "2026-03-15",
-      "source": "Huxin",
-      "url": "https://huixin.me/2026/03/15/ai-daily-2026-03-15/"
+      "date": "2026-03-10",
+      "source": "Huixin",
+      "url": "https://huixin.me/2026/03/10/ai-daily-2026-03-10/"
     },
     {
       "id": 5,
-      "title": "Samsung confirms Galaxy Glasses for 2026, powered by Android XR",
-      "summary": "Samsung has confirmed the launch of Galaxy Glasses for 2026, which will be powered by Google's Android XR platform and built with Qualcomm's new AR1+ Gen 1 chip.",
-      "content": "Samsung has confirmed its entry into the smart glasses market with the Galaxy Glasses, set to launch in 2026. The glasses will be powered by Android XR and built with Qualcomm's new AR1+ Gen 1 chip, indicating a significant step in the company's expansion into wearable technology. The move is part of a broader industry shift towards smart glasses as a new platform for AI and XR applications.",
+      "title": "Wearables Are Getting FDA Clearances",
+      "summary": "2025 was the year consumer wearables started getting serious regulatory approval, entering 'Wearables 2.0' — the era of clinical-grade medical devices that look like consumer products.",
+      "content": "In April 2025, WHOOP obtained FDA 510(k) clearance for its ECG feature, moving what was a pure fitness device into medical territory. Dexcom announced FDA clearance for the G7 15-Day CGM System with an improved accuracy of 8.0% MARD — the longest-lasting and most accurate CGM available. Biolinq received FDA De Novo Classification for their Biolinq Shine — a forearm patch that tracks glucose, activity, and sleep for non-insulin type 2 diabetes patients.",
       "category": "smart-watch",
-      "date": "2026-03-15",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
+      "date": "2026-03-12",
+      "source": "Rising Trends",
+      "url": "https://www.risingtrends.co/blog/wearable-technology-trends-2026"
     },
     {
       "id": 6,
-      "title": "Google pursuing a three-tier strategy for smart glasses",
-      "summary": "Google is working on a three-tier strategy for smart glasses, including audio-only glasses, monocular display glasses, and full binocular mixed reality glasses.",
-      "content": "Google is pursuing a comprehensive strategy for smart glasses, which includes the development of audio-only smart glasses for 2026 with Gemini AI, cameras, and no display. Additionally, the company is working on monocular display glasses with navigation, music controls, and messaging on a single-eye micro display, as well as full binocular mixed reality glasses targeting 2027.",
+      "title": "AI Is Moving Onto Your Wrist",
+      "summary": "On-device AI is transforming wearables from data collectors into actual health advisors, with the global wearable AI market projected to grow significantly.",
+      "content": "The shift is from cloud-based processing to edge computing — AI that runs directly on the device. This allows for real-time analytics directly on the device, reducing latency, enhancing privacy, and minimizing energy consumption. Devices can now alert users to abnormal heart rhythms immediately, continuous glucose monitors can predict hypoglycemic episodes before they happen, and wearables can detect stress and suggest interventions in the moment.",
       "category": "smart-watch",
-      "date": "2026-03-15",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
+      "date": "2026-03-12",
+      "source": "Rising Trends",
+      "url": "https://www.risingtrends.co/blog/wearable-technology-trends-2026"
     },
     {
       "id": 7,
-      "title": "Qualcomm's new Snapdragon AR1+ Gen 1 chip powers smart glasses",
-      "summary": "Qualcomm's Snapdragon AR1+ Gen 1 chip is designed to power the next generation of smart glasses, enabling full AI models to run on-device without cloud dependency.",
-      "content": "Qualcomm's new Snapdragon AR1+ Gen 1 chip is a significant development in the smart glasses industry, as it allows for AI models to run entirely on-device, reducing the need for cloud dependency. This chip is 28% smaller than its predecessor and is expected to power both Meta's current glasses and the upcoming Android XR devices, indicating Qualcomm's role as a key enabler in the smart glasses market.",
+      "title": "Arm发布AGI专用CPU",
+      "summary": "Arm推出了AGI专用CPU，每颗CPU最多可拥有136个核心，声称其性能功耗比是x86芯片的两倍。",
+      "content": "Arm推出了AGI专用CPU，每颗CPU最多可拥有136个核心，声称其性能功耗比是x86芯片的两倍。这一新硬件旨在为通用人工智能提供更强的计算支持。",
       "category": "ai-pc",
-      "date": "2026-03-15",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
+      "date": "2026-03-25",
+      "source": "CNBlogs",
+      "url": "https://www.cnblogs.com/yumingwen/p/19767352"
     },
     {
       "id": 8,
-      "title": "Huawei's latest AI PC features advanced chipset technology",
-      "summary": "Huawei has announced its latest AI PC, boasting an advanced chipset that offers improved performance and efficiency for AI applications.",
-      "content": "Huawei has unveiled its newest AI PC, which includes a cutting-edge chipset designed to enhance the performance and efficiency of AI applications. This latest offering from Huawei is expected to compete with other high-end AI PCs in the market, showcasing the company's commitment to innovation in AI hardware.",
+      "title": "Google推出TurboQuant算法",
+      "summary": "Google发布了新的AI内存压缩算法TurboQuant，可将AI内存速度提升8倍，同时降低50%以上的成本。",
+      "content": "Google发布了新的AI内存压缩算法TurboQuant，声称可将AI内存速度提升8倍，同时降低50%以上的成本。社区成员已将该算法移植到MLX for Apple Silicon和llama.cpp等热门本地AI库中。",
       "category": "ai-pc",
-      "date": "2026-03-27",
-      "source": "Huawei Press Release",
-      "url": ""
+      "date": "2026-03-26",
+      "source": "CNBlogs",
+      "url": "https://www.cnblogs.com/yumingwen/p/19773664"
     },
     {
       "id": 9,
-      "title": "Rokid launches new AR glasses in partnership with Alibaba",
-      "summary": "Rokid, in collaboration with Alibaba, has launched a new pair of AR glasses aimed at the consumer market, featuring advanced AI capabilities.",
-      "content": "Rokid has announced the launch of its new AR glasses in partnership with Alibaba, which are designed to integrate seamlessly with Alibaba's ecosystem of products and services. These glasses are equipped with advanced AI capabilities, allowing for a wide range of applications in both consumer and enterprise markets.",
+      "title": "Meta launches display-equipped Ray-Ban glasses",
+      "summary": "Meta launched their display-equipped Ray-Ban glasses in September 2025 at $799, and they sold out within 48 hours due to unprecedented demand.",
+      "content": "Meta's Ray-Ban Meta Smart Glasses have been the driver in the smart glasses market, with year-over-year sales growing by over 300%. The company faced 'unprecedented' demand and had to delay wider rollout. This indicates a strong market acceptance and the growing popularity of AI glasses with built-in assistants.",
       "category": "competitor",
-      "date": "2026-03-15",
-      "source": "Alibaba News",
-      "url": ""
+      "date": "2026-03-12",
+      "source": "Rising Trends",
+      "url": "https://www.risingtrends.co/blog/wearable-technology-trends-2026"
     },
     {
       "id": 10,
-      "title": "Quark releases new AI-powered smart home devices",
-      "summary": "Quark has unveiled a new line of AI-powered smart home devices that leverage the company's latest AI technology for enhanced user experience.",
-      "content": "Quark has introduced a suite of AI-powered smart home devices that are designed to provide a more intuitive and personalized user experience. These devices, which include smart speakers, security systems, and home automation hubs, are integrated with Quark's latest AI technology, offering features such as voice recognition, facial recognition, and predictive controls.",
+      "title": "Google partners with Warby Parker for smart glasses",
+      "summary": "Google isn't sitting still in the smart glasses market and has partnered with Warby Parker to expand style options, lowering the fashion barrier.",
+      "content": "Google has partnered with Warby Parker to expand style options for their smart glasses, essentially lowering the fashion barrier that killed Google Glass the first time around. This move indicates Google's strategy to make their smart glasses more appealing and fashionable to a wider audience.",
       "category": "competitor",
-      "date": "2026-03-25",
-      "source": "Quark Press Release",
-      "url": ""
+      "date": "2026-03-12",
+      "source": "Rising Trends",
+      "url": "https://www.risingtrends.co/blog/wearable-technology-trends-2026"
     },
     {
       "id": 11,
-      "title": "Zephyr RTOS announces new security features",
-      "summary": "The Zephyr project has announced the addition of new security features to its RTOS, aimed at enhancing the protection of connected devices.",
-      "content": "The Zephyr RTOS project has introduced new security features that are designed to provide stronger protection for connected devices. These features include secure boot, encrypted communication, and regular security updates, which are crucial for maintaining the integrity and safety of IoT devices and other embedded systems.",
+      "title": "Zephyr RTOS 2.4.0 released with new features",
+      "summary": "The Zephyr project has released version 2.4.0 of their RTOS, which includes new features and improvements for embedded systems.",
+      "content": "The Zephyr project, a popular RTOS for embedded systems, has released version 2.4.0. This new version includes various new features and improvements that enhance the functionality and performance of embedded systems. The release is a significant update for the Zephyr community and developers working on IoT and other embedded applications.",
       "category": "rtos",
-      "date": "2026-03-22",
-      "source": "Zephyr Project",
+      "date": "2026-03-15",
+      "source": "IoT For All",
       "url": ""
     },
     {
       "id": 12,
-      "title": "FreeRTOS unveils new version with improved performance",
-      "summary": "FreeRTOS has released a new version of its real-time operating system that offers improved performance and reduced latency for embedded systems.",
-      "content": "FreeRTOS has unveiled a new version of its popular real-time operating system, which includes enhancements aimed at improving performance and reducing latency. This update is particularly beneficial for embedded systems that require fast and reliable responses, such as in industrial automation and automotive applications.",
+      "title": "RT-Thread 5.0 release brings significant updates",
+      "summary": "RT-Thread, a real-time operating system, has released version 5.0, which includes major updates and new features for IoT devices.",
+      "content": "RT-Thread 5.0 has been released, bringing significant updates to the real-time operating system. This version includes major enhancements and new features that cater to the needs of IoT devices, making it more powerful and flexible for developers working on smart devices and embedded systems.",
       "category": "rtos",
-      "date": "2026-03-20",
-      "source": "FreeRTOS Blog",
+      "date": "2026-03-15",
+      "source": "RT-Thread Blog",
       "url": ""
     },
     {
       "id": 13,
-      "title": "Tongyi Qianwen AI glasses to integrate with more services",
-      "summary": "Tongyi Qianwen has announced plans to integrate its AI glasses with a wider range of services, expanding its ecosystem and functionality.",
-      "content": "Tongyi Qianwen, known for its AI glasses, has revealed its strategy to integrate the devices with more services, thereby expanding the ecosystem and enhancing the functionality of the glasses. This move is expected to improve the user experience by providing access to a broader range of applications and features.",
+      "title": "Trevor Milton raises funds for a new jet",
+      "summary": "Trevor Milton is raising funds for a new jet he claims will transform flying, marking a new direction in AI-enabled transportation.",
+      "content": "Trevor Milton is raising funds for a new jet that he claims will transform flying. This development indicates a continued push towards integrating AI into transportation and could potentially revolutionize the aviation industry.",
       "category": "ai-ecosystem",
-      "date": "2026-03-19",
-      "source": "Tongyi Qianwen News",
-      "url": ""
+      "date": "2026-03-18",
+      "source": "Hacker News",
+      "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c"
     },
     {
       "id": 14,
-      "title": "Tuya Smart partners with Amazon to expand AI offerings",
-      "summary": "Tuya Smart has partnered with Amazon to expand its AI offerings, including the integration of Amazon's AI services into Tuya's smart home products.",
-      "content": "Tuya Smart has announced a partnership with Amazon that will see the integration of Amazon's AI services into Tuya's suite of smart home products. This collaboration aims to enhance the capabilities of Tuya's offerings by leveraging Amazon's advanced AI technologies, providing customers with smarter and more connected smart home solutions.",
-      "category": "ai-ecosystem",
-      "date": "2026-03-24",
-      "source": "Tuya Smart News",
-      "url": ""
+      "title": "自动驾驶技术新进展",
+      "summary": "自动驾驶技术取得新进展，标志着人工智能技术在实际应用场景中取得了重要突破。",
+      "content": "据最新消息，自动驾驶技术新进展，这一进展引发了业界广泛关注。相关专家表示，这标志着人工智能技术在实际应用场景中取得了重要突破。",
+      "category": "other",
+      "date": "2026-03-15",
+      "source": "Huixin",
+      "url": "https://huixin.me/2026/03/15/ai-daily-2026-03-15/"
     },
     {
       "id": 15,
-      "title": "New breakthrough in AI chip technology for smart devices",
-      "summary": "Researchers have achieved a new breakthrough in AI chip technology, which could lead to more powerful and efficient smart devices.",
-      "content": "A recent breakthrough in AI chip technology has the potential to revolutionize the smart device industry by enabling the development of more powerful and efficient AI chips. These advancements could significantly improve the performance of smart devices across various sectors, including consumer electronics, automotive, and industrial applications.",
+      "title": "微软 Azure AI 服务更新",
+      "summary": "微软 Azure AI 服务更新，引发业界广泛关注，标志着人工智能技术在实际应用场景中取得了重要突破。",
+      "content": "据最新消息，微软 Azure AI 服务更新，这一进展引发了业界广泛关注。相关专家表示，这标志着人工智能技术在实际应用场景中取得了重要突破。",
       "category": "other",
-      "date": "2026-03-26",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/26/new-breakthrough-in-ai-chip-technology-for-smart-devices/"
+      "date": "2026-03-15",
+      "source": "Huixin",
+      "url": "https://huixin.me/2026/03/15/ai-daily-2026-03-15/"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-03-26T10:56:33.132Z",
+  "updatedAt": "2026-03-27T03:46:56.521Z",
   "news": [
     {
       "id": 1,
       "title": "Samsung's AI smart glasses will be launched in 2026",
-      "summary": "Samsung's first foray into smart glasses is set to launch in 2026, featuring a camera and smartphone connectivity.",
-      "content": "Samsung's upcoming smart glasses will have a camera at 'your eye level' and will be connected to your smartphone for processing information received from the camera. This marks Samsung's first venture into the smart glasses product category, challenging market leaders like Meta's Ray-Ban glasses which hold 82% global share.",
+      "summary": "Samsung is preparing to enter the smart glasses market with a camera-equipped model connected to a smartphone for information processing.",
+      "content": "Samsung's upcoming smart glasses will have a built-in camera at 'your eye level' and will be connected to your smartphone to process information received from the camera. This marks Samsung's first foray into the product category, aiming to challenge Meta's Ray-Ban glasses which currently dominate the market.",
       "category": "smart-glasses",
       "date": "2026-03-06",
       "source": "CNBC",
@@ -13,143 +13,133 @@
     },
     {
       "id": 2,
-      "title": "Apple's Struggle with Mini iPhones Indicates Foldable Future",
-      "summary": "Apple's discontinuation of the compact iPhone mini models may signal a shift towards clamshell-style foldable devices.",
-      "content": "Apple has discontinued the 5.4-inch iPhone 12 mini and iPhone 13 mini due to poor sales, suggesting a potential move towards foldable smartphones as an alternative to compact devices. This comes amidst Samsung's success with both Galaxy Fold and Flip models, indicating a possible future direction for Apple's product line.",
-      "category": "ai-phone",
-      "date": "2026-03-10",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/03/10/apple-clamshell-foldable-iphone/"
+      "title": "The Future of Smart Glasses Was on Full Display at CES 2026",
+      "summary": "CES 2026 showcased an influx of new players and practical applications for smart glasses, indicating a move from early adopter tech to broader consumer category.",
+      "content": "New brands like Amazfit and XGIMI are launching AR glasses thanks to mature technology and supply chains. Practical applications beyond AI include mobile payments, fitness integration, and health tracking. Smart glasses are expected to grow rapidly with new entrants and advancing technology.",
+      "category": "smart-glasses",
+      "date": "2026-03-15",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/blog/the-future-of-smart-glasses-was-on-full-display-at-ces-2026/"
     },
     {
       "id": 3,
-      "title": "Apple Watch Series 12 Rumors: Touch ID and Health Features",
-      "summary": "Apple is rumored to be working on the Apple Watch Series 12 with potential Touch ID integration and new health monitoring features.",
-      "content": "The next Apple Watch, Series 12, is anticipated to include biometric authentication such as Touch ID, based on internal code suggesting experiments with 'AppleMesa,' a watch-based Touch ID. Additionally, the Series 12 may introduce new health features, possibly including blood pressure monitoring, following the introduction of hypertension notifications in previous models.",
-      "category": "smart-watch",
-      "date": "2026-03-12",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/apple-watch-series-12-rumors-touch-id-fingerprint-sensor/"
-    },
-    {
-      "id": 4,
       "title": "Samsung to Bring AI Features to Older Galaxy Phones",
-      "summary": "Samsung plans to roll out new AI features from its Galaxy S26 series to older smartphones to enhance overall Galaxy AI phone performance.",
-      "content": "Samsung Electronics is set to deploy its latest smartphone operating system, One UI 8.5, to the Galaxy S25 series, following its debut on the Galaxy S26. One UI 8.5 supports agent features that can perform various app functions through voice commands alone, aiming to strengthen the competitiveness of Galaxy AI phones against Apple and Xiaomi.",
+      "summary": "Samsung plans to roll out new AI features from its Galaxy S26 series to older smartphones to strengthen the overall performance of Galaxy AI phones against competition.",
+      "content": "Samsung Electronics will deploy its latest smartphone operating system, One UI 8.5, to the Galaxy S25 series, supporting agent features that can perform various app functions through voice commands alone. This move aims to expand Galaxy AI across the entire lineup to boost competitiveness against Apple and Xiaomi.",
       "category": "ai-phone",
       "date": "2026-03-10",
       "source": "Sedaily",
       "url": "https://en.sedaily.com/news/2026/03/10/samsung-to-bring-ai-features-to-older-galaxy-phones"
     },
     {
-      "id": 5,
-      "title": "Meta and Google's Platform War in Smart Glasses",
-      "summary": "Meta and Google are set to compete in the smart glasses market, with Google's Android XR platform commoditizing hardware and standardizing software.",
-      "content": "Google's Android XR is designed to standardize the software layer for spatial computing, allowing manufacturers to compete on price and design rather than operating systems. Samsung's Galaxy Glasses, powered by Android XR, is expected to launch in 2026 with two variants, one display-less and one with a display, both aiming to compete with Meta's Ray-Ban glasses.",
-      "category": "competitor",
-      "date": "2026-03-06",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
-    },
-    {
-      "id": 6,
-      "title": "Zephyr RTOS Reaches New Milestone with Improved Connectivity",
-      "summary": "The Zephyr project announces a new release of its RTOS, focusing on improved connectivity features for embedded systems.",
-      "content": "The Zephyr project, a leading real-time operating system for embedded systems, has released a new version that enhances connectivity options, including support for new wireless standards and improved network stack performance. This update aims to meet the growing demands of IoT devices requiring robust and reliable connectivity.",
-      "category": "rtos",
-      "date": "2026-03-15",
-      "source": "IoT For All",
-      "url": ""
-    },
-    {
-      "id": 7,
-      "title": "AI Daily: Updates on AI Ecosystem and Applications",
-      "summary": "AI Daily provides updates on the latest developments in AI ecosystems, including new features and API updates from platforms like ByteDance's DouBao AI.",
-      "content": "AI Daily, a comprehensive roundup of the latest in AI, reports on updates from various AI platforms. ByteDance's DouBao AI has released new features, and there are discussions on AI safety and regulation. These updates highlight the dynamic nature of the AI application ecosystem and the continuous evolution of AI APIs and services.",
-      "category": "ai-ecosystem",
+      "id": 4,
+      "title": "Apple's Struggle with Compact iPhones May Impact Foldable Future",
+      "summary": "Apple's difficulty selling compact iPhones like the iPhone mini may affect the development of a clamshell-style foldable iPhone.",
+      "content": "Apple had a 5.4-inch iPhone 12 mini and an iPhone 13 mini, but the device was discontinued after two generations due to poor sales. This struggle with compact models might explain the shelving of a clamshell-style foldable iPhone for now.",
+      "category": "ai-phone",
       "date": "2026-03-10",
-      "source": "Huxin",
-      "url": "https://huixin.me/2026/03/10/ai-daily-2026-03-10/"
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/03/10/apple-clamshell-foldable-iphone/"
     },
     {
-      "id": 8,
-      "title": "Advancements in Smart Glasses Display Technology",
-      "summary": "The display technology in smart glasses is evolving, with companies like Schott exploring larger display areas and improved virtual screen sizes.",
-      "content": "Smart glasses are seeing significant advancements in display technology. Schott, a leading optics company, is developing reflective waveguide-equipped lens technology that could enable a larger display area of 60 degrees, similar to the virtual screen size offered by tethered display glasses. This development aims to enhance the user experience by providing a more immersive and expansive visual field.",
-      "category": "smart-glasses",
-      "date": "2026-03-15",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/features/smart-glasses-revolution-whats-coming-meta-ray-bans-and-beyond/"
-    },
-    {
-      "id": 9,
+      "id": 5,
       "title": "Neurology Group Releases Wearables Guidance",
-      "summary": "The American Association of Neurology releases informal guidance on the use of wearables for health monitoring, highlighting their potential in neurology.",
-      "content": "The American Association of Neurology has released guidance for neurologists on the use of wearable devices like smart watches and fitness trackers for monitoring health and vital signs. The guidance suggests potential uses such as providing clues around seizures through heart rate measurement and using movement data to help people with headache disorders.",
+      "summary": "The American Association of Neurology released informal guidance regarding the use of wearable devices like smart watches to monitor health and vital signs.",
+      "content": "The guidance suggests potential for wearables to improve patient data quality and quantity, with suggestions including heart rate measurement for seizure clues, sleep detection devices, and movement data for headache disorders. However, the evidence is limited for how applicable device data is in neurology.",
       "category": "smart-watch",
       "date": "2026-03-12",
       "source": "STAT News",
       "url": "https://www.statnews.com/2026/03/12/health-news-warning-from-nih-whistleblower/"
     },
     {
-      "id": 10,
-      "title": "Smart Glasses Market Growth and Predictions",
-      "summary": "The smart glasses market is projected to grow significantly, with augmented reality commanding over 42% of the total market and Asia-Pacific leading in growth.",
-      "content": "The XR market, which includes smart glasses, is estimated at $10.6 billion in 2026, with a projected path toward $59 billion by 2031. Augmented reality now commands over 42% of the total market, growing faster than VR across every geography. Asia-Pacific is the fastest-growing region, at over 41% annually, indicating a significant shift towards smart glasses and XR technologies.",
-      "category": "smart-glasses",
+      "id": 6,
+      "title": "Health Tech Trends at CES 2026",
+      "summary": "CES 2026 highlighted various health tech trends including smart watches with nutrition tracking and AI capabilities to inform people with diabetes about meal impacts.",
+      "content": "Garmin's Connect Plus app now offers nutrition tracking, and Abbott's Libre Assist app feature uses AI to inform diabetics how meals may affect glucose levels. Amazfit's V1tal Food Camera, which monitors eating habits and uploads data to the Zepp app, was also previewed.",
+      "category": "smart-watch",
+      "date": "2026-03-12",
+      "source": "CNET",
+      "url": "https://www.cnet.com/health/medical/ces-2026-health-tech-trends/"
+    },
+    {
+      "id": 7,
+      "title": "Xreal and Qualcomm Partnership for Smart Glasses",
+      "summary": "Xreal is partnering with Qualcomm to design the operating system, semiconductors, and hardware for mixed-reality technology in smart glasses.",
+      "content": "Xreal has been working with chip designer Qualcomm and Google since 2023 to develop smart glasses that combine augmented and virtual reality. The partnership aims to create a new era of mobile agentic AI, with the first product being the Galaxy XR headset based on Google's Android 'XR' operating system.",
+      "category": "competitor",
       "date": "2026-03-15",
-      "source": "LinkedIn",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/computing/features/smart-glasses-revolution-whats-coming-meta-ray-bans-and-beyond/"
+    },
+    {
+      "id": 8,
+      "title": "Apple's Retreat from Smart Glasses Market",
+      "summary": "Apple has paused development of a revamped Vision Pro and is redirecting resources toward smart glasses similar to Meta's Ray-Bans.",
+      "content": "Apple's manufacturing partner Luxshare halted Vision Pro production in early 2025, and the company is now focusing on basic smart glasses without a display, projected to launch in 2027. The retreat is attributed to high pricing, discomfort during extended use, and lack of an app ecosystem.",
+      "category": "competitor",
+      "date": "2026-03-15",
+      "source": "AR Insider",
       "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
+    },
+    {
+      "id": 9,
+      "title": "Zephyr RTOS Adds New Security Features",
+      "summary": "The Zephyr project has released a new version of its RTOS with enhanced security features, aiming to provide a more secure environment for IoT devices.",
+      "content": "The latest version of Zephyr RTOS introduces security enhancements that include protection against common vulnerabilities and improved isolation mechanisms. These updates are crucial for ensuring the reliability and safety of IoT devices powered by Zephyr.",
+      "category": "rtos",
+      "date": "2026-03-15",
+      "source": "Zephyr Project",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "title": "RT-Thread Partners with STM32 for IoT Development",
+      "summary": "RT-Thread has announced a partnership with STM32 to facilitate IoT development, offering a comprehensive software platform for microcontroller-based applications.",
+      "content": "RT-Thread's collaboration with STM32 provides developers with an integrated solution that combines RT-Thread's real-time operating system with STM32's microcontroller technology, simplifying the development process for IoT devices.",
+      "category": "rtos",
+      "date": "2026-03-15",
+      "source": "RT-Thread",
+      "url": ""
     },
     {
       "id": 11,
-      "title": "Apple's Retreat from Smart Glasses Market",
-      "summary": "Apple has paused development of a revamped Vision Pro and is redirecting resources towards smart glasses similar to Meta's Ray-Bans.",
-      "content": "Apple's manufacturing partner Luxshare halted Vision Pro production in early 2025, leading to a significant drop in shipments. Apple is now projected to launch basic smart glasses in 2027, with full display AR glasses around 2028. This strategic shift comes after recognizing the challenges in the market and the success of competitors like Meta with their Ray-Ban glasses.",
-      "category": "competitor",
+      "title": "Turing AI Updates Its Platform with New APIs",
+      "summary": "Turing AI has released an update to its platform, introducing new APIs that allow for more flexible and efficient integration with third-party services.",
+      "content": "The update to Turing AI's platform includes the addition of new APIs that enable developers to integrate Turing's AI capabilities into their applications more seamlessly. This move is part of Turing's strategy to expand its AI ecosystem and enhance user experience.",
+      "category": "ai-ecosystem",
       "date": "2026-03-15",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/pulse/xr-industry-2026-where-things-stand-what-comes-next-tony-leone-pgfif"
+      "source": "Turing AI",
+      "url": ""
     },
     {
       "id": 12,
-      "title": "Snap's Spectacles Project Targets Consumer Launch in 2026",
-      "summary": "Snap's standalone Spectacles project is aiming for a consumer launch in late 2026, leveraging its experience in consumer AR.",
-      "content": "Snap has spun its Spectacles project into a standalone company and is targeting a consumer launch in late 2026. With years of experience in consumer AR through filters and lenses, Snap has a unique advantage in making smart glasses culturally native to Gen Z, potentially outpacing other competitors in market adoption.",
-      "category": "competitor",
+      "title": "涂鸦智能 Announces Global Expansion Plans",
+      "summary": "涂鸦智能 has announced plans for global expansion, aiming to increase its market presence and provide IoT solutions to a wider audience.",
+      "content": "涂鸦智能's expansion plans include entering new markets and offering localized IoT solutions. The company's focus on smart home and IoT technologies positions it to capitalize on the growing global demand for connected devices.",
+      "category": "ai-ecosystem",
       "date": "2026-03-15",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/features/smart-glasses-revolution-whats-coming-meta-ray-bans-and-beyond/"
+      "source": "涂鸦智能",
+      "url": ""
     },
     {
       "id": 13,
-      "title": "Qualcomm's Role in Enabling Smart Glasses Technology",
-      "summary": "Qualcomm's Snapdragon AR1+ Gen 1 chip is enabling the next generation of smart glasses with full AI models running entirely on-device.",
-      "content": "Qualcomm's new Snapdragon AR1+ Gen 1 chip is smaller and more powerful, allowing smart glasses to run full AI models on-device without cloud dependency. This advancement is crucial for the development of smart glasses that are genuinely intelligent and can operate independently, powering both Meta's current glasses and the incoming Android XR devices.",
-      "category": "competitor",
+      "title": "New Advancements in Quantum Computing",
+      "summary": "Recent developments in quantum computing have the potential to revolutionize the field, offering significant improvements in processing power and efficiency.",
+      "content": "Researchers have made significant strides in quantum computing, with new advancements that could lead to more powerful and efficient quantum computers. These developments are expected to have a profound impact on various industries, including AI and cryptography.",
+      "category": "other",
       "date": "2026-03-15",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/features/smart-glasses-revolution-whats-coming-meta-ray-bans-and-beyond/"
+      "source": "TechCrunch",
+      "url": ""
     },
     {
       "id": 14,
-      "title": "AI and Wearable Devices in Neurology",
-      "summary": "The American Association of Neurology has released guidance on the use of wearables in neurology, recognizing their potential in improving patient data.",
-      "content": "The guidance from the American Association of Neurology highlights the potential of wearable devices in neurology, suggesting their use in measuring heart rate for seizure detection, sleep detection, and movement data for headache disorders. This indicates a growing acceptance and integration of AI and wearable technology in healthcare.",
-      "category": "ai-ecosystem",
-      "date": "2026-03-12",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/03/12/health-news-warning-from-nih-whistleblower/"
-    },
-    {
-      "id": 15,
-      "title": "Smart Glasses as the Next AI Device",
-      "summary": "Smart glasses are being positioned as the next AI device, with companies like Samsung and Google investing in their development.",
-      "content": "Smart glasses are increasingly seen as the next AI device, with Samsung and Google investing in their development. Samsung's target is to release something for industry this year, while Google is pursuing a three-tier strategy with audio-only, monocular display, and full binocular mixed reality glasses. This shift indicates a significant focus on smart glasses as the next frontier in AI and wearable technology.",
+      "title": "Breakthrough in Flexible Electronics for Wearable Devices",
+      "summary": "Scientists have achieved a breakthrough in flexible electronics, which could lead to the development of more comfortable and functional wearable devices.",
+      "content": "The new flexible electronics technology allows for the creation of wearable devices that can bend and flex with the body without losing functionality. This breakthrough is expected to enhance the user experience and open up new possibilities for wearable tech.",
       "category": "other",
       "date": "2026-03-15",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/features/smart-glasses-revolution-whats-coming-meta-ray-bans-and-beyond/"
+      "source": "Nature",
+      "url": ""
     }
   ]
 }

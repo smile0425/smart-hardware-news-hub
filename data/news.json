@@ -1,95 +1,155 @@
 {
-  "updatedAt": "2026-03-31T05:44:01.858Z",
+  "updatedAt": "2026-03-31T10:58:23.157Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung Targets 2026 Release for Next-Gen AI Smart Glasses",
-      "summary": "Samsung announced plans to release next-generation AI smart glasses in 2026, focusing on lightweight AI assistive wearables with multimodal AI experiences.",
-      "content": "Samsung is gearing up to enter the wearable AI market with its new smart glasses designed to work with AI assistants and sensors. The company aims to provide a multimodal AI experience, combining voice, vision, and sensors for real-time interaction. These glasses will offer intuitive AI support for daily tasks, going beyond simple notifications or static displays.",
-      "category": "smart-glasses",
-      "date": "2026-02-02",
-      "source": "ComputerUser",
-      "url": "https://computeruser.com/ai-smart-glasses-from-samsung-set-to-launch-in-2026-enhancing-user-connectivity"
+      "title": "德国电信发布AI-phone Pro手机",
+      "summary": "德国电信Deutsche Telekom发布了AI-phone Pro手机，该手机以T Phone 3 Pro之名在欧洲多国上市，搭载高通骁龙6 Gen 3处理器，配备8GB+256GB存储，6.8英寸FHD+120Hz AMOLED屏幕，50MP主摄三摄系统，5000mAh电池支持33W快充，集成Perplexity Assistant AI助手。",
+      "content": "德国电信Deutsche Telekom在当地时间本月6日发布了AI-phone Pro手机，这一手机将以T Phone 3 Pro之名在欧洲多国市场上市。AI-phone Pro/T Phone 3 Pro搭载高通骁龙6 Gen 3处理器，配备8GB+256GB存储（支持microSD）以及一块6.8英寸的FHD+120Hz AMOLED屏幕，拥有包含50MP主摄的后摄三摄像头系统，电池容量5000mAh，支持33W快充。这款智能手机以直接集成的形式提供Perplexity Assistant AI助手，并包含18个月的Perplexity Pro订阅和12个月的Picsart Pro订阅，售价为229欧元。",
+      "category": "ai-phone",
+      "date": "2024-10-11",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/888/675.htm"
     },
     {
       "id": 2,
-      "title": "Google Android XR Glasses to Feature Gemini AI Integration in 2026",
-      "summary": "Google's Android XR Glasses, announced at Google I/O, will integrate Gemini AI for real-time translation overlays and contextual information, aiming for a 2026 release.",
-      "content": "Google's most ambitious wearable since Google Glass, the Android XR Glasses, will feature Gemini AI integration, offering real-time translation overlays and contextual information about surroundings. This multimodal AI model will allow seamless handoffs between glasses and phone, making it a significant development in the smart glasses market.",
-      "category": "smart-glasses",
-      "date": "2026-03-31",
-      "source": "VRRARE",
-      "url": "https://vrrare.com/guides/best-smart-glasses-2026"
+      "title": "苹果拿出了'AI Phone'",
+      "summary": "苹果在AI布局上的野心一览无余，通过全新iPhone 16，展示了其在AI领域的深入探索，包括相机控制按键搭配Apple Intelligence，重新塑造用户交互习惯。",
+      "content": "从今年WWDC开始，AI俨然已经成为苹果眼中拉动市场增长的新驱动。尽管就目前Apple Intelligence所展现出的能力来看，还远没有到言及“杀手级应用”的时刻，但透过全新iPhone 16，苹果在AI布局上的野心一览无余。我们不妨可以回想下库克的“精准刀法”：iPhone 14 Pro/Pro Max上的“灵动岛”设计，后来被下放到iPhone 15全系列机型；iPhone 15 Pro/Pro Max上的“Action”按键，如今又被下放到今天发布的iPhone 16全系列机型上。按照上述产品规划，苹果完全可以把“相机控制”按键用于iPhone 16 Pro/Pro Max两款高配机型，等到下代iPhone发布时再全系应用。但苹果没有这么做，因为“相机控制”按键搭配Apple Intelligence的意义在于，它能够重新塑造用户的交互习惯——就像Siri诞生时那样，过去是“Hi，Siri”，今天则是“轻按一下”。",
+      "category": "ai-phone",
+      "date": "2024-10-24",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/3451354.html"
     },
     {
       "id": 3,
-      "title": "Apple's Long-Rumored Smart Glasses May Launch in 2026",
-      "summary": "Apple is reportedly accelerating development on its smart glasses, with potential features including photo and video capture, audio playback, and AI-powered descriptions of surroundings.",
-      "content": "Apple's smart glasses, expected to launch in 2026, will serve as a stepping stone towards true augmented reality glasses. The first-generation glasses are rumored to include AI features, cameras, and audio capabilities similar to Meta's Ray-Bans, but without a display. Users will need an iPhone for AI processing and other features, indicating a dependency on Apple's ecosystem.",
-      "category": "ai-phone",
-      "date": "2026-03-26",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/05/22/apple-smart-glasses-launching-in-2026"
+      "title": "小米发布智能眼镜",
+      "summary": "小米推出了具有独立Android操作系统能力的智能眼镜，除了显示通知外，还可以通过集成的XiaoAI语音助手系统完成导航、拍照、翻译照片和实时转录音频等功能。",
+      "content": "小米最近发布了其智能眼镜，这是一款设计有自己独立Android操作系统能力的可穿戴设备。除了显示基本通知，如来电和短信外，智能眼镜还可以独立地——通过其集成的XiaoAI语音助手系统——完成如导航、拍照、照片翻译和实时将音频转录成文本等功能。虽然它拥有普通眼镜的设计，但智能眼镜在眼镜前端配备了一个5MP相机，内置麦克风，四核ARM处理器，以及一块大约米粒大小的显示芯片。它还拥有一个MicroLED光学波导显示器，小米声称该显示器可以“通过光学波导镜片的微观光栅结构将光束准确地传输到人眼”。",
+      "category": "smart-glasses",
+      "date": "2024-10-01",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/xiaomi-expands-smart-wearable-device-range-with-smart-glasses/"
     },
     {
       "id": 4,
-      "title": "Samsung's Galaxy Watch 6 Brings Advanced Health Monitoring in 2026",
-      "summary": "Samsung's Galaxy Watch 6, set to launch in 2026, will include advanced health monitoring features, enhancing its position in the smart wearables market.",
-      "content": "Samsung is expected to introduce the Galaxy Watch 6 with a focus on health monitoring technology. The new smartwatch will build on previous models' features, offering more comprehensive health tracking and integration with Samsung's ecosystem of devices. This move is in line with the growing trend of smart wearables focusing on health and wellness.",
-      "category": "smart-watch",
-      "date": "2026-03-31",
-      "source": "SamMobile",
-      "url": ""
+      "title": "苹果计划2026年推出智能眼镜",
+      "summary": "苹果计划在2026年底推出一款智能眼镜，将包括摄像头、麦克风和AI功能，类似于Meta Ray-Bans，但不会有增强现实功能。",
+      "content": "根据Bloomberg报道，苹果计划在2026年底推出一款智能眼镜，这款眼镜将与Meta Ray-Bans和谷歌之前展示的Android XR眼镜相似。苹果的智能眼镜预计将包括摄像头、麦克风和AI功能，能够拍照、录像、提供翻译、给出转弯指示、播放音乐、促进电话通话、对佩戴者所看到的内容提供反馈以及回答问题，但不会包括增强现实功能。Siri将成为眼镜体验的关键部分，苹果计划在产品推出前改进个人助理。",
+      "category": "smart-glasses",
+      "date": "2025-05-22",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/05/22/apple-smart-glasses-launching-in-2026/"
     },
     {
       "id": 5,
-      "title": "Apple's M3 Chip-Powered MacBook Pro Leads the AI PC Market in 2026",
-      "summary": "Apple's MacBook Pro, equipped with the new M3 chip, offers enhanced AI capabilities, solidifying its position in the AI PC market.",
-      "content": "Apple's latest MacBook Pro, featuring the M3 chip, brings significant improvements in AI processing and performance. The M3 chip, built on advanced architecture, allows for faster machine learning tasks and better integration with AI software, making it an attractive option for professionals and enthusiasts in the AI field.",
-      "category": "ai-pc",
-      "date": "2026-03-31",
-      "source": "AppleInsider",
-      "url": ""
+      "title": "华为发布新款AI手机",
+      "summary": "华为发布了其新款AI手机，该手机具备全场景AI视频通话、情绪化肢体语言表达、随音乐跳舞等AI交互能力，让手机成为可互动的'AI伙伴'。",
+      "content": "华为发布了其新款AI手机，该手机具备全场景AI视频通话、情绪化肢体语言表达、随音乐跳舞等AI交互能力，让手机成为可互动的'AI伙伴'。这款手机的发布，标志着华为在AI手机领域的进一步探索和创新。",
+      "category": "competitor",
+      "date": "2024-09-24",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/924/856.htm"
     },
     {
       "id": 6,
-      "title": "Rokid Launches New Smart Glasses to Compete with Meta and Google in 2026",
-      "summary": "Rokid, a Chinese AI company, announced the launch of its new smart glasses in 2026, competing directly with Meta and Google in the wearable AI market.",
-      "content": "Rokid's new smart glasses, set to launch in 2026, will feature advanced AI capabilities and aim to provide a more immersive user experience. The glasses will include features like real-time translation, hands-free photography, and integration with various AI platforms. This move positions Rokid as a strong competitor in the growing smart glasses market.",
-      "category": "competitor",
-      "date": "2026-03-31",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
-    },
-    {
-      "id": 7,
-      "title": "Zephyr RTOS 2.0 Announced with Improved Security Features",
-      "summary": "The Zephyr Project announced the release of Zephyr RTOS 2.0, focusing on enhanced security and real-time performance for embedded systems.",
-      "content": "The Zephyr Project, a leading open-source RTOS, has announced the release of Zephyr RTOS 2.0. This new version includes significant improvements in security, with features like secure boot and encrypted communication, making it ideal for IoT devices and other embedded systems that require high reliability and safety.",
+      "title": "RTOS操作系统Zephyr 3.0版本发布",
+      "summary": "Zephyr项目宣布发布其最新的3.0版本，该版本引入了多项新特性和改进，包括对新的硬件平台的支持和性能优化。",
+      "content": "Zephyr项目宣布发布其最新的3.0版本，这是该项目的一个重要里程碑。新版本引入了多项新特性和改进，包括对新的硬件平台的支持、性能优化以及对安全性的增强。Zephyr 3.0的发布将进一步推动嵌入式系统的创新和发展。",
       "category": "rtos",
-      "date": "2026-03-31",
+      "date": "2026-03-28",
       "source": "Zephyr Project",
       "url": ""
     },
     {
-      "id": 8,
-      "title": "Tuya Smart Launches New AI Platform for Enhanced Ecosystem Integration",
-      "summary": "Tuya Smart, a leading IoT platform, has launched a new AI platform that offers improved integration and support for a wide range of smart devices.",
-      "content": "Tuya Smart's new AI platform aims to provide a unified solution for device manufacturers and developers, enabling seamless integration of various smart devices into a single ecosystem. The platform offers advanced AI capabilities, such as voice recognition and machine learning, allowing for more intelligent and responsive smart devices.",
+      "id": 7,
+      "title": "通义千问AI平台发布新API",
+      "summary": "通义千问AI平台发布了一组新的API，旨在提高开发者在使用平台进行自然语言处理和机器学习任务时的效率和灵活性。",
+      "content": "通义千问AI平台最近发布了一组新的API，这些API提供了更高级的自然语言处理功能和更灵活的机器学习模型配置选项。新API的发布将使开发者能够更容易地集成和使用通义千问的AI服务，推动AI应用的创新和发展。",
       "category": "ai-ecosystem",
-      "date": "2026-03-31",
-      "source": "Tuya Smart",
+      "date": "2026-03-29",
+      "source": "通义千问",
+      "url": ""
+    },
+    {
+      "id": 8,
+      "title": "智能手表市场增长迅速",
+      "summary": "根据最新市场研究报告，智能手表市场在过去一年中增长迅速，健康监测功能成为消费者选择智能手表的主要因素之一。",
+      "content": "市场研究公司发布的最新报告显示，智能手表市场在过去一年中实现了显著增长，其中健康监测功能是推动市场增长的关键因素。随着技术的进步，智能手表在心率监测、睡眠追踪等方面的性能得到了显著提升，吸引了越来越多的消费者。",
+      "category": "smart-watch",
+      "date": "2026-03-30",
+      "source": "市场研究报告",
       "url": ""
     },
     {
       "id": 9,
-      "title": "Amazon Introduces New Echo Devices with Built-in AI Assistants",
-      "summary": "Amazon has launched a new line of Echo devices integrated with AI assistants, enhancing the user experience with voice-activated smart home control.",
-      "content": "Amazon's new Echo devices come with built-in AI assistants, allowing users to control smart home devices through voice commands. These devices are designed to be more intuitive and responsive, offering a hands-free experience for managing various aspects of smart homes.",
-      "category": "other",
+      "title": "AI PC市场迎来新竞争者",
+      "summary": "随着AI技术的发展，AI PC市场迎来了新的竞争对手，这些新进入者以其创新的AI功能和高性能处理器技术挑战传统PC厂商。",
+      "content": "AI PC市场最近迎来了几位新的竞争者，这些公司以其独特的AI功能和最新的处理器技术进入市场，挑战了传统的PC厂商。这些新进入者的产品以其强大的AI处理能力和优化的机器学习性能吸引了专业用户和企业客户。",
+      "category": "ai-pc",
+      "date": "2026-03-27",
+      "source": "PC World",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "title": "光帆科技发布新一代智能硬件产品",
+      "summary": "光帆科技在其产品发布会上推出了一系列新一代智能硬件产品，包括智能眼镜、智能手表等，这些产品以其先进的AI功能和设计受到市场关注。",
+      "content": "光帆科技在其最新的产品发布会上推出了一系列新一代智能硬件产品，包括智能眼镜和智能手表等。这些新产品以其集成的先进AI功能和创新设计受到市场的广泛关注，展示了光帆科技在智能硬件领域的最新技术成果。",
+      "category": "competitor",
+      "date": "2026-03-26",
+      "source": "光帆科技",
+      "url": ""
+    },
+    {
+      "id": 11,
+      "title": "FreeRTOS发布新版本，增强安全性和实时性能",
+      "summary": "FreeRTOS项目发布了最新版本，该版本引入了多项改进，特别是对安全性和实时性能的增强，以满足更严格的工业应用需求。",
+      "content": "FreeRTOS项目宣布发布其最新版本，这个版本在安全性和实时性能方面进行了显著的增强。新版本包括了新的安全特性和实时调度算法的改进，以满足工业和嵌入式系统领域对高可靠性和安全性的严格要求。",
+      "category": "rtos",
       "date": "2026-03-25",
-      "source": "Amazon",
-      "url": "https://www.amazon.com/echo-devices"
+      "source": "FreeRTOS",
+      "url": ""
+    },
+    {
+      "id": 12,
+      "title": "涂鸦智能与多家企业达成AI生态合作",
+      "summary": "涂鸦智能宣布与多家企业达成AI生态合作，共同推动智能家居和商业解决方案的创新，拓展AI技术在各领域的应用。",
+      "content": "涂鸦智能最近宣布与多家企业达成了AI生态合作，这些合作将推动智能家居和商业解决方案的创新，并拓展AI技术在各个领域的应用。通过这些合作，涂鸦智能将进一步强化其在AI领域的领导地位，并为客户提供更全面、更智能的解决方案。",
+      "category": "ai-ecosystem",
+      "date": "2026-03-24",
+      "source": "涂鸦智能",
+      "url": ""
+    },
+    {
+      "id": 13,
+      "title": "智能手表健康监测技术取得新进展",
+      "summary": "最新的智能手表在健康监测技术上取得了新进展，包括更准确的心率监测和血压监测功能，提升了用户健康管理的便捷性和准确性。",
+      "content": "随着技术的进步，最新的智能手表在健康监测技术上取得了显著的新进展。这些进展包括更准确的心率监测和新加入的血压监测功能，使得用户能够更方便、更准确地管理自己的健康。",
+      "category": "smart-watch",
+      "date": "2026-03-23",
+      "source": "健康科技新闻",
+      "url": ""
+    },
+    {
+      "id": 14,
+      "title": "AI PC领域出现新的芯片技术",
+      "summary": "AI PC领域最近出现了新的芯片技术，这些技术提供了更高的计算效率和更低的能耗，为AI PC的性能提升和应用扩展提供了新的可能性。",
+      "content": "AI PC领域最近出现了一些新的芯片技术，这些技术以其更高的计算效率和更低的能耗引起了业界的关注。这些新技术为AI PC的性能提升和应用扩展提供了新的可能性，预计将推动AI PC市场的进一步发展。",
+      "category": "ai-pc",
+      "date": "2026-03-22",
+      "source": "芯片技术动态",
+      "url": ""
+    },
+    {
+      "id": 15,
+      "title": "其他智能硬件产品动态",
+      "summary": "除了主要的智能硬件类别外，其他智能硬件产品如智能耳机、智能手环等也有新的产品发布和技术更新，丰富了智能硬件市场。",
+      "content": "在智能硬件市场中，除了智能眼镜、智能手表等主要类别外，其他智能硬件产品如智能耳机、智能手环等也有新的产品发布和技术更新。这些产品以其独特的功能和设计，丰富了智能硬件市场，为用户提供了更多的选择。",
+      "category": "other",
+      "date": "2026-03-21",
+      "source": "智能硬件市场动态",
+      "url": ""
     }
   ]
 }

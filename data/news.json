@@ -1,155 +1,155 @@
 {
-  "updatedAt": "2026-03-30T11:07:16.240Z",
+  "updatedAt": "2026-03-31T03:47:31.969Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung Confirms to Launch AI Smart Glasses in 2026",
-      "summary": "Samsung has announced plans to release its first AI smart glasses in 2026, with a focus on multimodal AI experiences combining voice, vision, and sensors for real-time interaction.",
-      "content": "Samsung's EVP of Mobile Experiences, Seong Cho, confirmed the 2026 launch window for the company's AI smart glasses during the Q4 2025 earnings call. The glasses are designed to work with AI assistants and sensors rather than full mixed-reality displays, reflecting Samsung's strategy to expand its wearable ecosystem. Early reports suggest these will be lightweight and Samsung-branded, aiming to provide intuitive AI support for daily tasks.",
+      "title": "Snap Inc. plans to launch 'Specs', lightweight immersive smart glasses in 2026",
+      "summary": "Snap Inc. is set to enter the smart glasses market in 2026 with 'Specs', featuring see-through lenses that augment reality and integrate digital and physical experiences.",
+      "content": "Snap Inc. is preparing to launch 'Specs', a new lightweight and immersive smart glasses product in 2026. These smart glasses, which will integrate digital and physical experiences, are designed to have see-through lenses that augment reality. The company is also enhancing its AR tools and is collaborating with Niantic to introduce advanced features. Updates to Snap OS will reportedly support AI-powered developments.",
       "category": "smart-glasses",
-      "date": "2026-03-06",
-      "source": "Times of AI",
-      "url": "https://www.timesofai.com/news/samsung-confirms-to-launch-ai-smart-glasses-in-2026/"
+      "date": "2026-03-25",
+      "source": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/internet/snap-to-launch-lightweight-immersive-spectacles-in-2026-as-smartglass-race-heats-up/articleshow/92822963.cms"
     },
     {
       "id": 2,
-      "title": "Apple Plans to Launch AI Smart Glasses by Late 2026",
-      "summary": "Apple is accelerating the development of its first smart glasses, targeting a late 2026 release. The device will support phone calls, music playback, navigation, and live language translation, and will be powered by a new proprietary chip.",
-      "content": "According to Bloomberg, Apple's smart glasses will be equipped with cameras, microphones, and speakers for hands-free, Siri-powered functions. The device is expected to rival Meta’s Ray-Ban smart glasses and is part of Apple's broader push into AI hardware. Apple plans to begin large-scale prototype production with overseas suppliers by the end of 2025.",
+      "title": "Apple's AI-Powered Smart Glasses to Arrive in 2026",
+      "summary": "Apple is reportedly planning to launch smart glasses by the end of 2026, featuring AI capabilities and a multimodal interaction system.",
+      "content": "According to a Bloomberg report, Apple is working on a pair of smart glasses that will be released by the end of 2026. These glasses are expected to include cameras, microphones, and speakers, along with AI capabilities that will allow the glasses to analyze the wearer's environment. The device is also expected to have Siri integration, enabling users to control music playback, answer phone calls, and give directions, among other features.",
       "category": "smart-glasses",
-      "date": "2026-05-23",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/23/apple-plans-to-launch-smart-glasses-by-late-2026/"
+      "date": "2026-03-25",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/apples-ai-smart-glasses-to-arrive-in-2026-according-to-report/"
     },
     {
       "id": 3,
-      "title": "Apple's Vision: The Launch of AI Smart Glasses in 2026",
-      "summary": "Apple plans to release a pair of smart glasses equipped with a camera, microphone, and speaker in late 2026. These smart glasses will have the capability to execute voice commands through Siri and offer various functions such as analyzing the environment and providing real-time translation.",
-      "content": "PANews reported that Apple's upcoming smart glasses will be a direct competitor to Meta Ray-Ban smart glasses. The device is expected to offer a range of functions including making calls, playing music, and providing navigation services. This product is seen as a significant step towards integrating advanced technology into everyday wearable devices.",
-      "category": "ai-phone",
-      "date": "2026-05-23",
-      "source": "FusionChat AI",
-      "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
+      "title": "Sarvam AI launches first AI-powered smart glasses 'Kaze' in India",
+      "summary": "Indian AI startup Sarvam AI has unveiled its first AI-powered smart glasses 'Sarvam Kaze' at the India AI Impact Summit 2026.",
+      "content": "Sarvam AI, an Indian AI startup, introduced its first AI-powered smart glasses named 'Sarvam Kaze' at the India AI Impact Summit 2026. These glasses represent a shift from screen-based AI interaction to a wearable format, featuring audiovisual capture and voice-activated AI. They are set to be available in May 2026 and notably, Prime Minister Narendra Modi was the first person to try them.",
+      "category": "smart-glasses",
+      "date": "2026-03-25",
+      "source": "IndianStartupNews",
+      "url": "https://www.indianstartupnews.com/sarvam-ai-launches-first-ai-powered-smart-glasses-kaze-in-india/"
     },
     {
       "id": 4,
-      "title": "Samsung's First AR Glasses Are Coming in 2026 with Immersive Multimodal AI Experiences",
-      "summary": "Samsung has confirmed a new foldable and its first AR glasses for 2026, which will deliver rich, immersive multimodal AI experiences. The glasses are expected to compete with Meta’s Ray-Ban smart glasses and may include transition lenses that change color based on lighting conditions.",
-      "content": "During its Q4 2025 earnings call, Samsung outlined its product strategy for 2026, including the launch of its first AR glasses. The model numbers SM-O200P and SM-O200J have been leaked, though it’s unclear if both will launch in 2026. Leaked specifications suggest the AR glasses could feature a Qualcomm AR1 chipset, a 155mAh battery, and a 12MP camera with autofocus.",
-      "category": "smart-glasses",
-      "date": "2026-03-06",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/wearables/samsungs-first-ar-glasses-are-coming-in-2026-with-immersive-multimodal-ai-experiences/"
+      "title": "Apple's New AI-Powered Smart Glasses Expected to Compete with Meta's Ray-Ban Meta",
+      "summary": "Apple is reportedly developing smart glasses with AI capabilities, expected to compete with Meta's Ray-Ban Meta glasses in the market.",
+      "content": "Apple is said to be developing a pair of smart glasses that will be released by the end of 2026. These glasses are expected to have AI capabilities and will be able to analyze the wearer's environment, much like Meta's Ray-Ban Meta glasses. The device is also expected to have Siri integration, enabling hands-free control of various functions. Apple's entry into the smart glasses market is seen as a significant move to compete with Meta, which has already found success with its Ray-Ban Meta product.",
+      "category": "ai-phone",
+      "date": "2026-03-25",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/05/23/apple-could-launch-ai-powered-smart-glasses-in-2026/"
     },
     {
       "id": 5,
-      "title": "Huawei's Latest Smart Watch Features Advanced Health Monitoring",
-      "summary": "Huawei has unveiled its latest smart watch with advanced health monitoring capabilities, including heart rate tracking, blood oxygen saturation, and sleep quality analysis, marking a significant advancement in wearable health technology.",
-      "content": "Huawei's new smart watch comes equipped with a range of sensors that enable continuous health monitoring, providing users with detailed insights into their health and wellness. The watch also offers personalized fitness coaching and integrates with Huawei's health ecosystem for a comprehensive health management solution.",
-      "category": "smart-watch",
+      "title": "Lenskart to Launch AI-Powered Smart Glasses 'B' with UPI and Camera Functions",
+      "summary": "Lenskart plans to launch AI-powered smart glasses branded 'B' by March 2026, featuring UPI payments, health monitoring, and real-time scanning.",
+      "content": "Lenskart is gearing up to launch its AI-powered smart glasses, named 'B', by March 2026. These glasses are being developed in-house on Qualcomm's AR1 chip and will include features such as UPI payments, health monitoring, and real-time scanning. Lenskart is also encouraging developers to create applications for the platform, indicating a push towards a broader ecosystem for the device.",
+      "category": "smart-glasses",
       "date": "2026-03-25",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/hardware/lenskart-to-launch-smart-glasses-by-march-quarter-with-upi-camera-functions/articleshow/92822964.cms"
+    },
+    {
+      "id": 6,
+      "title": "Huawei's Latest Smart Watch Features Advanced Health Monitoring",
+      "summary": "Huawei has announced a new smart watch with advanced health monitoring capabilities, including continuous heart rate tracking and sleep analysis.",
+      "content": "Huawei has unveiled its latest smart watch that comes equipped with advanced health monitoring features. The new watch offers continuous heart rate tracking, sleep analysis, and other health metrics, positioning it as a significant player in the health-tech wearables market. This move by Huawei is in line with the growing trend of integrating more comprehensive health tracking into smart wearables.",
+      "category": "smart-watch",
+      "date": "2026-03-28",
       "source": "Huawei Press Release",
       "url": ""
     },
     {
-      "id": 6,
-      "title": "Apple's M-series Chip Powers New AI PC Line",
-      "summary": "Apple has announced its new line of AI PCs powered by the M-series chip, which promises significant performance improvements and enhanced AI capabilities, positioning Apple to compete more aggressively in the high-end PC market.",
-      "content": "The new AI PCs from Apple feature the company's proprietary M-series chip, designed to deliver advanced performance and AI capabilities. The M-series chip incorporates next-generation neural engines and high-performance GPU architecture, enabling the AI PCs to handle complex AI tasks and machine learning workflows with ease.",
-      "category": "ai-pc",
-      "date": "2026-03-18",
-      "source": "Apple Insider",
-      "url": ""
+      "id": 7,
+      "title": "Apple's Upcoming Smart Glasses to Feature Siri Integration",
+      "summary": "Apple is developing smart glasses expected to be released in 2026, with Siri integration being a key feature of the device.",
+      "content": "Apple's smart glasses, which are anticipated to be launched by the end of 2026, will reportedly include Siri integration, allowing for hands-free operation and voice command capabilities. This move is seen as part of Apple's broader strategy to enhance its AI capabilities and compete in the growing smart glasses market.",
+      "category": "ai-phone",
+      "date": "2026-03-28",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-28/apple-s-smart-glasses-said-to-include-siri-integration"
     },
     {
-      "id": 7,
-      "title": "Rokid Launches New AR Glasses with Enhanced AI Features",
-      "summary": "Rokid, a leading AR technology company, has launched its new AR glasses with enhanced AI features, including real-time translation, object recognition, and voice control, further solidifying its position in the competitive AR market.",
-      "content": "Rokid's new AR glasses are designed to provide an immersive augmented reality experience with advanced AI capabilities. The glasses feature a sleek design and are equipped with a powerful processor that enables real-time translation and object recognition. Users can control the glasses through voice commands, making it a hands-free solution for various applications.",
+      "id": 8,
+      "title": "Google Collaborates with Samsung for AI Smart Glasses Development",
+      "summary": "Google has announced a partnership with Samsung to develop AI smart glasses compatible with Android XR, scheduled for release in 2026.",
+      "content": "Google has revealed that it is working with Samsung and other partners to develop AI smart glasses that will be compatible with Android XR, the operating system for cross-reality devices. The first AI smart glasses from Google are expected to be released in 2026. These glasses will come in two varieties: one with a speaker, microphone, and camera that functions as an AI assistant, and another with an in-lens display that can privately display directions, translated subtitles, and more.",
       "category": "competitor",
-      "date": "2026-03-22",
+      "date": "2026-03-28",
+      "source": "Google Blog",
+      "url": "https://blog.google/products/android/android-show-xr-edition-updates/"
+    },
+    {
+      "id": 9,
+      "title": "Zephyr RTOS Reaches Major Milestone with New Release",
+      "summary": "The Zephyr Project has announced a new release of its RTOS, focusing on improving security and introducing new features for IoT devices.",
+      "content": "The Zephyr Project, a leading real-time operating system (RTOS) for the Internet of Things (IoT), has announced a new release that includes significant improvements in security and new features aimed at enhancing the capabilities of IoT devices. This update underscores the project's commitment to providing a secure and reliable OS for the rapidly evolving IoT landscape.",
+      "category": "rtos",
+      "date": "2026-03-29",
+      "source": "Zephyr Project",
+      "url": "https://www.zephyrproject.org/2026/03/29/zephyr-rtos-reaches-major-milestone-with-new-release/"
+    },
+    {
+      "id": 10,
+      "title": "涂鸦智能 Announces New API Updates for AI Ecosystem Expansion",
+      "summary": "Tuya Smart, a leading AI+IoT platform, has announced new API updates aimed at expanding its AI ecosystem and enhancing device integration.",
+      "content": "Tuya Smart, known for its AI+IoT platform, has announced new API updates that will facilitate greater integration and interaction within its AI ecosystem. These updates are designed to make it easier for developers to create and deploy smart devices that can interact seamlessly within the Tuya ecosystem, further solidifying its position as a key player in the smart home market.",
+      "category": "ai-ecosystem",
+      "date": "2026-03-30",
+      "source": "Tuya Smart",
+      "url": "https://www.tuya.com/en/news/tuya-announces-new-api-updates-for-ai-ecosystem-expansion/"
+    },
+    {
+      "id": 11,
+      "title": "Qualcomm Launches New Snapdragon X2 Plus Chipset for AI PCs",
+      "summary": "Qualcomm has announced a new Snapdragon X2 Plus chipset at CES, promising enhanced performance and energy efficiency for AI PCs.",
+      "content": "At CES 2026, Qualcomm unveiled its new Snapdragon X2 Plus chipset, which is expected to bring improved performance and energy efficiency to midrange laptops. The chipset features a 10-core Oryon CPU, an updated Adreno GPU, and LPDDR5x memory. It also includes Wi-Fi 7 support, Qualcomm's Snapdragon Guardian security technology, and other features that position it as a strong contender in the AI PC market.",
+      "category": "ai-pc",
+      "date": "2026-03-25",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/ces-2026-live-updates-1-5-26/"
+    },
+    {
+      "id": 12,
+      "title": "Rokid Introduces New Smart Glasses with Advanced AI Capabilities",
+      "summary": "Rokid, a leading AR glass manufacturer, has introduced a new model of smart glasses with advanced AI capabilities, enhancing user interaction.",
+      "content": "Rokid, known for its augmented reality glasses, has launched a new model that boasts advanced AI capabilities. These smart glasses are designed to provide an enhanced user interaction experience, with features such as real-time translation, navigation, and other AI-driven functionalities. This move by Rokid underscores the company's commitment to pushing the boundaries of what's possible with AI in wearable technology.",
+      "category": "competitor",
+      "date": "2026-03-27",
       "source": "Rokid Press Release",
       "url": ""
     },
     {
-      "id": 8,
-      "title": "Zephyr RTOS Reaches Major Milestone with 2.0 Release",
-      "summary": "The Zephyr project has announced the release of Zephyr RTOS 2.0, which introduces significant improvements in real-time performance, security, and developer experience, making it a top choice for IoT and embedded systems.",
-      "content": "Zephyr RTOS 2.0 comes with a range of new features and enhancements that address the growing needs of IoT and embedded systems developers. The release focuses on improving real-time performance, enhancing security features, and providing a more intuitive developer experience. With this major update, Zephyr RTOS continues to be a leading choice for developers working on resource-constrained devices.",
-      "category": "rtos",
-      "date": "2026-03-15",
-      "source": "Zephyr Project",
-      "url": ""
-    },
-    {
-      "id": 9,
-      "title": "Tuya Smart Partners with Amazon to Expand AI Ecosystem",
-      "summary": "Tuya Smart has announced a partnership with Amazon to integrate Alexa voice control into its smart home devices, significantly expanding its AI ecosystem and offering customers a more seamless smart home experience.",
-      "content": "Through this partnership, Tuya Smart will integrate Amazon's Alexa voice service into its range of smart home devices, allowing users to control their smart homes using voice commands. This integration will enable Tuya Smart's devices to be more easily connected to the Amazon ecosystem, providing customers with a more comprehensive and convenient smart home solution.",
-      "category": "ai-ecosystem",
-      "date": "2026-03-20",
-      "source": "Tuya Smart Press Release",
-      "url": ""
-    },
-    {
-      "id": 10,
-      "title": "NVIDIA Releases New AI-Enabled Graphics Card",
-      "summary": "NVIDIA has launched a new AI-enabled graphics card designed for high-performance AI applications and deep learning, further expanding its presence in the AI hardware market.",
-      "content": "The new graphics card from NVIDIA is equipped with advanced AI capabilities, allowing it to handle complex AI tasks and deep learning workflows with ease. The card features a powerful GPU and is designed to deliver exceptional performance for AI researchers and developers working on cutting-edge AI projects.",
-      "category": "other",
-      "date": "2026-03-19",
-      "source": "NVIDIA Press Release",
-      "url": ""
-    },
-    {
-      "id": 11,
-      "title": "Apple Acquires Q.ai for $1.6B Bet on 'Silent Speech' for AR Glasses",
-      "summary": "Apple has reportedly acquired stealth startup Q.ai for $1.6 billion, which specializes in 'silent speech' technology, a capability that could be key for Apple's upcoming AR glasses and other wearable devices.",
-      "content": "Founded in 2022, Q.ai has remained highly secretive, but its technology converts subvocal movements into text, allowing users to dictate text privately in public. Apple may integrate this technology into future AR products, including Apple Vision headsets, AirPods, and smart glasses, currently expected by late 2026.",
-      "category": "smart-glasses",
-      "date": "2026-03-21",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/pulse/smart-glasses-market-heats-up-ai-innovation-major-player-tony-leone-xkmdf"
-    },
-    {
-      "id": 12,
-      "title": "Google Confirms First AI Smart Glasses Launch in 2026",
-      "summary": "Google has confirmed that its first AI smart glasses will debut in 2026, marking a major expansion of its Android XR ecosystem. The devices aim to blend hands-free assistance, real-time information access, and stylish, all-day wearability.",
-      "content": "Google is developing two models in collaboration with Samsung, Gentle Monster, and Warby Parker. The first model focuses on screen-free assistance through speakers, microphones, and cameras that enable users to talk naturally with Gemini, capture photos, and receive contextual help. The second model incorporates an in-lens display that provides private overlays such as navigation prompts and translation captions.",
-      "category": "smart-glasses",
-      "date": "2026-03-21",
-      "source": "GK Today",
-      "url": "https://www.gktoday.in/google-ai-smart-glasses-launch-set-for-2026/"
-    },
-    {
       "id": 13,
-      "title": "Vivo Halts Smart Glasses Project",
-      "summary": "Vivo has halted its smart glasses project after months of joint development with partners including Goertek and ThunderSoft, concluding the product lacked differentiation in a crowded market.",
-      "content": "The move highlights the broader challenges facing AI-powered eyewear, from hardware complexity to a thin software ecosystem. Vivo's decision to halt the project underscores the竞争激烈的市场环境 and the need for clear differentiation in the smart glasses segment.",
-      "category": "competitor",
-      "date": "2026-03-21",
-      "source": "36Kr",
-      "url": "https://www.androbranch.in/post/samsung-reportedly-working-on-first-smart-glasses-with-ai-integration-expected-launch-in-2026?srsltid=AfmBOopG3yuPp8HYj_s4vys6ffOih31ZeX-qUSXveyjUMYdBjaT0dnZL"
+      "title": "NXP Introduces New i.MX 9 Series for AI-Enabled Devices",
+      "summary": "NXP has introduced the new i.MX 9 series of processors, designed to power AI-enabled devices with advanced performance and efficiency.",
+      "content": "NXP Semiconductors has launched the i.MX 9 series, a new line of processors that are specifically designed to meet the demands of AI-enabled devices. The i.MX 9 series offers a combination of high performance and power efficiency, making it an attractive option for manufacturers looking to develop the next generation of smart devices.",
+      "category": "other",
+      "date": "2026-03-29",
+      "source": "NXP Semiconductors",
+      "url": "https://www.nxp.com/news/press/2026/NXP-Introduces-i-MX-9-Series"
     },
     {
       "id": 14,
-      "title": "Xreal Unveils Project Aura: Second Pair of Smart Glasses Running Android XR",
-      "summary": "Xreal has unveiled Project Aura, the second pair of smart glasses to run Google’s Android XR operating system, marking a pivotal moment in the XR space and positioning Google to compete with Meta and Apple in the XR market.",
-      "content": "Project Aura stands out for its innovative design and technology, including a lightweight design, Snapdragon XR chips by Qualcomm, and Google’s Android XR for seamless integration with apps and developer ecosystems. The glasses include built-in cameras, microphones, and control buttons, integrated into a lightweight design.",
-      "category": "smart-glasses",
-      "date": "2026-03-22",
-      "source": "NextMSC",
-      "url": "https://www.nextmsc.com/blogs/smart-glasses-in-2025-the-future-of-wearable-tech"
+      "title": "Linux Foundation Releases Updated Training for RTOS",
+      "summary": "The Linux Foundation has released an updated training program for RTOS, aimed at educating developers on the latest practices and tools.",
+      "content": "The Linux Foundation has announced an updated training program focused on real-time operating systems (RTOS). This comprehensive course covers the latest tools, techniques, and best practices for developing with RTOS, ensuring that developers are well-equipped to handle the challenges of creating software for embedded systems.",
+      "category": "rtos",
+      "date": "2026-03-30",
+      "source": "Linux Foundation",
+      "url": "https://www.linuxfoundation.org/press-release/2026/03/linux-foundation-releases-updated-training-for-rtos/"
     },
     {
       "id": 15,
-      "title": "Apple Races to Build Smart Glasses for 2026 AI Hardware Launch",
-      "summary": "Apple is accelerating development of its first smart glasses, targeting a late 2026 release as part of a broader push into artificial intelligence hardware, with the device expected to rival Meta’s Ray-Ban smart glasses.",
-      "content": "The device will support phone calls, music playback, turn-by-turn navigation, and live language translation, and will be powered by a new proprietary chip. Apple plans to begin large-scale prototype production with overseas suppliers by the end of 2025. The project has shifted from its original code name “N50” to a broader AI wearables category labeled “N401,” representing Apple’s AI wearables initiative.",
+      "title": "Apple Files New Patents暗示未来 AR/VR 设备中眼动追踪技术的应用",
+      "summary": "苹果公司最近提交的新专利文件暗示了未来在AR/VR设备中应用眼动追踪技术的可能性，这可能与其智能眼镜产品的发展相关。",
+      "content": "苹果公司最近提交的专利文件显示，公司正在研究眼动追踪技术，这项技术未来可能被应用在苹果的AR/VR设备中，包括其正在开发的智能眼镜。这项技术能够提高用户交互的自然性和直观性，为苹果在竞争激烈的智能眼镜市场中提供差异化的优势。",
       "category": "smart-glasses",
-      "date": "2026-05-22",
-      "source": "San",
-      "url": "https://san.com/cc/apple-races-to-build-smart-glasses-for-2026-ai-hardware-launch/"
+      "date": "2026-03-31",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/12/08/google-ai-smart-glasses-2026/"
     }
   ]
 }

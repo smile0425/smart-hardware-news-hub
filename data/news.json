@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-01T03:59:32.386Z",
+  "updatedAt": "2026-04-01T05:53:30.237Z",
   "news": [
     {
       "id": 1,
       "title": "Samsung Confirms AI Smart Glasses Launch in 2026",
-      "summary": "Samsung has confirmed the launch of its AI smart glasses in 2026, which will feature a multimodal AI experience combining voice, vision, and sensors for real-time interaction.",
-      "content": "Samsung announced during its Q4 2025 investor presentation that it is targeting a 2026 release window for next-generation AR or AI smart glasses. The company mentioned this goal on its Q4 2025 earnings call, signaling a major move into wearable AI. Samsung frames the glasses as lighter AI assistive wearables, while the Galaxy XR is a separate immersive headset offering more immersive visuals and spatial computing features.",
+      "summary": "Samsung has announced plans to launch next-generation AI smart glasses in 2026, focusing on multimodal AI experiences combining voice, vision, and sensors for real-time interaction.",
+      "content": "Samsung's EVP of Mobile Experiences, Seong Cho, confirmed the company's intention to enter the wearable AI market with smart glasses in 2026. These glasses will provide a 'multimodal AI experience', offering intuitive AI support for daily tasks and contextual assistance through voice commands and visual cues. The announcement came during Samsung's Q4 2025 earnings call, indicating a significant move into wearable technology.",
       "category": "smart-glasses",
       "date": "2026-02-02",
-      "source": "ComputerUser",
+      "source": "Computer User",
       "url": "https://computeruser.com/ai-smart-glasses-from-samsung-set-to-launch-in-2026-enhancing-user-connectivity"
     },
     {
       "id": 2,
       "title": "Apple Plans to Launch AI Smart Glasses by Late 2026",
-      "summary": "Apple is reportedly planning to release a pair of smart glasses equipped with a camera, microphone, and speaker in late 2026, offering functions such as environment analysis, calls, music, real-time translation, and navigation.",
-      "content": "Apple plans to launch smart glasses by late 2026, featuring cameras, microphones, and Siri integration, as it steps up its AI hardware push. The company has shelved plans for a camera-equipped smartwatch and is accelerating chip production for the glasses. The move comes as Apple races to catch up with Meta and others in the wearables market.",
+      "summary": "Apple is reportedly planning to release smart glasses with camera, microphone, and Siri integration in late 2026, aiming to compete with Meta and others in the wearables market.",
+      "content": "According to Bloomberg, Apple plans to launch a pair of smart glasses equipped with a camera, microphone, and speaker in late 2026. These smart glasses will have the capability to execute voice commands through Siri and offer various functions such as analyzing the environment, making calls, playing music, providing real-time translation, and navigation services. This upcoming product from Apple is seen as a direct competitor to Meta Ray-Ban smart glasses.",
       "category": "smart-glasses",
-      "date": "2025-05-23",
+      "date": "2026-05-23",
       "source": "KrASIA",
       "url": "https://www.kr-asia.com/pulses/153883"
     },
@@ -25,7 +25,7 @@
       "id": 3,
       "title": "Apple Testing Standalone Siri App for iOS 27",
       "summary": "Apple is reportedly testing a standalone Siri app for iOS 27 that works like a chatbot, with a new look and 'Ask Siri' button across apps.",
-      "content": "In a move to enhance user interaction with AI, Apple is testing a standalone Siri app for iOS 27 that functions like a chatbot, featuring a refreshed interface and an 'Ask Siri' button within various apps. This update aims to provide a more integrated and conversational AI experience for users.",
+      "content": "In a move to enhance the AI capabilities of its mobile operating system, Apple is testing a standalone Siri app for iOS 27. The app is designed to function like a chatbot, offering a refreshed interface and an 'Ask Siri' button that will be accessible across various apps. This update signifies Apple's ongoing efforts to integrate AI more deeply into its ecosystem and improve user interaction with AI services.",
       "category": "ai-phone",
       "date": "2026-03-25",
       "source": "Phandroid",
@@ -33,19 +33,19 @@
     },
     {
       "id": 4,
-      "title": "Smart Watch Market to See Growth with Health Monitoring Features",
-      "summary": "The smart watch market is predicted to grow significantly due to advanced health monitoring features, with major players like Apple and Samsung leading the innovation.",
-      "content": "As the demand for wearable technology with health monitoring capabilities increases, the smart watch market is set to witness substantial growth. Features such as heart rate monitoring, sleep tracking, and stress detection are becoming increasingly popular among consumers, driving the market forward. Companies like Apple and Samsung are at the forefront of this trend, continually innovating to integrate more advanced health monitoring technologies into their smart watches.",
+      "title": "Apple Watch and Apple Watch Ultra Models with Cameras Shelved",
+      "summary": "Apple has decided to cancel the plans for camera-equipped Apple Watch and Apple Watch Ultra models that were expected in 2027.",
+      "content": "While Apple is actively developing AI-powered smart glasses and AirPods with integrated cameras, the company has reportedly shelved plans for Apple Watch models with cameras. This decision comes as Apple focuses on other wearable technology advancements, such as smart glasses, and aims to maintain a balance between functionality and user privacy.",
       "category": "smart-watch",
-      "date": "2026-03-29",
-      "source": "CNX-Software",
-      "url": "https://www.cnx-software.com"
+      "date": "2026-05-23",
+      "source": "Bloomberg",
+      "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
     },
     {
       "id": 5,
-      "title": "Nvidia Expects Trillion-Dollar Revenue Through AI Chip Sales",
-      "summary": "Nvidia's CEO predicts that the company will generate at least a trillion dollars in revenue through AI chip sales in the next year, highlighting the growing importance of AI in the PC industry.",
-      "content": "Jensen Huang, CEO of Nvidia, has stated that he expects the company to achieve at least a trillion dollars in revenue through the sale of AI chips in the coming year. This bold prediction underscores the significant role AI technology plays in the PC industry, with Nvidia at the forefront of providing the necessary hardware for advanced AI applications.",
+      "title": "Nvidia Expects at Least a Trillion Dollars in Revenue Through Next Year",
+      "summary": "Nvidia's CEO, Jensen Huang, expects the company to generate at least a trillion dollars in revenue through next year, highlighting the growth of AI chip technology.",
+      "content": "Jensen Huang, CEO of Nvidia, has expressed confidence in the company's financial performance, anticipating at least a trillion dollars in revenue for the coming year. This expectation is fueled by the increasing demand for AI chips, which are crucial for powering advanced AI applications and services. Nvidia's leadership in the AI chip market positions it well to capitalize on the growing AI technology sector.",
       "category": "ai-pc",
       "date": "2026-03-17",
       "source": "The Hindu",
@@ -53,43 +53,43 @@
     },
     {
       "id": 6,
-      "title": "Vivo Halts Smart Glasses Project Due to Market Saturation",
-      "summary": "Vivo has decided to halt its smart glasses project after concluding that the product lacked differentiation in an already crowded market, according to reports from 36Kr.",
-      "content": "Vivo has ceased development on its smart glasses project following months of collaborative efforts with partners such as Goertek and ThunderSoft. Executives at Vivo reportedly determined that the smart glasses did not offer enough differentiation to compete in the current market, which is already saturated with similar offerings. This move underscores the challenges faced by AI-powered eyewear, including hardware complexity and a limited software ecosystem.",
+      "title": "Vivo Halts Smart Glasses Project",
+      "summary": "Vivo has halted its smart glasses project after months of joint development with partners, including Goertek and ThunderSoft, due to a lack of differentiation in the market.",
+      "content": "Vivo's decision to stop the development of its smart glasses project underscores the challenges faced by companies in the AI-powered eyewear market. The project was discontinued as executives concluded that the product did not offer enough differentiation in an already crowded market. This move reflects the broader difficulties in hardware complexity and the thin software ecosystem for smart glasses.",
       "category": "competitor",
       "date": "2026-03-25",
       "source": "36Kr",
-      "url": "https://36kr.com"
+      "url": "https://www.36kr.com"
     },
     {
       "id": 7,
-      "title": "Zephyr RTOS Reaches Major Milestone with New Release",
-      "summary": "The Zephyr project, a leading RTOS for the Internet of Things, has announced a significant new release that enhances support for ARM and RISC-V architectures.",
-      "content": "The Zephyr project has reached a major milestone with the announcement of its latest release, which includes improved support for ARM and RISC-V architectures, making it an even more attractive option for IoT device developers. This update is expected to further solidify Zephyr's position as a leading real-time operating system in the IoT space.",
+      "title": "Google Releases Developer Preview 3 of Android XR SDK",
+      "summary": "Google has released the third Developer Preview of the Android XR SDK, supporting early app creation for AI smart glasses.",
+      "content": "As part of its broader Android XR initiative, Google has launched the third Developer Preview of the Android XR SDK. This move is aimed at enabling developers to start building applications tailored for AI smart glasses, fostering a strong software ecosystem prior to the commercial launch of these devices. Early partners like Uber and GetYourGuide are already testing augmented experiences, indicating the potential use cases for the technology in navigation, travel, and location-based services.",
       "category": "rtos",
-      "date": "2026-03-29",
-      "source": "Zephyr Project",
-      "url": "https://www.zephyrproject.org"
+      "date": "2026-03-17",
+      "source": "Domain-b",
+      "url": "https://www.domain-b.com/technology/artificial-intelligence/google-confirms-first-ai-smart-glasses-launch-in-2026"
     },
     {
       "id": 8,
-      "title": "Google Expands Android XR Ecosystem with AI Smart Glasses Launch",
-      "summary": "Google has confirmed the launch of its first AI smart glasses in 2026, marking a significant expansion of its Android XR ecosystem and signaling the company's commitment to wearable AI technology.",
-      "content": "Google has announced that it will debut its first AI smart glasses in 2026, which will integrate with the Android XR ecosystem. These glasses are designed to provide hands-free assistance, real-time information access, and stylish, all-day wearability. The launch is part of Google's strategy to strengthen its XR hardware lineup and build a broader Android XR ecosystem, which already includes the Samsung Galaxy XR headset and upcoming devices from partners like XREAL.",
+      "title": "Google and Warby Parker Confirm 2026 Launch of AI Smart Glasses",
+      "summary": "Google and Warby Parker have confirmed their partnership to launch AI smart glasses in 2026, signaling a new consumer push to integrate eyeglasses with generative AI.",
+      "content": "The collaboration between Google and Warby Parker for the launch of AI smart glasses in 2026 highlights the growing interest in merging fashion and technology. This move is expected to bring AI-powered smart glasses to retail shelves, offering consumers a new way to access information and services hands-free. The launch is part of a broader industry shift towards wearable AI devices, with potential implications for how consumers interact with technology in their daily lives.",
       "category": "ai-ecosystem",
-      "date": "2026-03-12",
-      "source": "GK Today",
-      "url": "https://www.gktoday.in/google-ai-smart-glasses-launch-set-for-2026/"
+      "date": "2026-03-17",
+      "source": "Glass Almanac",
+      "url": "https://glassalmanac.com/warby-parker-and-google-confirm-2026-launch-why-smart-glasses-matter-now/"
     },
     {
       "id": 9,
-      "title": "AI-Powered Breast Cancer Detection Tool Launched in Australia",
-      "summary": "A new AI tool developed in Australia is set to transform breast cancer screening by offering more personalized and accurate results, potentially saving thousands of lives.",
-      "content": "Australian researchers have developed an AI-powered tool that can detect breast cancer risks that were previously missed, marking a significant advancement in the field of medical diagnostics. This new tool is designed to offer more personalized and accurate screening, which could greatly improve early detection rates and save lives. The AI tool is expected to be implemented in screening programs across the country, making breast cancer detection more accessible and effective.",
+      "title": "Nvidia Chief Eyes Space with AI Chip Technology",
+      "summary": "Nvidia's CEO, Jensen Huang, has stated that the company is heading for space with a goal of powering orbiting data centers using its AI chip technology.",
+      "content": "Jensen Huang, CEO of Nvidia, announced the company's ambitious plan to expand into space by powering orbiting data centers with its advanced AI chip technology. This move signifies Nvidia's confidence in its ability to innovate and lead in the AI chip market, potentially revolutionizing data processing and storage in space.",
       "category": "other",
-      "date": "2026-03-12",
-      "source": "Metafilter",
-      "url": "https://www.metafilter.com"
+      "date": "2026-03-17",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com"
     }
   ]
 }

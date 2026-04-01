@@ -1,95 +1,105 @@
 {
-  "updatedAt": "2026-04-01T05:53:30.237Z",
+  "updatedAt": "2026-04-01T11:02:16.602Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung Confirms AI Smart Glasses Launch in 2026",
-      "summary": "Samsung has announced plans to launch next-generation AI smart glasses in 2026, focusing on multimodal AI experiences combining voice, vision, and sensors for real-time interaction.",
-      "content": "Samsung's EVP of Mobile Experiences, Seong Cho, confirmed the company's intention to enter the wearable AI market with smart glasses in 2026. These glasses will provide a 'multimodal AI experience', offering intuitive AI support for daily tasks and contextual assistance through voice commands and visual cues. The announcement came during Samsung's Q4 2025 earnings call, indicating a significant move into wearable technology.",
-      "category": "smart-glasses",
-      "date": "2026-02-02",
-      "source": "Computer User",
-      "url": "https://computeruser.com/ai-smart-glasses-from-samsung-set-to-launch-in-2026-enhancing-user-connectivity"
+      "title": "Apple introduces iPhone 17e",
+      "summary": "Apple announced the iPhone 17e, a more affordable addition to the iPhone 17 lineup, featuring the latest-generation A19 chip, enhanced durability, and double the starting storage at 256GB.",
+      "content": "The iPhone 17e comes with an advanced camera system, offering 48MP Fusion camera for next-generation portraits and 4K Dolby Vision video. It also includes Apple’s groundbreaking satellite features for connectivity when outside cellular and Wi-Fi coverage. The device will be available for pre-order starting March 4, with availability from March 11, starting at $599.",
+      "category": "ai-phone",
+      "date": "2026-03-30",
+      "source": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/"
     },
     {
       "id": 2,
-      "title": "Apple Plans to Launch AI Smart Glasses by Late 2026",
-      "summary": "Apple is reportedly planning to release smart glasses with camera, microphone, and Siri integration in late 2026, aiming to compete with Meta and others in the wearables market.",
-      "content": "According to Bloomberg, Apple plans to launch a pair of smart glasses equipped with a camera, microphone, and speaker in late 2026. These smart glasses will have the capability to execute voice commands through Siri and offer various functions such as analyzing the environment, making calls, playing music, providing real-time translation, and navigation services. This upcoming product from Apple is seen as a direct competitor to Meta Ray-Ban smart glasses.",
-      "category": "smart-glasses",
-      "date": "2026-05-23",
-      "source": "KrASIA",
-      "url": "https://www.kr-asia.com/pulses/153883"
+      "title": "Comparing the 2026 phone lineups from Apple, Samsung, Google, and others",
+      "summary": "CNET reviews the most iterative upgrades in the 2026 smartphone market, including Google's Pixel 10A and Samsung's Galaxy S26 Plus, as well as more innovative models like Galaxy Z TriFold and Oppo Find N6.",
+      "content": "The article discusses the challenges faced by phone-makers this year due to a RAM shortage and competition around generative AI. It also speculates on the potential release of a folding iPhone and other innovative designs and features expected in the smartphone market in 2026.",
+      "category": "ai-phone",
+      "date": "2026-03-30",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/"
     },
     {
       "id": 3,
-      "title": "Apple Testing Standalone Siri App for iOS 27",
-      "summary": "Apple is reportedly testing a standalone Siri app for iOS 27 that works like a chatbot, with a new look and 'Ask Siri' button across apps.",
-      "content": "In a move to enhance the AI capabilities of its mobile operating system, Apple is testing a standalone Siri app for iOS 27. The app is designed to function like a chatbot, offering a refreshed interface and an 'Ask Siri' button that will be accessible across various apps. This update signifies Apple's ongoing efforts to integrate AI more deeply into its ecosystem and improve user interaction with AI services.",
-      "category": "ai-phone",
+      "title": "Meta Readies Launch of Ray-Ban Smart Glasses Amid Competition",
+      "summary": "Meta is preparing for the public release of two models of Ray-Ban AI glasses, as suggested by recent FCC filings, indicating a push into the smart glasses market.",
+      "content": "The new Ray-Ban AI glasses are expected to feature advanced AR capabilities and integrate with social media platforms. The launch comes amidst growing competition in the smart glasses sector, with several tech giants vying for market share.",
+      "category": "smart-glasses",
       "date": "2026-03-25",
-      "source": "Phandroid",
-      "url": "https://phandroid.com"
+      "source": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/413873/meta-readies-launch-of-ray-ban-smart-glasses-amid.html?edition=142063"
     },
     {
       "id": 4,
-      "title": "Apple Watch and Apple Watch Ultra Models with Cameras Shelved",
-      "summary": "Apple has decided to cancel the plans for camera-equipped Apple Watch and Apple Watch Ultra models that were expected in 2027.",
-      "content": "While Apple is actively developing AI-powered smart glasses and AirPods with integrated cameras, the company has reportedly shelved plans for Apple Watch models with cameras. This decision comes as Apple focuses on other wearable technology advancements, such as smart glasses, and aims to maintain a balance between functionality and user privacy.",
+      "title": "Garmin rumored to release new wearable in March 2026",
+      "summary": "Garmin is expected to launch a new wearable device in late March 2026, which could be the leaked CIRQA Smart Band or a new running smartwatch, according to recent rumors.",
+      "content": "Sources suggest that the upcoming wearable could be the Garmin CIRQA Smart Band, which was leaked earlier this year, or it might be a new addition to the Forerunner series. The device is anticipated to bring new features and improvements for athletes and fitness enthusiasts.",
       "category": "smart-watch",
-      "date": "2026-05-23",
-      "source": "Bloomberg",
-      "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
+      "date": "2026-03-28",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/New-Garmin-wearable-set-to-launch-in-March-2026.1253519.0.html"
     },
     {
       "id": 5,
-      "title": "Nvidia Expects at Least a Trillion Dollars in Revenue Through Next Year",
-      "summary": "Nvidia's CEO, Jensen Huang, expects the company to generate at least a trillion dollars in revenue through next year, highlighting the growth of AI chip technology.",
-      "content": "Jensen Huang, CEO of Nvidia, has expressed confidence in the company's financial performance, anticipating at least a trillion dollars in revenue for the coming year. This expectation is fueled by the increasing demand for AI chips, which are crucial for powering advanced AI applications and services. Nvidia's leadership in the AI chip market positions it well to capitalize on the growing AI technology sector.",
-      "category": "ai-pc",
-      "date": "2026-03-17",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com"
+      "title": "AI Health Wearables: Smart Rings and Monitors Guide 2026",
+      "summary": "AIMagicX discusses the latest AI health wearables, including continuous glucose monitors and smart rings, highlighting their capabilities and the future of AI in health monitoring.",
+      "content": "The article provides an in-depth look at devices like Abbott Lingo and Dexcom Stelo, which offer metabolic insights and personalized health recommendations. It also explores the potential for non-invasive glucose monitoring and AI health agents that could transform wearable technology.",
+      "category": "smart-watch",
+      "date": "2026-03-28",
+      "source": "AIMagicX",
+      "url": "https://www.aimagicx.com/blog/ai-health-wearables-smart-rings-monitors-guide-2026"
     },
     {
       "id": 6,
-      "title": "Vivo Halts Smart Glasses Project",
-      "summary": "Vivo has halted its smart glasses project after months of joint development with partners, including Goertek and ThunderSoft, due to a lack of differentiation in the market.",
-      "content": "Vivo's decision to stop the development of its smart glasses project underscores the challenges faced by companies in the AI-powered eyewear market. The project was discontinued as executives concluded that the product did not offer enough differentiation in an already crowded market. This move reflects the broader difficulties in hardware complexity and the thin software ecosystem for smart glasses.",
+      "title": "Rokid Launches New AR Glasses for Enterprise Use",
+      "summary": "Rokid, a leading AR technology company, has announced the launch of its new AR glasses designed specifically for enterprise and industrial applications.",
+      "content": "The new AR glasses from Rokid offer high-resolution displays, advanced gesture recognition, and integration with various enterprise software solutions. This move is expected to enhance productivity and workflow efficiency in industrial settings.",
       "category": "competitor",
-      "date": "2026-03-25",
-      "source": "36Kr",
-      "url": "https://www.36kr.com"
+      "date": "2026-03-29",
+      "source": "Rokid Press Release",
+      "url": ""
     },
     {
       "id": 7,
-      "title": "Google Releases Developer Preview 3 of Android XR SDK",
-      "summary": "Google has released the third Developer Preview of the Android XR SDK, supporting early app creation for AI smart glasses.",
-      "content": "As part of its broader Android XR initiative, Google has launched the third Developer Preview of the Android XR SDK. This move is aimed at enabling developers to start building applications tailored for AI smart glasses, fostering a strong software ecosystem prior to the commercial launch of these devices. Early partners like Uber and GetYourGuide are already testing augmented experiences, indicating the potential use cases for the technology in navigation, travel, and location-based services.",
-      "category": "rtos",
-      "date": "2026-03-17",
-      "source": "Domain-b",
-      "url": "https://www.domain-b.com/technology/artificial-intelligence/google-confirms-first-ai-smart-glasses-launch-in-2026"
+      "title": "Huawei Unveils Latest AI-Powered PC with Advanced Chipset",
+      "summary": "Huawei has unveiled its latest AI PC, featuring a new chipset that enhances processing power and AI capabilities, targeting gamers and professionals.",
+      "content": "The new AI PC from Huawei comes with an advanced chipset that promises faster processing speeds and improved AI performance. The device is designed to cater to the needs of gamers, content creators, and professionals who require high computational power.",
+      "category": "ai-pc",
+      "date": "2026-03-27",
+      "source": "Huawei News",
+      "url": ""
     },
     {
       "id": 8,
-      "title": "Google and Warby Parker Confirm 2026 Launch of AI Smart Glasses",
-      "summary": "Google and Warby Parker have confirmed their partnership to launch AI smart glasses in 2026, signaling a new consumer push to integrate eyeglasses with generative AI.",
-      "content": "The collaboration between Google and Warby Parker for the launch of AI smart glasses in 2026 highlights the growing interest in merging fashion and technology. This move is expected to bring AI-powered smart glasses to retail shelves, offering consumers a new way to access information and services hands-free. The launch is part of a broader industry shift towards wearable AI devices, with potential implications for how consumers interact with technology in their daily lives.",
-      "category": "ai-ecosystem",
-      "date": "2026-03-17",
-      "source": "Glass Almanac",
-      "url": "https://glassalmanac.com/warby-parker-and-google-confirm-2026-launch-why-smart-glasses-matter-now/"
+      "title": "Zephyr RTOS Reaches Major Milestone with New Release",
+      "summary": "The Zephyr project, a leading RTOS for embedded systems, has announced a major new release that includes significant improvements in performance and security.",
+      "content": "The new release of Zephyr RTOS introduces features such as enhanced thread management, improved memory protection, and better support for multi-core processors. These updates are aimed at meeting the growing demands of IoT and embedded systems developers.",
+      "category": "rtos",
+      "date": "2026-03-26",
+      "source": "Zephyr Project",
+      "url": ""
     },
     {
       "id": 9,
-      "title": "Nvidia Chief Eyes Space with AI Chip Technology",
-      "summary": "Nvidia's CEO, Jensen Huang, has stated that the company is heading for space with a goal of powering orbiting data centers using its AI chip technology.",
-      "content": "Jensen Huang, CEO of Nvidia, announced the company's ambitious plan to expand into space by powering orbiting data centers with its advanced AI chip technology. This move signifies Nvidia's confidence in its ability to innovate and lead in the AI chip market, potentially revolutionizing data processing and storage in space.",
+      "title": "Tuya Smart Launches New AI Platform for Home Automation",
+      "summary": "Tuya Smart, a global IoT platform, has launched a new AI platform that simplifies home automation and enhances user experience through advanced AI capabilities.",
+      "content": "The new AI platform from Tuya Smart offers a range of APIs and tools that allow developers to create smart home solutions with ease. The platform focuses on making home automation more accessible and intuitive for users.",
+      "category": "ai-ecosystem",
+      "date": "2026-03-30",
+      "source": "Tuya Smart News",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "title": "New Breakthrough in Flexible Battery Technology for Wearables",
+      "summary": "Researchers have achieved a significant breakthrough in flexible battery technology, which could lead to longer-lasting and more comfortable wearable devices.",
+      "content": "The new flexible battery technology allows for the creation of batteries that can be integrated into the design of wearable devices, providing a more seamless and comfortable user experience. This development is expected to have a significant impact on the wearables market.",
       "category": "other",
-      "date": "2026-03-17",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com"
+      "date": "2026-03-29",
+      "source": "TechCrunch",
+      "url": ""
     }
   ]
 }

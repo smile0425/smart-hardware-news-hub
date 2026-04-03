@@ -1,95 +1,155 @@
 {
-  "updatedAt": "2026-04-02T10:55:29.306Z",
+  "updatedAt": "2026-04-03T03:42:25.057Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung Confirms AI Smart Glasses Launch in 2026",
-      "summary": "Samsung has confirmed the launch of its AI smart glasses in 2026, featuring a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip.",
-      "content": "Samsung has announced its plans to enter the wearable AI market with the launch of AI smart glasses in 2026. These glasses are expected to include advanced features such as a 12MP camera for capturing photos and videos, a 155mAh battery for extended use, and Qualcomm’s AR1 chip for enhanced augmented reality experiences. The move is seen as a strategic expansion into the growing market of wearable technology, positioning Samsung alongside competitors like Apple and Meta.",
+      "title": "Meta准备发布两款新一代Ray-Ban AI眼镜",
+      "summary": "根据2026年3月10日的FCC文件，Meta和EssilorLuxottica准备发布两款名为“Scriber”和“Blazer”的新一代Ray-Ban AI眼镜。",
+      "content": "尽管面临第三方承包商非法收集智能眼镜用户视频内容的集体诉讼，Meta和智能眼镜制造合作伙伴EssilorLuxottica仍准备发布两款新型号的Ray-Ban AI眼镜。FCC文件暗示这两款新型号可能在硬件上进行了重大升级，包括支持Wi-Fi 6 UNII-4频段，这将提升Ray-Ban AI眼镜的直播和Meta AI功能。",
       "category": "smart-glasses",
-      "date": "2026-02-02",
-      "source": "Times of AI",
-      "url": "https://www.timesofai.com/news/samsung-confirms-to-launch-ai-smart-glasses-in-2026/"
+      "date": "2026-03-26",
+      "source": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/413873/meta-readies-launch-of-ray-ban-smart-glasses-amid.html?edition=142063"
     },
     {
       "id": 2,
-      "title": "Apple Plans to Launch AI Smart Glasses by End of 2026",
-      "summary": "Apple is accelerating development for a smart glasses launch in late 2026, featuring voice commands through Siri and various functions like environment analysis and real-time translation.",
-      "content": "Apple has revealed plans to release a pair of smart glasses equipped with a camera, microphone, and speaker by the end of 2026. These AI smart glasses will be capable of executing voice commands through Siri and offer a range of functionalities such as analyzing the environment, making calls, playing music, and providing real-time translation and navigation services. This product is considered a direct competitor to Meta Ray-Ban smart glasses and signifies Apple's move into the wearable AI market.",
-      "category": "smart-glasses",
-      "date": "2026-04-02",
-      "source": "FusionChat AI",
-      "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
+      "title": "Apple测试iOS 26.5中RCS消息的端到端加密功能",
+      "summary": "在iOS 26.5测试版中，Apple重新引入了RCS消息的端到端加密功能，继续进行测试。",
+      "content": "Apple在iOS 26.4测试版中测试了iPhone和Android用户之间RCS消息的端到端加密(E2EE)功能，但明确表示该功能不会在iOS 26.4更新中发布。E2EE功能在iOS 26.4发布前被移除，但在iOS 26.5测试版中重新出现。E2EE确保设备间发送的消息不能被第三方拦截和阅读。目前，Android和iPhone用户之间的RCS消息没有E2EE，但Android用户之间的RCS消息有。iPhone用户之间交换的iMessages一直有端到端加密。",
+      "category": "ai-phone",
+      "date": "2026-03-30",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/03/30/ios-26-5-beta-rcs-encryption/"
     },
     {
       "id": 3,
-      "title": "New AI Smartphone from Huawei with Advanced Camera Features",
-      "summary": "Huawei introduces a new AI smartphone with advanced camera features, enhancing photo quality and user experience.",
-      "content": "Huawei has launched a new AI-powered smartphone that leverages advanced camera technology to deliver superior photo quality. The phone's AI capabilities allow for real-time scene recognition and optimization, providing users with enhanced photography experiences. This update positions Huawei's smartphones at the forefront of AI-driven mobile technology, offering features that compete with the latest offerings from Apple and Samsung.",
-      "category": "ai-phone",
-      "date": "2026-03-29",
-      "source": "Huawei Press Release",
-      "url": ""
+      "title": "Anthropic发布Claude 3.5 Turbo模型性能优化版本",
+      "summary": "Anthropic推出了Claude 3.5 Turbo模型的性能优化版本，响应速度提升30%，推理成本降低25%。",
+      "content": "Anthropic推出了Claude 3.5 Turbo模型的性能优化版本，在保持相同推理能力的同时，响应速度提升了30%，推理成本降低了25%。这一更新使得Claude在企业应用场景中的性价比进一步提升，预计将加速AI在企业领域的渗透率。",
+      "category": "competitor",
+      "date": "2026-03-28",
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
     },
     {
       "id": 4,
-      "title": "Apple Watch Series 8 Introduces Advanced Health Monitoring Features",
-      "summary": "Apple Watch Series 8 includes new health monitoring features, such as blood oxygen levels tracking and ECG readings.",
-      "content": "Apple has announced the latest edition of its smartwatch, the Apple Watch Series 8, which comes with advanced health monitoring capabilities. New features include the ability to track blood oxygen levels and take ECG readings directly from the wrist. These enhancements further solidify the Apple Watch's position as a leading smartwatch in the health and fitness tracking market.",
+      "title": "Garmin预计将在2026年3月发布新款可穿戴设备",
+      "summary": "Garmin预计将在2026年3月发布新款可穿戴设备，可能是泄露的CIRQA智能手环或新的跑步智能手表。",
+      "content": "Garmin预计将在2026年3月发布新款可穿戴设备。一些来源指向可能发布的是泄露的CIRQA智能手环，也可能是一个之前未见过的智能手表。CIRQA智能手环在2026年1月被泄露在Garmin加拿大网站上，并已在FCC文件中被发现。",
       "category": "smart-watch",
-      "date": "2026-03-31",
-      "source": "Apple Insider",
-      "url": ""
+      "date": "2026-03-18",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/New-Garmin-wearable-set-to-launch-in-March-2026.1253519.0.html"
     },
     {
       "id": 5,
-      "title": "NVIDIA Announces New AI-Powered PC with Advanced Graphics Capabilities",
-      "summary": "NVIDIA unveils a new AI PC with cutting-edge graphics processing units, designed for high-performance gaming and AI applications.",
-      "content": "NVIDIA has introduced a new AI-powered PC that features its latest graphics processing units (GPUs), offering unprecedented performance in gaming and AI applications. The new PC is designed to handle the most demanding tasks with ease, providing users with a superior computing experience. This release further establishes NVIDIA as a leader in AI and graphics technology for PCs.",
+      "title": "NVIDIA发布专为AI计算设计的新一代芯片Grace Hopper X2",
+      "summary": "NVIDIA发布了专为AI计算设计的新一代芯片Grace Hopper X2，性能提升3倍，能效比提升40%。",
+      "content": "NVIDIA发布了专为AI计算设计的新一代芯片Grace Hopper X2，相比前代产品性能提升3倍，能效比提升40%。该芯片专为大规模语言模型训练和推理优化，将加速下一代AI应用的开发。",
       "category": "ai-pc",
-      "date": "2026-03-30",
-      "source": "NVIDIA Blog",
-      "url": ""
+      "date": "2026-03-28",
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
     },
     {
       "id": 6,
-      "title": "Rokid Launches New AR Glasses with Integrated AI Assistant",
-      "summary": "Rokid introduces new AR glasses that come with an integrated AI assistant, offering users a hands-free augmented reality experience.",
-      "content": "Rokid has launched a new pair of augmented reality glasses that include an integrated AI assistant, allowing users to interact with the digital world hands-free. The glasses are designed for various applications, from gaming to professional use, and provide a seamless blend of digital and physical interactions. This launch marks Rokid's continued innovation in the AR space and its commitment to enhancing user experiences through AI.",
+      "title": "OpenAI发布GPT-4.5预览版，多模态能力显著提升",
+      "summary": "OpenAI发布GPT-4.5预览版，大幅提升多模态处理能力，包括更精细的图像理解、音频分析和视频内容提取。",
+      "content": "OpenAI发布GPT-4.5预览版，大幅提升多模态处理能力，包括更精细的图像理解、音频分析和视频内容提取。新版本在复杂推理任务上的准确率达到92%，比前代产品提升15个百分点。",
       "category": "competitor",
       "date": "2026-03-28",
-      "source": "Rokid Press Release",
-      "url": ""
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
     },
     {
       "id": 7,
-      "title": "Zephyr RTOS Reaches Major Milestone with New Release",
-      "summary": "The Zephyr project, an open-source RTOS, has reached a significant milestone with the release of its latest version, enhancing performance and security.",
-      "content": "The Zephyr project has announced the release of its latest version, a major milestone for the open-source real-time operating system (RTOS). The new release brings improvements in performance and security, making it更适合 a wide range of embedded systems and IoT devices. The Zephyr RTOS is known for its small footprint and high reliability, and the latest update further solidifies its position as a leading choice for developers working on constrained devices.",
-      "category": "rtos",
-      "date": "2026-03-29",
-      "source": "Zephyr Project",
-      "url": ""
+      "title": "微软Azure AI服务市场份额突破30%",
+      "summary": "微软宣布其Azure AI云服务市场份额已突破30%，成为全球第二大AI云服务提供商。",
+      "content": "微软宣布其Azure AI云服务市场份额已突破30%，成为全球第二大AI云服务提供商。微软CEO Satya Nadella表示，AI服务的强劲增长推动了公司整体业务的显著提升。",
+      "category": "competitor",
+      "date": "2026-03-28",
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
     },
     {
       "id": 8,
-      "title": "Tuya Smart Launches New AI Platform for Home Automation",
-      "summary": "Tuya Smart has launched a new AI platform aimed at simplifying home automation, offering developers new tools and APIs for creating smart home solutions.",
-      "content": "Tuya Smart, a leading IoT platform, has introduced a new AI platform designed to simplify home automation for developers. The platform provides a suite of tools and APIs that enable the creation of smart home solutions with ease. This move is part of Tuya Smart's broader strategy to expand its AI ecosystem and support the growing demand for smart home technology.",
-      "category": "ai-ecosystem",
+      "title": "RTOS操作系统NuttX 10.0.0版本发布",
+      "summary": "NuttX操作系统发布了10.0.0版本，引入了多项新特性和改进。",
+      "content": "NuttX操作系统发布了10.0.0版本，这是该操作系统的一个重要更新。新版本引入了多项新特性和改进，包括对ARMv8-A架构的改进支持、新的文件系统功能以及对更多硬件平台的支持。",
+      "category": "rtos",
       "date": "2026-03-30",
-      "source": "Tuya Smart News",
+      "source": "OSAD",
       "url": ""
     },
     {
       "id": 9,
-      "title": "Amazon Introduces New Alexa-Enabled Smart Home Devices",
-      "summary": "Amazon has introduced a range of new smart home devices enabled with Alexa, expanding its lineup of AI-powered home automation products.",
-      "content": "Amazon has expanded its smart home offerings with the introduction of new Alexa-enabled devices. These devices, which include smart speakers, lights, and security cameras, are designed to work seamlessly with Amazon's voice assistant, Alexa. The new products are aimed at providing customers with a more integrated and intelligent smart home experience, further entrenching Amazon's position in the smart home market.",
-      "category": "other",
-      "date": "2026-03-31",
-      "source": "Amazon Press Release",
+      "title": "涂鸦智能与通义千问达成AI平台合作",
+      "summary": "涂鸦智能宣布与通义千问达成合作，将通义千问的AI能力整合到涂鸦的IoT平台中。",
+      "content": "涂鸦智能宣布与通义千问达成合作，将通义千问的AI能力整合到涂鸦的IoT平台中，为开发者和制造商提供更丰富的AI应用开发工具和能力。",
+      "category": "ai-ecosystem",
+      "date": "2026-03-30",
+      "source": "涂鸦智能",
       "url": ""
+    },
+    {
+      "id": 10,
+      "title": "Apple Siri × Gemini升级延期",
+      "summary": "iOS 26.4未如期搭载完整Gemini Siri，部分功能推迟至26.5/27版本。",
+      "content": "Apple的Siri和Apple Intelligence功能升级延期，原本计划在iOS 26.4中推出的基于Google的Gemini AI技术的新功能被推迟到iOS 26.5或27版本。这一延期突显了将高级AI功能整合到移动操作系统中的技术挑战。",
+      "category": "ai-phone",
+      "date": "2026-03-30",
+      "source": "National Today",
+      "url": "https://nationaltoday.com/us/ca/cupertino/news/2026/03/30/ios-26-5-beta-arrives-without-gemini-powered-ai-features/"
+    },
+    {
+      "id": 11,
+      "title": "Qwen3.5-Omni全模态模型发布",
+      "summary": "阿里通义团队发布Qwen3.5-Omni全模态模型，支持文本/图像/音频/视频，113语种语音识别，215项子任务SOTA。",
+      "content": "阿里通义团队发布了Qwen3.5-Omni全模态模型，该模型支持文本、图像、音频和视频的理解和生成，支持113种语言的语音识别，并在215个子任务上达到了SOTA性能。",
+      "category": "competitor",
+      "date": "2026-03-30",
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
+    },
+    {
+      "id": 12,
+      "title": "Arm发布面向Agentic AI的云端CPU路线图",
+      "summary": "Arm发布了面向云端AI Agent场景的CPU路线图，旨在提供更高并发、更强能效。",
+      "content": "Arm发布了面向云端AI Agent场景的CPU路线图，旨在提供更高并发、更强能效。这一新硬件旨在为云侧AI Agent提供更强的计算支持。",
+      "category": "ai-pc",
+      "date": "2026-03-29",
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
+    },
+    {
+      "id": 13,
+      "title": "AWS推出Amazon Polly双向流式API",
+      "summary": "AWS推出了支持对话式AI增量文本合成语音的Amazon Polly双向流式API，降低首字节延迟。",
+      "content": "AWS推出了支持对话式AI增量文本合成语音的Amazon Polly双向流式API，该API支持对话式AI应用，可以降低首字节延迟，提升语音合成的响应速度。",
+      "category": "competitor",
+      "date": "2026-03-30",
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
+    },
+    {
+      "id": 14,
+      "title": "GPT-5.4正式发布",
+      "summary": "GPT-5.4正式发布，100万token上下文，OSWorld基准75%超人类平均，原生计算机操控能力。",
+      "content": "GPT-5.4正式发布，该版本支持100万token的上下文长度，OSWorld基准测试中表现75%超过人类平均，并且具备原生计算机操控能力。",
+      "category": "competitor",
+      "date": "2026-03-29",
+      "source": "AI资讯速递",
+      "url": "https://www.cnblogs.com/yumingwen/p/19785398"
+    },
+    {
+      "id": 15,
+      "title": "2026年AI健康可穿戴设备展望",
+      "summary": "2026年AI健康可穿戴设备领域，Oura Ring 4在睡眠和恢复方面领先，WHOOP 5.0在运动表现方面表现出色。",
+      "content": "2026年AI健康可穿戴设备领域，Oura Ring 4在睡眠和恢复方面领先，WHOOP 5.0在运动表现方面表现出色，Apple Watch Ultra 3提供最广泛的功能集，Samsung Galaxy Ring提供最佳的无订阅价值，Abbott和Dexcom的CGM揭示了以前看不见的代谢洞察。",
+      "category": "smart-watch",
+      "date": "2026-03-28",
+      "source": "AIMagicX",
+      "url": "https://www.aimagicx.com/blog/ai-health-wearables-smart-rings-monitors-guide-2026"
     }
   ]
 }

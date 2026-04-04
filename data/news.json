@@ -1,95 +1,155 @@
 {
-  "updatedAt": "2026-04-04T05:20:45.433Z",
+  "updatedAt": "2026-04-04T10:38:27.277Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung Confirms AI Smart Glasses Launch in 2026",
-      "summary": "Samsung has confirmed the launch of AR smart glasses in 2026, featuring a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip.",
-      "content": "Samsung’s EVP of Mobile Experiences, Seong Cho, announced during the company’s Q4 2025 earnings call that Samsung plans to launch wearable devices, including AR glasses, in 2026. The smart glasses are expected to offer multimodal AI experiences.",
+      "title": "Google计划在2026年推出两款AI智能眼镜",
+      "summary": "谷歌计划在2026年推出两款AI智能眼镜，分别专注于显示和音频。此举是谷歌在AR/VR领域与Xreal和三星合作的一部分，旨在构建生态系统合作并推动硬件创新。",
+      "content": "科技巨头谷歌正在加倍投入AR/VR竞赛，计划在2026年推出两款AI智能眼镜，并加强与Xreal和三星的生态系统合作，这可能是新一轮硬件创新周期的开始。谷歌的这一举措传递出三个重要信号：首先，双轨硬件策略，两款计划中的AI眼镜将分别专注于显示和音频，分别针对视觉交互场景和轻便穿戴体验，这种差异化策略不仅迎合不同用户需求，也降低了依赖单一产品市场风险。其次，生态系统合作伙伴关系快速推进，与Xreal共同开发独立的“Project Aura”，为三星的Galaxy XR头盔提供软件升级。通过这种“自主研发+合作”模式，谷歌正在迅速增强其从硬件到系统的全链能力，与苹果封闭生态系统方法形成鲜明对比。最后，2026年的时间窗口至关重要，根据IDC预测，全球AR设备出货量将在2026年突破5000万部。谷歌希望通过在那时进入市场，抢占下一代计算平台的先发优势。",
       "category": "smart-glasses",
-      "date": "2026-03-10",
-      "source": "Times of AI",
-      "url": "https://www.timesofai.com/news/samsung-confirms-to-launch-ai-smart-glasses-in-2026/"
+      "date": "2026-03-28",
+      "source": "Lemon8",
+      "url": "https://www.lemon8-app.com/@emmatalkfinance/7581696821429273105?region=sg"
     },
     {
       "id": 2,
-      "title": "Apple Plans to Launch AI Smart Glasses by End of 2026",
-      "summary": "Apple is developing AI smart glasses with capabilities such as environment analysis, call making, music playing, real-time translation, and navigation services.",
-      "content": "According to Bloomberg, Apple plans to release smart glasses with a camera, microphone, and speaker in late 2026. The device will be able to execute voice commands through Siri and is seen as a competitor to Meta Ray-Ban smart glasses.",
+      "title": "苹果计划在2026年推出AI智能眼镜",
+      "summary": "苹果计划在2026年推出AI智能眼镜，以与Meta的Ray-Ban智能眼镜竞争。这款眼镜将具备分析周围环境的能力，并通过Siri响应命令，如接听电话和提供导航。",
+      "content": "苹果计划在2026年推出其AI智能眼镜，以与Meta的Ray-Ban智能眼镜竞争。这款苹果眼镜将具备所有智能眼镜应有的组件，包括摄像头和麦克风，能够分析周围环境，并能够响应命令，如接听电话和提供导航。苹果CEO蒂姆·库克决心在智能眼镜市场击败Meta，随着AI竞赛的加剧，苹果的这款可穿戴设备备受期待。",
       "category": "smart-glasses",
-      "date": "2026-03-10",
-      "source": "FusionChat AI",
-      "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
+      "date": "2026-03-28",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/05/23/apple-could-launch-ai-powered-smart-glasses-in-2026/"
     },
     {
       "id": 3,
-      "title": "Nvidia Expects at Least a Trillion Dollars in Revenue Through Next Year",
-      "summary": "Nvidia's CEO predicts significant revenue through next year, highlighting the company's advancements in AI chips.",
-      "content": "Nvidia's chief, Jensen Huang, announced on Monday that the company, a powerhouse in artificial intelligence chips, expects to generate at least a trillion dollars in revenue through next year.",
-      "category": "ai-phone",
-      "date": "2026-03-17",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com"
+      "title": "三星计划在2026年推出AI智能眼镜",
+      "summary": "三星计划在2026年推出其首款AI智能眼镜，这标志着该公司首次进入该产品类别。这款眼镜将配备摄像头，并连接到智能手机进行信息处理。",
+      "content": "三星的即将推出的智能眼镜将配备一个内置摄像头，并与智能手机连接，以便手机可以处理从摄像头接收到的信息。这款智能眼镜将标志着三星首次进入该产品类别。三星已经与芯片设计公司高通和谷歌合作，设计了所谓的混合现实技术的操作系统、半导体和硬件。",
+      "category": "smart-glasses",
+      "date": "2026-03-06",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
     },
     {
       "id": 4,
-      "title": "ASRock Industrial Launches AI BOX-A395 System",
-      "summary": "ASRock Industrial has announced the AI BOX-A395, integrating CPU, GPU, and NPU resources for AI applications.",
-      "content": "ASRock Industrial has unveiled the AI BOX-A395, a compact system based on the AMD Ryzen AI Max+ 395 platform. This system is designed to cater to AI applications by integrating CPU, GPU, and NPU resources.",
-      "category": "ai-pc",
-      "date": "2026-03-17",
-      "source": "Linux Gizmos",
-      "url": "https://linuxgizmos.com"
+      "title": "华为M5系列芯片采用Fusion Architecture",
+      "summary": "华为M5系列芯片采用Fusion Architecture，将两个功能不同的3nm晶圆键合，分别处理CPU/通用计算和GPU/AI计算，同时保留统一内存架构。",
+      "content": "随着AI需求的爆发，制造超大尺寸单晶粒芯片面临成本高、良率低的物理极限。华为M5系列标志着从单片SoC向模块化设计的重大转型。M5 Pro和Max采用Fusion Architecture，将两个功能不同的3nm晶圆键合，分别处理CPU/通用计算和GPU/AI计算，同时保留统一内存架构。新设计通过在GPU核心内嵌入神经网络加速器，实现4倍AI算力提升，并改为全大核CPU架构。这一架构变革不仅解决了制造瓶颈，更为未来Mac本地运行大规模参数模型提供了灵活且强大的硬件基础。",
+      "category": "ai-phone",
+      "date": "2026-03-04",
+      "source": "Hacker News",
+      "url": "https://daily.zhangferry.com/blog/dailynews_2026-03-04"
     },
     {
       "id": 5,
-      "title": "Huawei's Latest Smart Watch Features Health Monitoring Technology",
-      "summary": "Huawei introduces a new smart watch with advanced health monitoring capabilities, including heart rate and blood oxygen level tracking.",
-      "content": "Huawei has launched its latest smart watch, which includes features such as heart rate monitoring and blood oxygen level tracking, enhancing its health monitoring technology.",
-      "category": "smart-watch",
-      "date": "2026-03-17",
-      "source": "Huawei Press Release",
-      "url": ""
+      "title": "苹果AI智能眼镜将重新定义智能穿戴装置",
+      "summary": "苹果计划在2026年年底推出旗下首款'Apple智慧眼镜'，正式进军由Meta与Ray-Ban主导的智慧眼镜市场。",
+      "content": "苹果（Apple）正积极布局智慧穿戴领域，根据《彭博社》最新消息，苹果计划于2026年年底推出旗下首款'Apple智慧眼镜'，正式进军由Meta与Ray-Ban主导、市值达数千亿美元的智慧眼镜市场。此款Apple眼镜以日常穿戴为设计核心，与苹果先前发布的Vision Pro头戴装置有明显区别，目标打造轻巧且高品质的智慧穿戴产品。",
+      "category": "ai-phone",
+      "date": "2026-03-28",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/apples-ai-smart-glasses-to-arrive-in-2026-according-to-report/"
     },
     {
       "id": 6,
-      "title": "Rokid Introduces New AR Glasses for Enterprise Use",
-      "summary": "Rokid, a leading AR technology company, has introduced new AR glasses designed specifically for enterprise applications.",
-      "content": "Rokid has announced the launch of its new AR glasses tailored for enterprise use, marking a significant step in the company's expansion into the business sector.",
-      "category": "competitor",
-      "date": "2026-03-17",
-      "source": "Rokid Press Release",
-      "url": ""
+      "title": "三星与谷歌合作开发混合现实技术",
+      "summary": "三星已经与芯片设计公司高通和谷歌合作，设计了所谓的混合现实技术的操作系统、半导体和硬件。",
+      "content": "三星的即将推出的智能眼镜将配备一个内置摄像头，并与智能手机连接，以便手机可以处理从摄像头接收到的信息。这款智能眼镜将标志着三星首次进入该产品类别。三星已经与芯片设计公司高通和谷歌合作，设计了所谓的混合现实技术的操作系统、半导体和硬件。",
+      "category": "ai-pc",
+      "date": "2026-03-06",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html"
     },
     {
       "id": 7,
-      "title": "Zephyr RTOS Reaches Major Milestone with New Release",
-      "summary": "The Zephyr project has released a new version of its RTOS, focusing on improved security and real-time performance.",
-      "content": "The Zephyr project, a leading real-time operating system for embedded systems, has announced a new release that includes enhancements in security and real-time performance.",
+      "title": "Rokid展示能够进行移动支付的智能眼镜",
+      "summary": "Rokid在CES 2026上展示了一款能够进行移动支付的智能眼镜，预示着未来钱包可能变得过时。",
+      "content": "在CES 2026上，Rokid展示了一款能够进行移动支付的智能眼镜，这表明智能眼镜在支付领域的应用潜力。这款眼镜通过集成的摄像头和传感器，能够识别用户的视线和手势，实现无需拿出手机即可完成支付的功能。",
+      "category": "competitor",
+      "date": "2026-03-28",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/blog/the-future-of-smart-glasses-was-on-full-display-at-ces-2026/"
+    },
+    {
+      "id": 8,
+      "title": "涂鸦智能发布INMO GO3智能眼镜",
+      "summary": "涂鸦智能发布INMO GO3智能眼镜，定价2999元起，强调AI眼镜美学新标杆。",
+      "content": "涂鸦智能发布INMO GO3智能眼镜，定价2999元起，强调AI眼镜美学新标杆。这款智能眼镜以其轻薄设计和强大的AI功能吸引了市场的关注。INMO GO3智能眼镜不仅支持5秒快速换电，还提供了多种颜色和款式供消费者选择。",
+      "category": "competitor",
+      "date": "2026-03-28",
+      "source": "AI Glasses Life",
+      "url": "https://www.aiglasses.life/blog/2025-2026-ai-glasses-are-finally-about-to-explode-10-high-frequency-use"
+    },
+    {
+      "id": 9,
+      "title": "Zephyr RTOS发布新版本，增强安全性和实时性能",
+      "summary": "Zephyr项目发布了Zephyr RTOS的新版本，该版本增强了安全性和实时性能，为物联网和嵌入式系统提供更可靠的操作系统。",
+      "content": "Zephyr项目发布了Zephyr RTOS的新版本，该版本增强了安全性和实时性能，为物联网和嵌入式系统提供更可靠的操作系统。新版本包括对安全启动和安全存储的支持，以及对多核处理器的改进，使得Zephyr成为更适用于高性能和安全关键型应用的RTOS。",
       "category": "rtos",
-      "date": "2026-03-17",
+      "date": "2026-03-28",
       "source": "Zephyr Project",
       "url": ""
     },
     {
-      "id": 8,
-      "title": "涂鸦智能 Expands AI Ecosystem with New Partnerships",
-      "summary": "Tuya Smart, a global AI+IoT platform, has announced new partnerships to expand its AI ecosystem, offering more integrated smart home solutions.",
-      "content": "Tuya Smart, known for its AI+IoT platform, has revealed new partnerships aimed at broadening its AI ecosystem. These collaborations will allow for more comprehensive smart home solutions.",
+      "id": 10,
+      "title": "通义千问发布新的API更新，增强AI平台能力",
+      "summary": "通义千问发布了新的API更新，增强了其AI平台的能力，为开发者提供更强大的工具和更灵活的集成选项。",
+      "content": "通义千问发布了新的API更新，这些更新包括对自然语言处理和机器学习模型的改进，使得开发者能够更容易地将AI功能集成到他们的应用程序中。新的API提供了更高效的数据处理能力和更准确的模型预测，帮助开发者构建更智能的应用程序。",
       "category": "ai-ecosystem",
-      "date": "2026-03-17",
-      "source": "Tuya Smart Press Release",
+      "date": "2026-03-28",
+      "source": "通义千问",
       "url": ""
     },
     {
-      "id": 9,
-      "title": "New Open-Source Edge AI System Raises Security Concerns",
-      "summary": "An open-source edge AI system called RuView is turning WiFi infrastructure into a through-wall human-sensing platform, sparking security and surveillance debates.",
-      "content": "RuView, a new open-source edge AI system, is capable of turning ordinary WiFi infrastructure into a through-wall human-sensing platform. This development has raised urgent concerns regarding security and surveillance.",
+      "id": 11,
+      "title": "XGIMI发布MemoMind AI眼镜",
+      "summary": "XGIMI在CES 2026上发布了MemoMind AI眼镜，这款眼镜以其轻巧设计和强大的AI功能吸引了市场的关注。",
+      "content": "XGIMI在CES 2026上发布了MemoMind AI眼镜，这款眼镜以其轻巧设计和强大的AI功能吸引了市场的关注。MemoMind将发布三款智能眼镜，其中Memo One AI眼镜具有集成扬声器和双目显示屏，支持视觉和音频AI交互。这款眼镜提供了导航、实时翻译、提词器和AI摘要等功能，运行在多LLM混合操作系统上，能够自动为每个任务选择最合适的AI模型。",
       "category": "other",
-      "date": "2026-03-12",
-      "source": "IT Security News",
-      "url": "https://www.itsecuritynews.info"
+      "date": "2026-03-28",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/best-smart-glasses-ces-2026"
+    },
+    {
+      "id": 12,
+      "title": "智能手表市场增长迅速，健康监测技术成为关键",
+      "summary": "随着智能手表市场的快速增长，健康监测技术成为产品竞争的关键。各大厂商纷纷推出具有更精准健康监测功能的智能手表，以满足消费者对健康关注的需求。",
+      "content": "智能手表市场正在经历快速增长，预计到2026年全球智能手表出货量将达到1.5亿部。健康监测技术，如心率监测、血氧饱和度监测和睡眠分析，成为智能手表竞争的关键。苹果、华为、三星等厂商都在推出具有更精准健康监测功能的智能手表，以满足消费者对健康关注的需求。",
+      "category": "smart-watch",
+      "date": "2026-03-28",
+      "source": "IDC",
+      "url": ""
+    },
+    {
+      "id": 13,
+      "title": "FreeRTOS发布新版本，提升物联网设备性能",
+      "summary": "FreeRTOS发布了新版本，该版本通过优化内存管理和任务调度，提升了物联网设备的运行性能和响应速度。",
+      "content": "FreeRTOS发布了新版本，该版本通过优化内存管理和任务调度，提升了物联网设备的运行性能和响应速度。新版本还包括对安全功能的增强，如安全通信和数据加密，使得FreeRTOS更适合用于需要高安全性的物联网应用。",
+      "category": "rtos",
+      "date": "2026-03-28",
+      "source": "FreeRTOS",
+      "url": ""
+    },
+    {
+      "id": 14,
+      "title": "Linux内核更新，支持更多AI硬件",
+      "summary": "Linux内核发布了新版本，增加了对更多AI硬件的支持，使得Linux成为更适用于AI应用的操作系统。",
+      "content": "Linux内核发布了新版本，增加了对更多AI硬件的支持，包括新的AI加速器和神经网络处理器。这些更新使得Linux能够更好地利用硬件加速，提高AI应用的性能。新版本还包括对实时性能的改进，使得Linux更适合用于需要高实时性的AI应用。",
+      "category": "rtos",
+      "date": "2026-03-28",
+      "source": "Linux",
+      "url": ""
+    },
+    {
+      "id": 15,
+      "title": "智能眼镜市场预计将达到89亿美元",
+      "summary": "根据市场分析，全球智能眼镜市场在2026年将达到89亿美元，预计复合年增长率为37.4%。",
+      "content": "根据市场分析，全球智能眼镜市场在2026年将达到89亿美元，预计复合年增长率为37.4%。这一增长得益于更好的AI技术、更长的电池寿命、更时尚的设计，以及对消费者实际需求的清晰理解。智能眼镜正在从早期的技术演示转向解决实际问题的实用工具，如导航、实时翻译和双手自由操作。",
+      "category": "other",
+      "date": "2026-03-28",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/pulse/emerging-tech-2026-year-smart-eyewear-alim-williams-mdxre"
     }
   ]
 }

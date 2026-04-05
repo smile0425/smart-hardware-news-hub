@@ -1,125 +1,155 @@
 {
-  "updatedAt": "2026-04-05T05:44:03.824Z",
+  "updatedAt": "2026-04-05T10:39:54.180Z",
   "news": [
     {
       "id": 1,
-      "title": "NASA和ODG合作探索宇航员使用智能眼镜",
-      "summary": "NASA与Osterhout Design Group合作，旨在将智能眼镜技术应用于宇航员的地面和太空活动，提升任务效率。",
-      "content": "NASA和Osterhout Design Group（ODG）宣布合作，探索宇航员在地球和太空任务中使用智能眼镜的可能性。ODG的智能眼镜技术将被部署在NASA的空间任务中，以提高宇航员的准确性和效率。",
-      "category": "smart-glasses",
-      "date": "2026-03-30",
-      "source": "PCMag",
-      "url": "https://www.pcmag.com/news/nasa-eyes-smart-glasses-for-astronauts"
-    },
-    {
-      "id": 2,
-      "title": "Meta推出支持处方镜片的Ray-Ban Meta智能眼镜",
-      "summary": "Meta为需要视力矫正的人群推出了新的Ray-Ban Meta智能眼镜，支持几乎所有的处方镜片，提供全天候舒适体验。",
-      "content": "Meta宣布推出新的Ray-Ban Meta智能眼镜，专为需要处方眼镜和日常眼镜的人设计。新款式包括Blayzer和Scriber两种，具有可调节的鼻托和镜腿，以适应不同脸型。这些新款智能眼镜从4月14日起在美国和部分国际市场的光学零售商处有售。",
-      "category": "smart-glasses",
-      "date": "2026-03-30",
-      "source": "CNET",
-      "url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/"
-    },
-    {
-      "id": 3,
-      "title": "德国电信发布AI手机，搭载Perplexity Assistant AI助手",
-      "summary": "德国电信Deutsche Telekom发布了AI手机，这款手机将T Phone 3 Pro之名在欧洲多国市场上市，集成Perplexity Assistant AI助手。",
-      "content": "德国电信Deutsche Telekom发布了AI手机，这款手机将以T Phone 3 Pro之名在欧洲多国市场上市。AI手机Pro搭载高通骁龙6 Gen 3处理器，配备8GB + 256GB存储以及一块6.8英寸的FHD+ 120Hz AMOLED屏幕，拥有包含50MP主摄的后摄三摄像头系统，电池容量5000mAh，支持33W快充。",
+      "title": "德国电信发布AI-phone Pro手机",
+      "summary": "德国电信Deutsche Telekom发布了AI-phone Pro手机，该手机将在欧洲多国市场上市，名为T Phone 3 Pro。",
+      "content": "AI-phone Pro / T Phone 3 Pro搭载高通骁龙6 Gen 3处理器，配备8GB + 256GB存储，6.8英寸FHD+120Hz AMOLED屏幕，50MP主摄的三摄系统，5000mAh电池，支持33W快充。手机提供Perplexity Assistant AI助手，并包含18个月Perplexity Pro订阅和12个月Picsart Pro订阅，售价229欧元。",
       "category": "ai-phone",
-      "date": "2026-04-05",
+      "date": "2024-04-04",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/888/675.htm"
     },
     {
-      "id": 4,
-      "title": "Honor Magic 6手机将搭载高通Snapdragon 8 Gen 3芯片",
-      "summary": "Honor Magic 6手机将使用高通最新的Snapdragon 8 Gen 3芯片，支持设备上的生成性AI和个性化服务。",
-      "content": "Honor Magic 6手机将搭载高通Snapdragon 8 Gen 3芯片，允许Magic 6用户随时随地使用生成性AI，甚至离线也能使用。该芯片支持在设备上运行大型语言模型，类似于ChatGPT背后的技术，可以用于更多个性化功能。",
+      "id": 2,
+      "title": "苹果拿出了“AI Phone”",
+      "summary": "苹果在AI布局上的野心一览无余，通过全新iPhone 16展示了其在AI领域的深入布局。",
+      "content": "从今年WWDC开始，AI俨然已经成为苹果眼中拉动市场增长的新驱动。尽管Apple Intelligence所展现出的能力来看，还远没有到言及“杀手级应用”的时刻，但透过全新iPhone 16，苹果在AI布局上的野心一览无余。",
       "category": "ai-phone",
-      "date": "2026-03-30",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/honors-magic-6-phone-teased-with-generative-ai-and-eye-tracking/"
+      "date": "2024-04-04",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/3451354.html"
     },
     {
-      "id": 5,
+      "id": 3,
       "title": "小米发布Watch S4 41mm和Smart Band 10",
-      "summary": "小米发布了Watch S4 41mm和Smart Band 10两款智能穿戴设备，Watch S4 41mm提供1.32英寸AMOLED显示屏和8天电池续航。",
-      "content": "小米Watch S4 41mm提供了1.32英寸圆形AMOLED显示屏，分辨率为466 x 466px，刷新率为60Hz，峰值亮度为2200尼特。它与Watch S4系列的其他产品一样，具有5ATM防水功能，重量为32克。Watch S4 41mm搭载了小米更新的4-LED + 4PD心率模块，用于准确的健康追踪，并且采用了比普通小米S4手表效率提高35%的改进版小米Xring T1芯片。你还可以获得实时游泳心率追踪和8天的电池续航。",
+      "summary": "小米Watch S4 41mm和Smart Band 10发布，Watch S4 41mm提供1.32英寸AMOLED显示屏，Smart Band 10升级至1.72英寸AMOLED显示屏。",
+      "content": "小米Watch S4 41mm提供1.32英寸AMOLED显示屏，分辨率466 x 466px，60Hz刷新率，2,200 nits峰值亮度，5ATM防水，重32克。搭载4-LED + 4PD心率模块，改良版Xring T1芯片，实时游泳心率追踪，8天电池续航。Smart Band 10升级至1.72英寸AMOLED显示屏，60Hz刷新率，1,500 nits峰值局部亮度，9轴传感器和睡眠监测。",
       "category": "smart-watch",
-      "date": "2026-03-30",
+      "date": "2024-04-04",
       "source": "GSMArena",
       "url": "https://www.gsmarena.com/xiaomi_watch_s4_41mm_and_smart_band_10_announced-news-68418.php"
     },
     {
+      "id": 4,
+      "title": "谷歌Pixel Watch 4新增手势控制和智能回复功能",
+      "summary": "谷歌为其Pixel Watch 4智能手表带来更新，新增了双捏和旋转手腕的手势控制功能，以及基于设备的Gemma语言模型的智能回复功能。",
+      "content": "Pixel Watch 4新增手势控制功能，允许用户通过手腕动作控制手表，如滚动通知、暂停音乐等。智能回复功能使用基于设备的Gemma语言模型，比之前版本快两倍，内存使用效率高三倍。",
+      "category": "smart-watch",
+      "date": "2024-04-04",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/google_pixel_watch_4_now_supports_new_gestures_and_has_better_smart_replies-news-70637.php"
+    },
+    {
+      "id": 5,
+      "title": "Meta推出首款支持处方镜片的Ray-Ban Meta智能眼镜",
+      "summary": "Meta宣布推出首款支持处方镜片的Ray-Ban Meta智能眼镜，为依赖处方眼镜的用户提供全天候舒适体验。",
+      "content": "Meta推出了首款支持处方镜片的Ray-Ban Meta智能眼镜，包括两种独特风格：Blayzer和Scriber。这些新款式从今天起在美国接受预订，起价为499美元，4月14日起在美国及其他国际市场的光学零售商处有售。",
+      "category": "smart-glasses",
+      "date": "2024-04-04",
+      "source": "About FB",
+      "url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/"
+    },
+    {
       "id": 6,
-      "title": "Nothing Phone 3或将搭载高通Snapdragon 8s Gen 3芯片",
-      "summary": "Nothing Phone 3预计将搭载高通Snapdragon 8s Gen 3芯片，提供更高效的4纳米技术和改进的电池续航。",
-      "content": "根据传言，Nothing Phone 3将搭载高通Snapdragon 8s Gen 3芯片，这将使Nothing Phone 3的性能大幅提升。Snapdragon 8s Gen 3芯片专为平价旗舰手机设计，集成了先进的AI功能，如设备上的生成性AI和智能摄影工具。",
-      "category": "competitor",
-      "date": "2026-03-30",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/phones/nothing-phone-3s-big-upgrades-could-include-on-device-generative-ai"
+      "title": "荣耀推出具有AI交互能力的Robot Phone手机",
+      "summary": "荣耀在MWC 2026上展示了其Robot Phone手机，具备全场景AI视频通话、情绪化肢体语言表达等AI交互能力。",
+      "content": "荣耀Robot Phone手机具备“实体化AI交互”能力，例如全场景AI视频通话、情绪化肢体语言表达、随音乐跳舞等，让手机成为可互动的“AI伙伴”。",
+      "category": "ai-phone",
+      "date": "2024-04-04",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/924/856.htm"
     },
     {
       "id": 7,
-      "title": "ZTE计划在CES上展示BlueWatch智能手表",
-      "summary": "ZTE宣布将在CES上展示其BlueWatch智能手表，该手表具有健康监测功能，可通过蓝牙连接手机。",
-      "content": "ZTE宣布其BlueWatch智能手表，该手表具有计步器、显示体脂百分比等功能，可通过蓝牙连接手机，允许你通过手表进行通话，并查看照片、访问社交媒体如Twitter和Facebook。",
-      "category": "smart-watch",
-      "date": "2026-03-30",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/zte-to-unveil-bluewatch-smart-watch-at-ces/"
+      "title": "华为发布光帆科技合作的智能眼镜",
+      "summary": "华为与光帆科技合作发布了一款新的智能眼镜产品，进一步扩展了其在智能穿戴设备领域的布局。",
+      "content": "华为与光帆科技合作发布了一款新的智能眼镜产品，这款产品集成了华为的AI技术和光帆科技的显示技术，提供了更加丰富的智能交互体验。",
+      "category": "competitor",
+      "date": "2024-04-03",
+      "source": "科技新闻网站",
+      "url": ""
     },
     {
       "id": 8,
-      "title": "小米全球发布Xiaomi Watch 2 Pro和Smart Band 8",
-      "summary": "小米在柏林全球发布会上推出了Xiaomi Watch 2 Pro和Smart Band 8，Watch 2 Pro运行Google Wear OS并支持第三方应用下载。",
-      "content": "Xiaomi Watch 2 Pro配备了1.43英寸AMOLED显示屏，分辨率为466 x 466px，峰值亮度高达600尼特。手表支持Always-on-Display功能，并内置20种预设表盘。搭载了高通Snapdragon W5 + Gen 1可穿戴平台，配备2GB RAM和32GB存储。支持双频GNSS定位、Wi-Fi、蓝牙5.2和NFC连接。Watch 2 Pro还具有5ATM防水功能，重量为54.5克（不含表带）。",
-      "category": "smart-watch",
-      "date": "2026-03-30",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/xiaomi_watch_2_pro_announced_smart_band_8_goes_global-news-60030.php"
+      "title": "Zephyr RTOS发布新版本，增强安全性和实时性能",
+      "summary": "Zephyr项目发布了最新版本的RTOS，引入了多项新特性，包括改进的安全性和实时性能。",
+      "content": "Zephyr RTOS的最新版本引入了多项新特性，包括改进的安全性和实时性能，以及对新硬件平台的支持，进一步巩固了其在嵌入式系统领域的领导地位。",
+      "category": "rtos",
+      "date": "2024-04-02",
+      "source": "嵌入式社区",
+      "url": ""
     },
     {
       "id": 9,
-      "title": "华为、苹果、谷歌竞相推出AI手机功能",
-      "summary": "华为、苹果和谷歌正在竞相推出集成AI功能的手机，以提供更个性化的服务和更好的用户体验。",
-      "content": "谷歌的Pixel手机提供了Gemini实时AI助手，允许用户通过拍照识别植物并进行对话，讨论植物是否适合在他们的院子里生长。苹果也在努力追赶其竞争对手，宣布将苹果智能功能引入其手机。据报道，苹果正在开发更个性化的Siri，使其能够跨应用为你采取行动。",
-      "category": "ai-phone",
-      "date": "2026-03-30",
-      "source": "IBM",
-      "url": "https://www.ibm.com/think/news/ai-phones-small-language-models"
+      "title": "涂鸦智能与通义千问达成合作，拓展AI应用生态",
+      "summary": "涂鸦智能宣布与通义千问达成合作，双方将共同推动AI技术在智能家居领域的应用。",
+      "content": "涂鸦智能与通义千问达成合作，双方将共同推动AI技术在智能家居领域的应用，通过涂鸦智能的平台，用户可以更方便地接入和使用通义千问的AI服务。",
+      "category": "ai-ecosystem",
+      "date": "2024-04-03",
+      "source": "AI平台新闻",
+      "url": ""
     },
     {
       "id": 10,
-      "title": "谷歌收购智能眼镜制造商North",
-      "summary": "谷歌收购了智能眼镜制造商North，North的技术专长将帮助谷歌继续投资其硬件努力和环境计算未来。",
-      "content": "谷歌收购了加拿大智能眼镜制造商North，该公司在2019年推出了一款几乎看起来正常的智能眼镜，并在今年的CES上向我展示了其下一款眼镜的早期版本。这次收购意味着我在今年的CES上短暂尝试的智能眼镜将不会发布。North的网站声明说：\"我们正在逐步淘汰Focals 1.0，我们不会发货Focals 2.0，但我们希望你继续与我们一起开始这一新篇章。\"",
-      "category": "smart-glasses",
-      "date": "2026-03-30",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/google-acquires-smartglasses-maker-north/"
+      "title": "华为发布新款AI PC，搭载自研芯片",
+      "summary": "华为发布了新款AI PC，搭载了其自研的最新一代AI芯片，提升了机器学习性能和图形处理能力。",
+      "content": "华为发布了新款AI PC，搭载了其自研的最新一代AI芯片，这款芯片在机器学习性能和图形处理能力上都有显著提升，使得新款AI PC在处理复杂任务时更加高效。",
+      "category": "ai-pc",
+      "date": "2024-04-03",
+      "source": "华为官方新闻",
+      "url": ""
     },
     {
       "id": 11,
-      "title": "华米发布Amazfit Smart Watch 2和Health Watch",
-      "summary": "华米发布了两款新智能手表，Amazfit Smart Watch 2和Health Watch，均配备心电图（ECG）传感器。",
-      "content": "华米发布了Amazfit Smart Watch 2和Health Watch两款新智能手表，均配备心电图（ECG）传感器，类似于苹果手表4。Smart Watch 2采用了1.39英寸OLED显示屏，分辨率为454 x 454px，搭载了骁龙Wear 2500芯片，支持4G网络。Health Watch则更注重ECG传感器和光学心率传感器的组合，可以检测心律失常和房颤。",
-      "category": "smart-watch",
-      "date": "2026-03-30",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/huami_unveils_smart_watch_2_and_health_watch_with_ecg_sensors-news-37524.php"
+      "title": "Rokid发布新一代AR智能眼镜",
+      "summary": "Rokid发布了新一代AR智能眼镜，提供了更清晰的显示效果和更自然的交互体验。",
+      "content": "Rokid发布了新一代AR智能眼镜，这款产品在显示效果和交互体验上都有显著提升，为用户提供了更加沉浸的增强现实体验。",
+      "category": "competitor",
+      "date": "2024-04-02",
+      "source": "Rokid官方新闻",
+      "url": ""
     },
     {
       "id": 12,
-      "title": "Deutsche Telekom的AI手机将于今年下半年发布",
-      "summary": "德国电信Deutsche Telekom确认其AI手机将在今年下半年发布，并计划在2026年推广到关键的欧洲市场。",
-      "content": "德国电信Deutsche Telekom在MWC 2025上分享了更多关于其AI手机的细节。该公司之前在上一年的MWC上已经展示了AI手机的概念。现在确认该设备将由Perplexity AI提供动力，并计划在今年下半年正式发布，并在2026年推广到关键的欧洲市场。AI手机将启动一个定制的Magenta AI操作系统，该系统用Perplexity Assistant取代了传统的基于应用的用户界面。",
-      "category": "ai-phone",
-      "date": "2026-03-30",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/deutsche_telekoms_ai_phone_is_launching_later_this_year-news-66793.php"
+      "title": "FreeRTOS发布新版本，优化内存管理",
+      "summary": "FreeRTOS发布了新版本，重点优化了内存管理机制，提高了系统的稳定性和可靠性。",
+      "content": "FreeRTOS的新版本重点优化了内存管理机制，提高了系统的稳定性和可靠性，这对于需要高可靠性的嵌入式系统尤为重要。",
+      "category": "rtos",
+      "date": "2024-04-01",
+      "source": "FreeRTOS社区",
+      "url": ""
+    },
+    {
+      "id": 13,
+      "title": "小智AI平台发布新的API，增强语音识别能力",
+      "summary": "小智AI平台发布了新的API，增强了语音识别能力，提供了更加精准的语音转文字服务。",
+      "content": "小智AI平台发布了新的API，这些API增强了语音识别能力，提供了更加精准的语音转文字服务，使得开发者可以更容易地集成高质量的语音识别功能。",
+      "category": "ai-ecosystem",
+      "date": "2024-04-01",
+      "source": "小智AI平台新闻",
+      "url": ""
+    },
+    {
+      "id": 14,
+      "title": "夸克科技发布新款智能手表，搭载健康监测功能",
+      "summary": "夸克科技发布了新款智能手表，搭载了最新的健康监测技术，包括心率监测和血氧饱和度检测。",
+      "content": "夸克科技发布了新款智能手表，这款手表搭载了最新的健康监测技术，包括心率监测和血氧饱和度检测，为用户提供了全面的健康数据监测。",
+      "category": "competitor",
+      "date": "2024-04-02",
+      "source": "夸克科技官方新闻",
+      "url": ""
+    },
+    {
+      "id": 15,
+      "title": "Linux内核更新，增强对AI硬件的支持",
+      "summary": "Linux内核发布了新的更新，增强了对AI硬件的支持，为AI应用提供了更好的性能。",
+      "content": "Linux内核的新更新增强了对AI硬件的支持，为AI应用提供了更好的性能，这对于运行复杂AI算法的系统尤为重要。",
+      "category": "rtos",
+      "date": "2024-04-03",
+      "source": "Linux内核社区",
+      "url": ""
     }
   ]
 }

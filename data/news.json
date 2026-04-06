@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-06T03:55:27.216Z",
+  "updatedAt": "2026-04-06T05:57:57.153Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung Confirms AR Smart Glasses Launch in 2026",
-      "summary": "Samsung has officially confirmed the launch of its AI smart glasses in 2026, featuring a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip.",
-      "content": "Samsung has confirmed its plans to launch wearable devices, including AR glasses, in 2026. The confirmation came from Samsung’s EVP of Mobile Experiences, Seong Cho, during the company’s Q4 2025 earnings call. The smart glasses are expected to deliver multimodal AI experiences, with rumored features including a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip.",
+      "title": "Samsung Confirms Launch of AI Smart Glasses in 2026",
+      "summary": "Samsung has announced plans to launch AI smart glasses in 2026, featuring a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip. These glasses aim to provide a multimodal AI experience, combining voice, vision, and sensors for real-time interaction.",
+      "content": "Samsung’s EVP of Mobile Experiences, Seong Cho, confirmed the company's plans to launch wearable devices, including AR glasses, in 2026 during the Q4 2025 earnings call. The new glasses are designed to work with AI assistants and sensors rather than full mixed-reality displays, reflecting Samsung’s strategy to expand its wearable ecosystem. Early reports suggest these will be lightweight and Samsung-branded, offering intuitive AI support for daily tasks.",
       "category": "smart-glasses",
       "date": "2026-04-04",
       "source": "Times of AI",
@@ -13,11 +13,11 @@
     },
     {
       "id": 2,
-      "title": "Apple Plans to Launch AI Smart Glasses by End of 2026",
-      "summary": "Apple is reportedly planning to release smart glasses with a camera, microphone, and speaker in late 2026, offering various functions such as environment analysis and real-time translation.",
-      "content": "According to Bloomberg, Apple plans to release a pair of smart glasses equipped with a camera, microphone, and speaker in late 2026. These smart glasses will have the capability to execute voice commands through Siri and are expected to offer various functions such as analyzing the environment, making calls, playing music, providing real-time translation and navigation services.",
+      "title": "Apple Plans to Launch AI Smart Glasses by Late 2026",
+      "summary": "Apple is reportedly planning to release a pair of smart glasses equipped with a camera, microphone, and Siri integration in late 2026. The device is expected to offer various functions such as analyzing the environment, making calls, playing music, and providing real-time translation and navigation services.",
+      "content": "According to Bloomberg, Apple plans to release smart glasses that will have the capability to execute voice commands through Siri. The device is seen as a direct competitor to Meta Ray-Ban smart glasses. While Apple is moving forward with the development of AI-powered smart glasses, they have decided to cancel the plans for the Apple Watch and Apple Watch Ultra models that were supposed to come with cameras in 2027.",
       "category": "smart-glasses",
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "source": "FusionChat AI",
       "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
     },
@@ -25,7 +25,7 @@
       "id": 3,
       "title": "Apple Testing Standalone Siri App for iOS 27",
       "summary": "Apple is reportedly testing a standalone Siri app for iOS 27 that works like a chatbot, with a new look and 'Ask Siri' button across apps.",
-      "content": "Apple is experimenting with a standalone Siri app for iOS 27, which is designed to function like a chatbot. This new app will have a refreshed appearance and include an 'Ask Siri' button that can be accessed across various apps, indicating a significant update to the voice assistant's integration within the iOS ecosystem.",
+      "content": "The new standalone Siri app is expected to provide a more integrated and seamless experience for users, allowing for easier access to Siri's functionalities across the entire iOS ecosystem. This update signifies Apple's continuous efforts to enhance its AI capabilities and user interaction within its devices.",
       "category": "ai-phone",
       "date": "2026-03-25",
       "source": "Phandroid",
@@ -34,8 +34,8 @@
     {
       "id": 4,
       "title": "Hikvision to Showcase AI-Powered Industrial Solutions at Hannover Messe 2026",
-      "summary": "Hikvision, a global leader in AIoT solutions, is set to participate in Hannover Messe 2026, demonstrating how AI and intelligent analytics are transforming industrial operations.",
-      "content": "Hikvision will be参展Hannover Messe 2026, the world's premier industrial trade fair, to showcase its AI-powered perception and intelligent analytics transforming industrial operations across manufacturing, energy, and other sectors. The company's commitment to 'Shaping Industrial Digitalization with AIoT' will be highlighted at the event.",
+      "summary": "Hikvision, a global leader in AIoT solutions, is set to participate in Hannover Messe 2026, demonstrating how AI-powered perception and intelligent analytics are transforming industrial operations.",
+      "content": "Hikvision will exhibit at Hall 27-G84, showcasing its commitment to 'Shaping Industrial Digitalization with AIoT.' The company's focus will be on how AIoT solutions can revolutionize manufacturing and energy sectors through advanced perception and analytics technologies.",
       "category": "ai-pc",
       "date": "2026-03-27",
       "source": "Manila Times",
@@ -43,113 +43,43 @@
     },
     {
       "id": 5,
-      "title": "Warby Parker and Google Announce Joint AI Glasses Launch for 2026",
-      "summary": "Warby Parker and Google have announced a collaboration to launch AI glasses in 2026, indicating a significant move in the wearables market.",
-      "content": "In a surprise move for the wearables industry, Warby Parker and Google have announced a joint venture to launch AI glasses in 2026. This collaboration sets a near-term deadline for competitors and retailers in the industry, signaling a shift in the market dynamics and potential changes in consumer expectations for smart glasses.",
+      "title": "Vivo Halts Smart Glasses Project",
+      "summary": "Vivo has halted its smart glasses project after months of joint development with partners including Goertek and ThunderSoft, due to lack of differentiation in a crowded market.",
+      "content": "Executives at Vivo reportedly concluded that the product lacked differentiation in a market already crowded with AI-powered eyewear. This move highlights the broader challenges facing smart glasses, from hardware complexity to a thin software ecosystem.",
       "category": "competitor",
-      "date": "2026-04-04",
-      "source": "Glass Almanac",
-      "url": "https://glassalmanac.com/warby-parker-reveals-2026-ai-glasses-launch-why-it-changes-wearables-now/"
+      "date": "2026-03-25",
+      "source": "36Kr",
+      "url": "https://36kr.com"
     },
     {
       "id": 6,
-      "title": "Anthropic Explores Public Listing as Early as October",
-      "summary": "Artificial intelligence firm Anthropic is reportedly exploring a public listing, competing with rival OpenAI in the race for an IPO.",
-      "content": "Anthropic, an AI firm known for its advanced artificial intelligence models, is considering a public listing as early as October. The company is in discussions with major Wall Street banks for potential roles in its initial public offering. This move comes amidst a competitive landscape with rival OpenAI, indicating a growing interest in AI technologies and their potential for market disruption.",
-      "category": "competitor",
-      "date": "2026-03-27",
-      "source": "CIO Economic Times",
-      "url": "https://cio.economictimes.indiatimes.com"
+      "title": "Zephyr RTOS Reaches New Milestone with Enhanced Security Features",
+      "summary": "The Zephyr project has announced a new release of its RTOS, focusing on enhanced security features and improved support for the latest hardware platforms.",
+      "content": "The latest version of Zephyr RTOS includes significant updates to its security framework, providing developers with more robust tools to protect their embedded systems against potential threats. Additionally, the release adds support for new hardware platforms, expanding the range of applications for Zephyr in the IoT and embedded markets.",
+      "category": "rtos",
+      "date": "2026-04-04",
+      "source": "Embedded Computing Design",
+      "url": ""
     },
     {
       "id": 7,
-      "title": "Zephyr RTOS 2.4.0 Release Brings Improved Security Features",
-      "summary": "The latest release of the Zephyr RTOS, version 2.4.0, includes significant security enhancements and new developer tools.",
-      "content": "The Zephyr Project, a leading real-time operating system (RTOS) for the Internet of Things (IoT), has announced the release of Zephyr RTOS 2.4.0. This new version comes with improved security features, including better memory protection and encrypted data storage, as well as new tools to facilitate developer workflows.",
-      "category": "rtos",
-      "date": "2026-03-25",
-      "source": "Zephyr Project",
-      "url": "https://www.zephyrproject.org"
-    },
-    {
-      "id": 8,
-      "title": "Atlassian to Lay Off 1,600 Employees to Boost AI Investments",
-      "summary": "Atlassian has announced a workforce reduction of 10%, affecting 1,600 employees, to increase investments in AI and enterprise sales.",
-      "content": "Atlassian, a leading SaaS provider, has decided to lay off 1,600 employees, which accounts for approximately 10% of its global workforce. The company stated that this decision is part of a strategic move to self-fund investments in artificial intelligence and enterprise sales, indicating a significant commitment to expanding its capabilities in these areas.",
+      "title": "Google and Warby Parker Confirm 2026 Launch of AI Smart Glasses",
+      "summary": "Google has confirmed that its first AI smart glasses, developed in collaboration with Warby Parker, will debut in 2026, marking a major expansion of its Android XR ecosystem.",
+      "content": "The upcoming devices aim to blend hands-free assistance, real-time information access, and stylish, all-day wearability. The glasses are designed to integrate seamlessly into everyday routines, allowing users to ask questions about their surroundings, recall information, and communicate more efficiently through real-time translation features.",
       "category": "ai-ecosystem",
       "date": "2026-03-12",
-      "source": "Livemint",
-      "url": "https://www.livemint.com"
-    },
-    {
-      "id": 9,
-      "title": "Nvidia Aims to Power Orbiting Data Centres with AI",
-      "summary": "Nvidia's chief, Jensen Huang, announced the company's goal to power orbiting data centres with its leading artificial intelligence chips.",
-      "content": "Nvidia, a leading artificial intelligence chip manufacturer, has revealed its ambitious plan to extend its technology to space by powering orbiting data centres. This move signifies Nvidia's continued expansion into AI applications and its commitment to supporting advanced computational needs even in space.",
-      "category": "other",
-      "date": "2026-03-17",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com"
-    },
-    {
-      "id": 10,
-      "title": "Uttar Pradesh to Establish Data Centre Parks to Boost Digital Infrastructure",
-      "summary": "Uttar Pradesh plans to establish eight data centre parks across key cities as part of an ambitious project involving an investment of nearly Rs two lakh crore.",
-      "content": "The state of Uttar Pradesh in India is set to become a major digital and artificial intelligence hub with the establishment of eight data centre parks. This project, which involves an investment of nearly Rs two lakh crore, aims to expand digital infrastructure and attract technology-led industries, marking a significant step towards bolstering the region's tech capabilities.",
-      "category": "other",
-      "date": "2026-03-17",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com"
-    },
-    {
-      "id": 11,
-      "title": "Google's First AI Smart Glasses to Launch in 2026",
-      "summary": "Google has announced that its first AI smart glasses, developed in collaboration with Samsung, Gentle Monster, and Warby Parker, will debut in 2026.",
-      "content": "Google has confirmed that its first AI smart glasses will be launched in 2026, marking a significant expansion of its Android XR ecosystem. The upcoming devices aim to blend hands-free assistance, real-time information access, and stylish, all-day wearability. The glasses are being developed in two models: one for screen-free assistance and the other incorporating an in-lens display for private overlays.",
-      "category": "smart-glasses",
-      "date": "2026-03-11",
       "source": "GK Today",
       "url": "https://www.gktoday.in/google-ai-smart-glasses-launch-set-for-2026/"
     },
     {
-      "id": 12,
-      "title": "Apple's Vision Products Group Leads Smart Glasses Development",
-      "summary": "Apple's smart glasses project is being led by the Vision Products Group, which is also working on a lighter version of the headset that can be connected to a Mac.",
-      "content": "Apple's foray into AI smart glasses signifies a significant step towards integrating advanced technology into everyday wearable devices. The Vision Products Group at Apple, which previously developed the Vision Pro headset, is leading the development of these smart glasses. The team is also working on a lighter version of the headset designed to be connected to a Mac, indicating Apple's commitment to creating an ecosystem of wearable AI devices.",
-      "category": "smart-glasses",
-      "date": "2026-03-11",
-      "source": "RoIC AI",
-      "url": "https://www.roic.ai/news/apple-accelerates-ai-glasses-development-amid-strategic-pivot-targeting-2026-2027-launch-02-17-2026"
-    },
-    {
-      "id": 13,
-      "title": "ASRock Industrial Launches AI BOX-A395 System",
-      "summary": "ASRock Industrial has announced the AI BOX-A395, a compact system based on the AMD Ryzen AI Max+ 395 platform, integrating CPU, GPU, and NPU resources.",
-      "content": "ASRock Industrial has introduced the AI BOX-A395, a new compact system that leverages the AMD Ryzen AI Max+ 395 platform. This system is designed to integrate CPU, GPU, and NPU resources, providing a powerful solution for AI applications. The AI BOX-A395 is targeted at applications requiring high computational capabilities, such as AI inference and machine learning.",
-      "category": "ai-pc",
-      "date": "2026-03-17",
-      "source": "Linux Gizmos",
-      "url": "https://linuxgizmos.com"
-    },
-    {
-      "id": 14,
-      "title": "Grinn Announces Products Built Around Synaptics Astra Edge AI Processor",
-      "summary": "Grinn has announced two new products, the AstraSOM-261x system-on-module and the Synaptics Coral Dev Board, built around the Synaptics Astra edge AI processor family.",
-      "content": "Grinn has introduced two new products centered on the Synaptics Astra edge AI processor family. The AstraSOM-261x is a system-on-module, while the Synaptics Coral Dev Board is a development platform. These products are designed to leverage the capabilities of the Synaptics Astra edge AI processor, enabling advanced AI and machine learning applications in a compact form factor.",
-      "category": "ai-pc",
+      "id": 8,
+      "title": "Atlassian to Lay Off 1,600 Employees to Boost Investments in AI",
+      "summary": "Atlassian announced a workforce reduction of 10%, affecting 1,600 employees, to boost investments in AI and enterprise sales.",
+      "content": "Following the news, shares rose by 2%. Co-founder Mike Cannon-Brookes acknowledged the difficult decision in a memo to employees. The company aims to self-fund investments for AI and enterprise sales, indicating a strategic shift towards AI technology and solutions.",
+      "category": "other",
       "date": "2026-03-12",
-      "source": "Linux Gizmos",
-      "url": "https://linuxgizmos.com"
-    },
-    {
-      "id": 15,
-      "title": "Australian-Made AI Detects Breast Cancer Risk",
-      "summary": "A new Australian artificial intelligence tool could transform breast cancer screening by offering a more personalized and accurate assessment.",
-      "content": "Australian researchers have developed an AI tool that has the potential to revolutionize breast cancer screening. This new tool offers a more personalized and accurate method of assessing breast cancer risk, which could significantly improve early detection and treatment outcomes for patients.",
-      "category": "ai-ecosystem",
-      "date": "2026-03-12",
-      "source": "Metafilter",
-      "url": "https://www.metafilter.com"
+      "source": "Livemint",
+      "url": "https://www.livemint.com"
     }
   ]
 }

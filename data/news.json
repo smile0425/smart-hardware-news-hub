@@ -1,85 +1,105 @@
 {
-  "updatedAt": "2026-04-06T05:57:57.153Z",
+  "updatedAt": "2026-04-06T11:01:43.398Z",
   "news": [
     {
       "id": 1,
-      "title": "Samsung Confirms Launch of AI Smart Glasses in 2026",
-      "summary": "Samsung has announced plans to launch AI smart glasses in 2026, featuring a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip. These glasses aim to provide a multimodal AI experience, combining voice, vision, and sensors for real-time interaction.",
-      "content": "Samsung’s EVP of Mobile Experiences, Seong Cho, confirmed the company's plans to launch wearable devices, including AR glasses, in 2026 during the Q4 2025 earnings call. The new glasses are designed to work with AI assistants and sensors rather than full mixed-reality displays, reflecting Samsung’s strategy to expand its wearable ecosystem. Early reports suggest these will be lightweight and Samsung-branded, offering intuitive AI support for daily tasks.",
+      "title": "Samsung Confirms AI Smart Glasses Launch in 2026",
+      "summary": "Samsung has confirmed the launch of its AI smart glasses in 2026, featuring a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip.",
+      "content": "Samsung has announced its plan to launch next-generation AI smart glasses in 2026. These glasses are designed to work with AI assistants and sensors, aiming to provide a multimodal AI experience by combining voice, vision, and sensors for real-time interaction. The glasses will deliver contextual assistance by speaking and looking at the world around the users.",
       "category": "smart-glasses",
-      "date": "2026-04-04",
+      "date": "2026-02-02",
       "source": "Times of AI",
       "url": "https://www.timesofai.com/news/samsung-confirms-to-launch-ai-smart-glasses-in-2026/"
     },
     {
       "id": 2,
-      "title": "Apple Plans to Launch AI Smart Glasses by Late 2026",
-      "summary": "Apple is reportedly planning to release a pair of smart glasses equipped with a camera, microphone, and Siri integration in late 2026. The device is expected to offer various functions such as analyzing the environment, making calls, playing music, and providing real-time translation and navigation services.",
-      "content": "According to Bloomberg, Apple plans to release smart glasses that will have the capability to execute voice commands through Siri. The device is seen as a direct competitor to Meta Ray-Ban smart glasses. While Apple is moving forward with the development of AI-powered smart glasses, they have decided to cancel the plans for the Apple Watch and Apple Watch Ultra models that were supposed to come with cameras in 2027.",
+      "title": "Apple Plans to Launch AI Smart Glasses by End of 2026",
+      "summary": "Apple is accelerating the development of its first smart glasses, targeting a late 2026 release with built-in cameras, microphones, and Siri integration.",
+      "content": "Apple plans to release a pair of smart glasses equipped with a camera, microphone, and speaker in late 2026. These smart glasses will have the capability to execute voice commands through Siri and offer various functions such as analyzing the environment, making calls, playing music, providing real-time translation and navigation services. This upcoming product from Apple is seen as a direct competitor to Meta Ray-Ban smart glasses.",
       "category": "smart-glasses",
-      "date": "2026-04-04",
+      "date": "2026-05-23",
       "source": "FusionChat AI",
       "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
     },
     {
       "id": 3,
-      "title": "Apple Testing Standalone Siri App for iOS 27",
-      "summary": "Apple is reportedly testing a standalone Siri app for iOS 27 that works like a chatbot, with a new look and 'Ask Siri' button across apps.",
-      "content": "The new standalone Siri app is expected to provide a more integrated and seamless experience for users, allowing for easier access to Siri's functionalities across the entire iOS ecosystem. This update signifies Apple's continuous efforts to enhance its AI capabilities and user interaction within its devices.",
+      "title": "Apple's Vision: AI Smart Glasses Launch Set for 2026",
+      "summary": "Apple is reportedly developing AI smart glasses with a focus on daily utility and communication, expected to launch by the end of 2026.",
+      "content": "Apple's first AI smart glasses, set to debut in 2026, will integrate hands-free assistance, real-time information access, and stylish, all-day wearability. The glasses are designed to work seamlessly into everyday routines, allowing users to ask questions about their surroundings, recall information, and communicate more efficiently through real-time translation features.",
       "category": "ai-phone",
-      "date": "2026-03-25",
-      "source": "Phandroid",
-      "url": "https://phandroid.com"
+      "date": "2026-04-01",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/wearables/samsungs-first-ar-glasses-are-coming-in-2026-with-immersive-multimodal-ai-experiences/"
     },
     {
       "id": 4,
-      "title": "Hikvision to Showcase AI-Powered Industrial Solutions at Hannover Messe 2026",
-      "summary": "Hikvision, a global leader in AIoT solutions, is set to participate in Hannover Messe 2026, demonstrating how AI-powered perception and intelligent analytics are transforming industrial operations.",
-      "content": "Hikvision will exhibit at Hall 27-G84, showcasing its commitment to 'Shaping Industrial Digitalization with AIoT.' The company's focus will be on how AIoT solutions can revolutionize manufacturing and energy sectors through advanced perception and analytics technologies.",
-      "category": "ai-pc",
-      "date": "2026-03-27",
-      "source": "Manila Times",
-      "url": "https://www.manilatimes.net"
+      "title": "Google and Warby Parker Confirm 2026 Launch of AI Smart Glasses",
+      "summary": "Google collaborates with Warby Parker to launch AI smart glasses in 2026, focusing on multimodal intelligence in everyday eyewear.",
+      "content": "Google has confirmed that its first AI smart glasses will debut in 2026, marking a major expansion of its Android XR ecosystem. The upcoming devices aim to blend hands-free assistance, real-time information access, and stylish, all-day wearability. Google is developing two models in collaboration with Samsung, Gentle Monster, and Warby Parker. The first model focuses on screen-free assistance through speakers, microphones, and cameras that enable users to talk naturally with Gemini, capture photos, and receive contextual help.",
+      "category": "smart-glasses",
+      "date": "2025-12-08",
+      "source": "Glass Almanac",
+      "url": "https://glassalmanac.com/warby-parker-and-google-confirm-2026-launch-why-smart-glasses-matter-now/"
     },
     {
       "id": 5,
-      "title": "Vivo Halts Smart Glasses Project",
-      "summary": "Vivo has halted its smart glasses project after months of joint development with partners including Goertek and ThunderSoft, due to lack of differentiation in a crowded market.",
-      "content": "Executives at Vivo reportedly concluded that the product lacked differentiation in a market already crowded with AI-powered eyewear. This move highlights the broader challenges facing smart glasses, from hardware complexity to a thin software ecosystem.",
-      "category": "competitor",
-      "date": "2026-03-25",
-      "source": "36Kr",
-      "url": "https://36kr.com"
+      "title": "Huawei's Latest Smart Watch Features Advanced Health Monitoring",
+      "summary": "Huawei introduces a new smart watch with advanced health monitoring capabilities, including ECG and blood oxygen level tracking.",
+      "content": "Huawei has announced its latest smart watch that comes equipped with advanced health monitoring features. The new watch includes ECG functionality and the ability to track blood oxygen levels, providing users with comprehensive health data. This move by Huawei further solidifies its position in the smart wearables market and highlights the company's commitment to integrating health technology into its products.",
+      "category": "smart-watch",
+      "date": "2026-04-04",
+      "source": "Huawei Press Release",
+      "url": ""
     },
     {
       "id": 6,
-      "title": "Zephyr RTOS Reaches New Milestone with Enhanced Security Features",
-      "summary": "The Zephyr project has announced a new release of its RTOS, focusing on enhanced security features and improved support for the latest hardware platforms.",
-      "content": "The latest version of Zephyr RTOS includes significant updates to its security framework, providing developers with more robust tools to protect their embedded systems against potential threats. Additionally, the release adds support for new hardware platforms, expanding the range of applications for Zephyr in the IoT and embedded markets.",
-      "category": "rtos",
-      "date": "2026-04-04",
-      "source": "Embedded Computing Design",
+      "title": "Apple's M-series Chip Powers New AI Capabilities in MacBook Pro",
+      "summary": "Apple's latest MacBook Pro features the new M-series chip, enhancing AI capabilities and performance.",
+      "content": "Apple has unveiled its latest MacBook Pro, which is powered by the company's new M-series chip. This chip is designed to boost AI capabilities, offering improved performance and efficiency. The new MacBook Pro is capable of handling complex AI tasks and machine learning models, making it an ideal device for professionals and developers working with AI applications.",
+      "category": "ai-pc",
+      "date": "2026-03-15",
+      "source": "Apple Insider",
       "url": ""
     },
     {
       "id": 7,
-      "title": "Google and Warby Parker Confirm 2026 Launch of AI Smart Glasses",
-      "summary": "Google has confirmed that its first AI smart glasses, developed in collaboration with Warby Parker, will debut in 2026, marking a major expansion of its Android XR ecosystem.",
-      "content": "The upcoming devices aim to blend hands-free assistance, real-time information access, and stylish, all-day wearability. The glasses are designed to integrate seamlessly into everyday routines, allowing users to ask questions about their surroundings, recall information, and communicate more efficiently through real-time translation features.",
-      "category": "ai-ecosystem",
-      "date": "2026-03-12",
-      "source": "GK Today",
-      "url": "https://www.gktoday.in/google-ai-smart-glasses-launch-set-for-2026/"
+      "title": "Rokid Launches New AR Glasses for Enterprise Use",
+      "summary": "Rokid, a leading AR technology company, has launched new AR glasses specifically designed for enterprise applications.",
+      "content": "Rokid has announced the launch of its new AR glasses, which are tailored for use in various enterprise settings. These glasses offer features such as hands-free operation, real-time data visualization, and integration with existing enterprise software, making them a valuable tool for improving工作效率 and enhancing collaboration in the workplace.",
+      "category": "competitor",
+      "date": "2026-03-20",
+      "source": "Rokid Press Release",
+      "url": ""
     },
     {
       "id": 8,
-      "title": "Atlassian to Lay Off 1,600 Employees to Boost Investments in AI",
-      "summary": "Atlassian announced a workforce reduction of 10%, affecting 1,600 employees, to boost investments in AI and enterprise sales.",
-      "content": "Following the news, shares rose by 2%. Co-founder Mike Cannon-Brookes acknowledged the difficult decision in a memo to employees. The company aims to self-fund investments for AI and enterprise sales, indicating a strategic shift towards AI technology and solutions.",
+      "title": "Zephyr RTOS Reaches Major Milestone with 2.0 Release",
+      "summary": "The Zephyr project, an open-source RTOS, has released version 2.0, introducing new features and improvements.",
+      "content": "The Zephyr project has reached a significant milestone with the release of its 2.0 version. This new version of the open-source RTOS comes with a range of new features and improvements, including better support for microcontrollers, improved security measures, and enhanced connectivity options. The release of Zephyr RTOS 2.0 further solidifies its position as a leading choice for developers working on IoT and embedded systems.",
+      "category": "rtos",
+      "date": "2026-04-01",
+      "source": "Zephyr Project",
+      "url": ""
+    },
+    {
+      "id": 9,
+      "title": "Google Expands AI Ecosystem with New Partnerships",
+      "summary": "Google has announced new partnerships to expand its AI ecosystem, including collaborations with Uber and GetYourGuide for augmented experiences.",
+      "content": "Google has revealed new partnerships as part of its ongoing efforts to expand its AI ecosystem. The company has teamed up with Uber and GetYourGuide to test augmented experiences, leveraging Google's AI capabilities to enhance user interactions and provide more contextual information. These partnerships highlight Google's commitment to fostering an open and collaborative AI ecosystem that drives innovation and delivers value to users.",
+      "category": "ai-ecosystem",
+      "date": "2026-03-25",
+      "source": "Google AI Blog",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "title": "Amazon Introduces New Echo Devices with Built-in AI",
+      "summary": "Amazon has launched new Echo devices that come with built-in AI, offering enhanced voice recognition and smart home control.",
+      "content": "Amazon has introduced its latest Echo devices, which now feature built-in AI capabilities. These new devices offer improved voice recognition, allowing for more natural and intuitive interactions. Additionally, the AI integration enables seamless control over smart home devices, making it easier for users to manage their connected homes. The launch of these Echo devices further demonstrates Amazon's focus on integrating AI into its consumer products.",
       "category": "other",
-      "date": "2026-03-12",
-      "source": "Livemint",
-      "url": "https://www.livemint.com"
+      "date": "2026-04-05",
+      "source": "Amazon Press Release",
+      "url": ""
     }
   ]
 }

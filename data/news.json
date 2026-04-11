@@ -1,95 +1,85 @@
 {
-  "updatedAt": "2026-04-11T03:33:37.606Z",
+  "updatedAt": "2026-04-11T05:23:31.318Z",
   "news": [
     {
       "id": 1,
-      "title": "Google计划在2026年推出两款AI眼镜，与Xreal和三星合作",
-      "summary": "科技巨头谷歌计划在2026年推出两款AI眼镜，一款专注于显示，另一款专注于音频。谷歌正在与Xreal和三星合作，以加强其在AI眼镜领域的生态系统合作，挑战Meta的市场主导地位。",
-      "content": "谷歌的这一举措表明，公司正在加大对增强现实和虚拟现实领域的投入，希望通过AI眼镜在下一代计算平台上获得先发优势。根据IDC预测，到2026年全球AR设备出货量将突破5000万台。谷歌通过与时尚眼镜品牌和硬件巨头的合作，旨在提供既美观又技术先进的设备。",
+      "title": "Meta Reportedly Plans To Expand Smart Glasses Push With New Prescription Ray-Ban Models",
+      "summary": "Meta Platforms, Inc.计划下周推出两款新的Ray-Ban智能眼镜，专为需要佩戴处方眼镜的用户设计。这些新型号将是首批以特定受众群体为目标推出的产品，与Luxottica合作开发，风格为矩形和圆形。",
+      "content": "据报道，Meta Platforms, Inc.计划下周推出两款新的Ray-Ban智能眼镜，专为需要佩戴处方眼镜的用户设计。这些新型号将是首批以特定受众群体为目标推出的产品。与Luxottica合作开发的这些眼镜将有矩形和圆形的风格。这些设备内部被称为'Scriber'和'Blazer'，主要通过传统的光学零售渠道销售。",
       "category": "smart-glasses",
-      "date": "2026-03-21",
-      "source": "lemon8-app",
-      "url": "https://www.lemon8-app.com/@emmatalkfinance/7581696821429273105?region=sg"
+      "date": "2026-04-05",
+      "source": "Benzinga",
+      "url": "https://www.aol.com/articles/meta-reportedly-plans-expand-smart-153126817.html"
     },
     {
       "id": 2,
-      "title": "谷歌将于2026年推出搭载Gemini助手的AI眼镜",
-      "summary": "谷歌确认将在2026年推出首款搭载Gemini助手和全息显示的AI眼镜，与Warby Parker和三星合作，旨在挑战Meta在消费电子市场的主导地位。",
-      "content": "谷歌的AI眼镜将分为两个不同的型号：一款为无屏幕的音频专用型号，另一款为内置显示屏型号，能够将数字信息直接投影到用户视野中。谷歌通过与时尚眼镜品牌和硬件制造商的合作，旨在打造既美观又技术先进的设备。",
-      "category": "smart-glasses",
-      "date": "2026-03-21",
-      "source": "Mobile App Daily",
-      "url": "https://www.mobileappdaily.com/news/google-ai-glasses-set-for-2026"
+      "title": "Google Gemma 4开源：告别自定义许可，拥抱Apache 2.0",
+      "summary": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级）和E2B/E4B（边缘级），并从自定义协议转向Apache 2.0许可，消除企业用户的法律顾虑。",
+      "content": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级，256K上下文）和E2B/E4B（边缘级，128K上下文，支持音频输入）。26B MoE版仅激活38亿参数，消费级显卡即可跑起来。真正的看点是许可证变更——从此前的自定义协议转向Apache 2.0，消除了企业用户的法律顾虑。",
+      "category": "ai-phone",
+      "date": "2026-04-07",
+      "source": "VentureBeat",
+      "url": "https://www.cnblogs.com/yumingwen/p/19828090"
     },
     {
       "id": 3,
-      "title": "华为发布新款AI手机Mate 50 Pro，搭载HarmonyOS 3.1",
-      "summary": "华为宣布推出新款AI手机Mate 50 Pro，预装最新的HarmonyOS 3.1操作系统。新系统带来了更强大的AI功能和性能提升，包括更智能的图像识别和语音助手。",
-      "content": "华为Mate 50 Pro的发布标志着华为在智能手机领域的最新技术突破。HarmonyOS 3.1系统通过集成更先进的AI算法，使得手机在图像处理、语音识别和用户交互方面更加智能和高效。新款手机预计将在第三季度全球发售。",
-      "category": "ai-phone",
-      "date": "2026-04-08",
-      "source": "华为官方网站",
-      "url": ""
+      "title": "苹果MLX生态扩展，AI在iPhone上的应用进一步增强",
+      "summary": "苹果正在扩展其MLX生态，通过最新的iOS更新，允许其Gemini AI助理执行更多任务，如订购杂货或预订乘车，进一步提升了AI在iPhone上的应用。",
+      "content": "随着最新的三月更新，谷歌为其Pixel手机增加了几项新功能，包括允许其Gemini AI助理为您执行任务，比如订购杂货或预订乘车。这项功能最初是为Pixel 6系列设备推出的，现在扩展到了所有Pixel 6设备。",
+      "category": "smart-watch",
+      "date": "2026-04-03",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026"
     },
     {
       "id": 4,
-      "title": "苹果手表Series 8增加新健康监测功能",
-      "summary": "苹果公司宣布为其智能手表Series 8增加新的健康监测功能，包括体温监测和女性健康追踪，进一步提升用户健康数据管理能力。",
-      "content": "苹果手表Series 8的新功能将使用户能够更全面地了解自己的健康状况。体温监测功能可以帮助用户跟踪日常体温变化，而女性健康追踪功能则可以记录月经周期和相关症状。这些功能的增加预计将吸引更多关注健康的消费者。",
-      "category": "smart-watch",
+      "title": "Anthropic与Google、Broadcom达成深度合作，锁定多个吉瓦级别的下一代TPU算力",
+      "summary": "Anthropic宣布与Google、Broadcom达成深度合作，锁定多个吉瓦级别的下一代TPU算力，计划2027年逐步上线，为Claude前沿模型提供算力支持。",
+      "content": "Anthropic宣布与Google、Broadcom达成深度合作，锁定多个吉瓦（GW）级别的下一代TPU算力，计划2027年逐步上线，为Claude前沿模型提供弹药。与此同时，Anthropic年化营收（run-rate）已突破300亿美元大关。",
+      "category": "ai-pc",
       "date": "2026-04-07",
-      "source": "苹果官方网站",
-      "url": ""
+      "source": "The Verge",
+      "url": "https://www.cnblogs.com/saodiseng2015/p/archive/2026/04/07"
     },
     {
       "id": 5,
-      "title": "英特尔发布新一代AI PC处理器，性能提升20%",
-      "summary": "英特尔宣布推出新一代AI PC处理器，采用更先进的制程技术和架构设计，性能相比上一代提升20%，能效比也得到优化。",
-      "content": "新一代英特尔AI PC处理器的发布，标志着公司在高性能计算领域的最新进展。新处理器通过集成更高效的AI加速器和优化的缓存系统，为AI应用和复杂计算任务提供了更强的性能支持。",
-      "category": "ai-pc",
-      "date": "2026-04-09",
-      "source": "英特尔官方网站",
-      "url": ""
+      "title": "第二代豆包AI手机预计二季度发布，字节跳动深化移动设备系统级AI",
+      "summary": "据科技博客报道，第二代豆包AI手机预计在二季度发布，继续与中兴努比亚品牌合作，聚焦系统级AI和跨应用自主操作，旨在实现AI代表用户执行任务的新交互模式。",
+      "content": "第二代豆包AI智能手机预计将于今年第二季度发布，字节跳动加深其在移动设备系统级AI的布局。该设备将继续与中兴努比亚品牌合作，并专注于系统级AI和跨应用的自主操作，旨在实现一种新的交互模式，即AI代表用户执行任务。",
+      "category": "competitor",
+      "date": "2026-04-03",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/04/03/doubao-2-ai-smartphone-tipped-for-q2-debut-two-top-chinese-phone-makers-in-talks/"
     },
     {
       "id": 6,
-      "title": "Rokid发布新一代AR眼镜Rokid Air 2，聚焦企业市场",
-      "summary": "Rokid宣布推出新一代AR眼镜Rokid Air 2，专为企业市场设计，提供更强大的数据处理能力和更舒适的佩戴体验。",
-      "content": "Rokid Air 2的发布进一步巩固了Rokid在AR领域的领先地位。新一代产品通过集成更高性能的处理器和优化的光学系统，为企业用户提供了更丰富的应用场景和更高效的工作流程支持。",
-      "category": "competitor",
-      "date": "2026-04-10",
-      "source": "Rokid官方网站",
-      "url": ""
+      "title": "Google Gemma 4家族模型发布，拥抱Apache 2.0许可",
+      "summary": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级）和E2B/E4B（边缘级），并从自定义协议转向Apache 2.0许可，消除企业用户的法律顾虑。",
+      "content": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级，256K上下文）和E2B/E4B（边缘级，128K上下文，支持音频输入）。26B MoE版仅激活38亿参数，消费级显卡即可跑起来。真正的看点是许可证变更——从此前的自定义协议转向Apache 2.0，消除了企业用户的法律顾虑。",
+      "category": "rtos",
+      "date": "2026-04-07",
+      "source": "VentureBeat",
+      "url": "https://www.cnblogs.com/yumingwen/p/19828090"
     },
     {
       "id": 7,
-      "title": "Zephyr RTOS发布新版本，增强安全和实时性能",
-      "summary": "Zephyr项目宣布发布最新版本的RTOS操作系统，新版本增加了更多的安全特性和改进了实时性能，以满足严苛的工业和汽车应用需求。",
-      "content": "Zephyr RTOS的新版本通过引入新的安全框架和优化实时调度算法，为开发人员提供了更强的系统保护和更可靠的任务调度能力。这些改进使得Zephyr能够更好地服务于需要高安全性和高可靠性的应用场景。",
-      "category": "rtos",
-      "date": "2026-04-06",
-      "source": "Zephyr项目官方博客",
-      "url": ""
+      "title": "苹果正在扩展其MLX生态，提升AI在iPhone上的应用",
+      "summary": "苹果通过最新的iOS更新，允许其Gemini AI助理执行更多任务，如订购杂货或预订乘车，进一步提升了AI在iPhone上的应用。",
+      "content": "随着最新的三月更新，谷歌为其Pixel手机增加了几项新功能，包括允许其Gemini AI助理为您执行任务，比如订购杂货或预订乘车。这项功能最初是为Pixel 6系列设备推出的，现在扩展到了所有Pixel 6设备。",
+      "category": "ai-ecosystem",
+      "date": "2026-04-03",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026"
     },
     {
       "id": 8,
-      "title": "通义千问AI平台发布新的API，支持更多语言和格式",
-      "summary": "通义千问AI平台宣布发布新的API，支持更多的自然语言处理功能和文件格式，以满足开发者和企业用户的多样化需求。",
-      "content": "通义千问AI平台的新API使得开发者能够更容易地集成和使用平台的自然语言处理能力，支持更多语言和文件格式，如PDF、Word文档等。这将极大地扩展平台的应用范围和用户体验。",
-      "category": "ai-ecosystem",
-      "date": "2026-04-05",
-      "source": "通义千问官方博客",
-      "url": ""
-    },
-    {
-      "id": 9,
-      "title": "小米发布新款智能手环，主打健康监测和长续航",
-      "summary": "小米公司宣布推出新款智能手环，主打健康监测功能和长达两周的电池续航能力，以满足用户对健康和便捷性的需求。",
-      "content": "小米新款智能手环的发布，进一步丰富了公司在智能穿戴设备领域的产品线。新款手环通过集成更精确的健康监测传感器和优化的电源管理系统，为用户提供了更全面的健康数据跟踪和更长的使用时间。",
+      "title": "微软发布AI代理框架Microsoft Agen",
+      "summary": "微软发布了AI代理框架Microsoft Agen，标志着微软在AI领域的进一步扩展，该框架旨在帮助开发者构建和部署AI代理，以实现更广泛的自动化和智能化。",
+      "content": "微软发布了AI代理框架Microsoft Agen，这标志着微软在AI领域的进一步扩展。该框架旨在帮助开发者构建和部署AI代理，以实现更广泛的自动化和智能化。",
       "category": "other",
-      "date": "2026-04-04",
-      "source": "小米官方网站",
-      "url": ""
+      "date": "2026-04-07",
+      "source": "AI资讯日报",
+      "url": "https://www.cnblogs.com/saodiseng2015/p/archive/2026/04/07"
     }
   ]
 }

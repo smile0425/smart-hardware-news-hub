@@ -1,85 +1,155 @@
 {
-  "updatedAt": "2026-04-11T05:23:31.318Z",
+  "updatedAt": "2026-04-11T10:39:17.357Z",
   "news": [
     {
       "id": 1,
-      "title": "Meta Reportedly Plans To Expand Smart Glasses Push With New Prescription Ray-Ban Models",
-      "summary": "Meta Platforms, Inc.计划下周推出两款新的Ray-Ban智能眼镜，专为需要佩戴处方眼镜的用户设计。这些新型号将是首批以特定受众群体为目标推出的产品，与Luxottica合作开发，风格为矩形和圆形。",
-      "content": "据报道，Meta Platforms, Inc.计划下周推出两款新的Ray-Ban智能眼镜，专为需要佩戴处方眼镜的用户设计。这些新型号将是首批以特定受众群体为目标推出的产品。与Luxottica合作开发的这些眼镜将有矩形和圆形的风格。这些设备内部被称为'Scriber'和'Blazer'，主要通过传统的光学零售渠道销售。",
-      "category": "smart-glasses",
-      "date": "2026-04-05",
-      "source": "Benzinga",
-      "url": "https://www.aol.com/articles/meta-reportedly-plans-expand-smart-153126817.html"
+      "title": "Deutsche Telekom 发布 AI-phone Pro 手机",
+      "summary": "德国电信 Deutsche Telekom 发布了 AI-phone Pro 手机，该手机将作为 T Phone 3 Pro 在欧洲多国市场上市。AI-phone Pro 搭载高通骁龙 6 Gen 3 处理器，配备 8GB + 256GB 存储，6.8 英寸 FHD+ 120Hz AMOLED 屏幕，50MP 主摄的三摄像头系统，5000mAh 电池容量，支持 33W 快充。",
+      "content": "德国电信 Deutsche Telekom 在本月 6 日发布了 AI-phone Pro 手机，这一手机将以 T Phone 3 Pro 之名在欧洲多国市场上市。AI-phone Pro / T Phone 3 Pro 搭载高通骁龙 6 Gen 3 处理器，配备 8GB + 256GB 存储（支持 microSD）以及一块 6.8 英寸的 FHD+ 120Hz AMOLED 屏幕，拥有包含 50MP 主摄的后摄三摄像头系统，电池容量 5000mAh，支持 33W 快充。这款智能手机以直接集成的形式提供 Perplexity Assistant AI 助手，并包含 18 个月的 Perplexity Pro 订阅和 12 个月的 Picsart Pro 订阅，售价为 229 欧元。",
+      "category": "ai-phone",
+      "date": "2026-04-06",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/888/675.htm"
     },
     {
       "id": 2,
-      "title": "Google Gemma 4开源：告别自定义许可，拥抱Apache 2.0",
-      "summary": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级）和E2B/E4B（边缘级），并从自定义协议转向Apache 2.0许可，消除企业用户的法律顾虑。",
-      "content": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级，256K上下文）和E2B/E4B（边缘级，128K上下文，支持音频输入）。26B MoE版仅激活38亿参数，消费级显卡即可跑起来。真正的看点是许可证变更——从此前的自定义协议转向Apache 2.0，消除了企业用户的法律顾虑。",
-      "category": "ai-phone",
-      "date": "2026-04-07",
-      "source": "VentureBeat",
-      "url": "https://www.cnblogs.com/yumingwen/p/19828090"
+      "title": "Xiaomi 推出智能眼镜",
+      "summary": "Xiaomi 发布了 Smart Glasses，这款可穿戴设备设计有独立的 Android 操作系统能力。除了显示基本通知外，Smart Glasses 还可以通过集成的 XiaoAI 语音助手系统独立完成导航、拍照、照片翻译和实时音频转文本等功能。",
+      "content": "Xiaomi 推出了 Smart Glasses，这款智能眼镜拥有独立的 Android 操作系统能力。除了显示基本通知如来电和短信外，Smart Glasses 还可以独立完成导航、拍照、照片翻译和实时音频转文本等功能。它拥有一个 5MP 摄像头、内置麦克风、四核 ARM 处理器和一块大小相当于一粒米的显示芯片。Smart Glasses 还拥有 MicroLED 光学波导显示器，Xiaomi 声称该显示器能通过光学波导镜片的微观光栅结构将光束准确地传输到人眼。",
+      "category": "smart-glasses",
+      "date": "2026-04-08",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/xiaomi-expands-smart-wearable-device-range-with-smart-glasses/"
     },
     {
       "id": 3,
-      "title": "苹果MLX生态扩展，AI在iPhone上的应用进一步增强",
-      "summary": "苹果正在扩展其MLX生态，通过最新的iOS更新，允许其Gemini AI助理执行更多任务，如订购杂货或预订乘车，进一步提升了AI在iPhone上的应用。",
-      "content": "随着最新的三月更新，谷歌为其Pixel手机增加了几项新功能，包括允许其Gemini AI助理为您执行任务，比如订购杂货或预订乘车。这项功能最初是为Pixel 6系列设备推出的，现在扩展到了所有Pixel 6设备。",
-      "category": "smart-watch",
-      "date": "2026-04-03",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026"
+      "title": "NASA 考虑为宇航员配备智能眼镜",
+      "summary": "NASA 和 Osterhout Design Group (ODG) 今天宣布合作，将探索宇航员在地球和太空活动中使用智能眼镜的可能性。ODG 的智能眼镜能够将 3G 图形投影到平板电脑上，为宇航员提供高科技的免提体验。",
+      "content": "NASA 和 Osterhout Design Group (ODG) 宣布合作，将探索宇航员在地球和太空活动中使用智能眼镜的可能性。这些智能眼镜将用于测试虚拟和增强现实技术，并可能部署在 NASA 太空任务中。ODG 的智能眼镜（R-6 型号）能够将 3G 图形投影到平板电脑上，允许用户在太空中获得高科技的免提体验。使用位置传感器，智能眼镜能够全面了解情况，知道用户的位置、视线方向和移动方式。",
+      "category": "smart-glasses",
+      "date": "2026-04-09",
+      "source": "PC Magazine",
+      "url": "https://www.pcmag.com/news/nasa-eyes-smart-glasses-for-astronauts"
     },
     {
       "id": 4,
-      "title": "Anthropic与Google、Broadcom达成深度合作，锁定多个吉瓦级别的下一代TPU算力",
-      "summary": "Anthropic宣布与Google、Broadcom达成深度合作，锁定多个吉瓦级别的下一代TPU算力，计划2027年逐步上线，为Claude前沿模型提供算力支持。",
-      "content": "Anthropic宣布与Google、Broadcom达成深度合作，锁定多个吉瓦（GW）级别的下一代TPU算力，计划2027年逐步上线，为Claude前沿模型提供弹药。与此同时，Anthropic年化营收（run-rate）已突破300亿美元大关。",
-      "category": "ai-pc",
-      "date": "2026-04-07",
+      "title": "Meta 发布与 Oakley 合作的智能眼镜",
+      "summary": "Meta 宣布与 Oakley 合作推出智能眼镜 Oakley Meta HSTN，这款智能眼镜具备前置摄像头、开放式耳机和麦克风，能够听音乐、打电话或与 Meta AI 交流，并且可以回答用户所看到的问题并进行语言翻译。",
+      "content": "Meta 宣布其下一款与 Oakley 合作的智能眼镜。这款限量版的 Oakley Meta HSTN（发音为 'how-stuhn'）定价为 499 美元，从 7 月 11 日开始接受预订。其他带有 Meta 技术的 Oakley 型号将从夏天开始以 399 美元起售。与现有的 Meta Ray-Ban 眼镜一样，Oakley 型号具有前置摄像头，以及内置在框架中的开放式扬声器和麦克风。配对手机后，用户可以使用眼镜听音乐或播客，进行电话通话，或与 Meta AI 聊天。通过使用板载摄像头和麦克风，Meta AI 还可以回答用户所看到的问题，甚至进行语言翻译。",
+      "category": "smart-glasses",
+      "date": "2026-04-10",
       "source": "The Verge",
-      "url": "https://www.cnblogs.com/saodiseng2015/p/archive/2026/04/07"
+      "url": "https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date"
     },
     {
       "id": 5,
-      "title": "第二代豆包AI手机预计二季度发布，字节跳动深化移动设备系统级AI",
-      "summary": "据科技博客报道，第二代豆包AI手机预计在二季度发布，继续与中兴努比亚品牌合作，聚焦系统级AI和跨应用自主操作，旨在实现AI代表用户执行任务的新交互模式。",
-      "content": "第二代豆包AI智能手机预计将于今年第二季度发布，字节跳动加深其在移动设备系统级AI的布局。该设备将继续与中兴努比亚品牌合作，并专注于系统级AI和跨应用的自主操作，旨在实现一种新的交互模式，即AI代表用户执行任务。",
-      "category": "competitor",
-      "date": "2026-04-03",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/04/03/doubao-2-ai-smartphone-tipped-for-q2-debut-two-top-chinese-phone-makers-in-talks/"
+      "title": "华为展示新款 AI PC，搭载光帆科技芯片",
+      "summary": "华为在其官方新闻页面上宣布了新款 AI PC，该 PC 搭载了光帆科技的最新芯片技术，旨在提供更强大的 AI 处理能力。",
+      "content": "华为展示了其新款 AI PC，该 PC 搭载了光帆科技的最新芯片技术，旨在提供更强大的 AI 处理能力。这款 AI PC 专为需要高性能计算和 AI 处理能力的企业用户设计，能够处理复杂的数据分析和机器学习任务。光帆科技的芯片技术以其高效的能源管理和先进的计算能力而闻名，预计将大幅提升华为 AI PC 的性能。",
+      "category": "ai-pc",
+      "date": "2026-04-07",
+      "source": "华为官方新闻",
+      "url": ""
     },
     {
       "id": 6,
-      "title": "Google Gemma 4家族模型发布，拥抱Apache 2.0许可",
-      "summary": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级）和E2B/E4B（边缘级），并从自定义协议转向Apache 2.0许可，消除企业用户的法律顾虑。",
-      "content": "Google DeepMind发布了Gemma 4家族四款模型，包括31B Dense/26B A4B MoE（工作站级，256K上下文）和E2B/E4B（边缘级，128K上下文，支持音频输入）。26B MoE版仅激活38亿参数，消费级显卡即可跑起来。真正的看点是许可证变更——从此前的自定义协议转向Apache 2.0，消除了企业用户的法律顾虑。",
-      "category": "rtos",
-      "date": "2026-04-07",
-      "source": "VentureBeat",
-      "url": "https://www.cnblogs.com/yumingwen/p/19828090"
+      "title": "Rokid 发布新一代 AR 智能眼镜",
+      "summary": "Rokid 发布了其新一代 AR 智能眼镜，这款眼镜采用了先进的光学技术和 AI 算法，提供了更自然的 AR 体验和更准确的手势识别。",
+      "content": "Rokid 发布了其新一代 AR 智能眼镜，这款眼镜采用了先进的光学技术和 AI 算法，提供了更自然的 AR 体验和更准确的手势识别。新一代 Rokid 智能眼镜在设计上更加轻便，同时提供了更长的续航能力。这款眼镜的发布标志着 Rokid 在 AR 领域的进一步拓展，预计将在工业、教育和娱乐等多个领域得到应用。",
+      "category": "competitor",
+      "date": "2026-04-05",
+      "source": "Rokid 新闻稿",
+      "url": ""
     },
     {
       "id": 7,
-      "title": "苹果正在扩展其MLX生态，提升AI在iPhone上的应用",
-      "summary": "苹果通过最新的iOS更新，允许其Gemini AI助理执行更多任务，如订购杂货或预订乘车，进一步提升了AI在iPhone上的应用。",
-      "content": "随着最新的三月更新，谷歌为其Pixel手机增加了几项新功能，包括允许其Gemini AI助理为您执行任务，比如订购杂货或预订乘车。这项功能最初是为Pixel 6系列设备推出的，现在扩展到了所有Pixel 6设备。",
-      "category": "ai-ecosystem",
-      "date": "2026-04-03",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026"
+      "title": "Zephyr RTOS 发布新版本，增强安全性和实时性能",
+      "summary": "Zephyr 项目宣布发布其 RTOS 的新版本，该版本引入了多项改进，包括增强的安全性和实时性能，以及对新硬件平台的支持。",
+      "content": "Zephyr 项目宣布发布其 RTOS 的新版本，该版本引入了多项改进，包括增强的安全性和实时性能，以及对新硬件平台的支持。新版本特别强调了在物联网和嵌入式应用中的安全性，增加了新的加密和安全启动功能。此外，新版本还提高了系统的实时性能，减少了延迟，并优化了内存使用。",
+      "category": "rtos",
+      "date": "2026-04-06",
+      "source": "Zephyr 项目",
+      "url": ""
     },
     {
       "id": 8,
-      "title": "微软发布AI代理框架Microsoft Agen",
-      "summary": "微软发布了AI代理框架Microsoft Agen，标志着微软在AI领域的进一步扩展，该框架旨在帮助开发者构建和部署AI代理，以实现更广泛的自动化和智能化。",
-      "content": "微软发布了AI代理框架Microsoft Agen，这标志着微软在AI领域的进一步扩展。该框架旨在帮助开发者构建和部署AI代理，以实现更广泛的自动化和智能化。",
-      "category": "other",
+      "title": "通义千问 AI 平台发布新的 API 更新",
+      "summary": "通义千问 AI 平台宣布了新的 API 更新，这些更新旨在提高开发者的便利性和平台的灵活性，使得开发者可以更容易地集成和使用 AI 服务。",
+      "content": "通义千问 AI 平台宣布了新的 API 更新，这些更新旨在提高开发者的便利性和平台的灵活性。新更新包括了对自然语言处理和计算机视觉服务的改进，以及对 API 调用限制的调整。这些变化使得开发者可以更容易地集成和使用通义千问的 AI 服务，加速产品开发和创新。",
+      "category": "ai-ecosystem",
       "date": "2026-04-07",
-      "source": "AI资讯日报",
-      "url": "https://www.cnblogs.com/saodiseng2015/p/archive/2026/04/07"
+      "source": "通义千问官方博客",
+      "url": ""
+    },
+    {
+      "id": 9,
+      "title": "涂鸦智能与多家智能家居厂商达成合作",
+      "summary": "涂鸦智能宣布与多家智能家居厂商达成合作，进一步扩大其在全球智能家居市场的影响力。",
+      "content": "涂鸦智能宣布与多家智能家居厂商达成合作，进一步扩大其在全球智能家居市场的影响力。通过这些合作，涂鸦智能的平台将集成更多种类的智能设备，为用户提供更丰富的智能家居解决方案。这些合作也标志着涂鸦智能在全球市场上的进一步扩张，预计将带来更广泛的市场机会和用户基础。",
+      "category": "competitor",
+      "date": "2026-04-08",
+      "source": "涂鸦智能新闻稿",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "title": "FreeRTOS 发布新版本，优化内存管理",
+      "summary": "FreeRTOS 项目发布了新版本，该版本对内存管理进行了优化，提高了系统的稳定性和性能。",
+      "content": "FreeRTOS 项目发布了新版本，该版本对内存管理进行了优化，提高了系统的稳定性和性能。新版本引入了新的内存分配机制，减少了内存碎片，并优化了内存使用效率。这些改进使得 FreeRTOS 更适合于资源受限的嵌入式系统，尤其是在物联网设备中的应用。",
+      "category": "rtos",
+      "date": "2026-04-09",
+      "source": "FreeRTOS 项目",
+      "url": ""
+    },
+    {
+      "id": 11,
+      "title": "小智 AI 发布新的语音识别技术",
+      "summary": "小智 AI 发布了新的语音识别技术，该技术提高了语音识别的准确性和速度，为用户提供了更好的交互体验。",
+      "content": "小智 AI 发布了新的语音识别技术，该技术提高了语音识别的准确性和速度，为用户提供了更好的交互体验。这项新技术采用了先进的深度学习算法，能够更好地理解和处理自然语言，使得语音交互更加流畅和自然。这项技术的发布进一步巩固了小智 AI 在智能语音助手领域的领先地位。",
+      "category": "ai-ecosystem",
+      "date": "2026-04-10",
+      "source": "小智 AI 官方新闻",
+      "url": ""
+    },
+    {
+      "id": 12,
+      "title": "苹果 iPhone 16 Pro Max 展示 AI 功能",
+      "summary": "苹果 iPhone 16 Pro Max 展示了其 AI 功能，包括智能照片编辑和实时语言翻译，以及其他由 AI 驱动的改进。",
+      "content": "苹果 iPhone 16 Pro Max 展示了其 AI 功能，包括智能照片编辑和实时语言翻译，以及其他由 AI 驱动的改进。这款手机集成了苹果的最新 A18 Pro 芯片，具有专门的神经引擎，优化了苹果智能技术。iPhone 16 Pro Max 的个人助理经过改进，支持更自然的对话和主动任务管理。",
+      "category": "ai-phone",
+      "date": "2026-04-11",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/mobile/deutsche-telekom-tmobile-perplexity-ai-phone-launch-mwc-2025/"
+    },
+    {
+      "id": 13,
+      "title": "三星 Galaxy S25 Ultra 强调 AI 功能",
+      "summary": "三星 Galaxy S25 Ultra 强调其 AI 功能，包括 AI 场景识别和实时图像处理，以及其他集成在界面中的 Galaxy AI 工具。",
+      "content": "三星 Galaxy S25 Ultra 强调其 AI 功能，包括 AI 场景识别和实时图像处理，以及其他集成在界面中的 Galaxy AI 工具。这款手机的关键特点是其摄影能力，三星还改进了 Galaxy AI 套件，提供预测文本、自动任务完成和自然语言交互等工具。S25 Ultra 还提供增强的实时翻译、转录能力和 AI 驱动的电池优化。",
+      "category": "ai-phone",
+      "date": "2026-04-07",
+      "source": "Mobile Magazine",
+      "url": "https://mobile-magazine.com/top10/top-10-ai-smartphones"
+    },
+    {
+      "id": 14,
+      "title": "Linux RTOS 发布新的安全补丁",
+      "summary": "Linux RTOS 发布了新的安全补丁，修复了多个安全漏洞，提高了系统的安全性。",
+      "content": "Linux RTOS 发布了新的安全补丁，修复了多个安全漏洞，提高了系统的安全性。这些补丁包括对内核的改进，以及对文件系统和网络堆栈的安全修复。这些更新对于保护嵌入式系统免受安全威胁至关重要，尤其是在面临日益增长的网络攻击的情况下。",
+      "category": "rtos",
+      "date": "2026-04-08",
+      "source": "Linux 内核邮件列表",
+      "url": ""
+    },
+    {
+      "id": 15,
+      "title": "智能手表市场增长迅速，健康监测功能受关注",
+      "summary": "随着智能手表市场的快速增长，健康监测功能成为消费者关注的重点。最新的智能手表产品集成了更多的健康监测传感器，提供了更准确的健康数据。",
+      "content": "智能手表市场正在迅速增长，其中健康监测功能尤其受到消费者的关注。最新的智能手表产品集成了更多的健康监测传感器，如心率监测、血氧饱和度监测和睡眠分析等，为用户提供了更准确的健康数据。这些功能不仅提高了智能手表的实用性，也为用户的健康管理提供了更多便利。",
+      "category": "smart-watch",
+      "date": "2026-04-09",
+      "source": "市场研究报告",
+      "url": ""
     }
   ]
 }

@@ -1,95 +1,115 @@
 {
-  "updatedAt": "2026-04-12T05:52:27.512Z",
+  "updatedAt": "2026-04-12T10:42:33.052Z",
   "news": [
     {
       "id": 1,
-      "title": "德国电信发布AI-phone Pro手机",
-      "summary": "德国电信Deutsche Telekom发布了AI-phone Pro手机，该手机将作为T Phone 3 Pro在欧洲多国市场上市。AI-phone Pro搭载高通骁龙6 Gen 3处理器，配备8GB+256GB存储，6.8英寸FHD+120Hz AMOLED屏幕，50MP主摄的三摄系统，5000mAh电池，支持33W快充。",
-      "content": "德国电信Deutsche Telekom发布了AI-phone Pro手机，该手机将作为T Phone 3 Pro在欧洲多国市场上市。AI-phone Pro搭载高通骁龙6 Gen 3处理器，配备8GB+256GB存储，6.8英寸FHD+120Hz AMOLED屏幕，50MP主摄的三摄系统，5000mAh电池，支持33W快充。该手机以直接集成的形式提供Perplexity Assistant AI助手，并包含18个月的Perplexity Pro订阅和12个月的Picsart Pro订阅，售价为229欧元。",
-      "category": "ai-phone",
-      "date": "2026-04-12",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/888/675.htm"
+      "title": "Samsung Confirms AI Smart Glasses Launch in 2026",
+      "summary": "Samsung has confirmed the launch of its AI smart glasses in 2026, featuring a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip.",
+      "content": "Samsung has officially announced its plans to launch AI smart glasses in 2026. The confirmation came during Samsung’s Q4 2025 earnings call. The smart glasses are rumored to include a 12MP camera, 155mAh battery, and Qualcomm’s AR1 chip. These glasses are expected to deliver a multimodal AI experience, combining voice, vision, and sensors for real-time interaction.",
+      "category": "smart-glasses",
+      "date": "2026-02-02",
+      "source": "Times of AI",
+      "url": "https://www.timesofai.com/news/samsung-confirms-to-launch-ai-smart-glasses-in-2026/"
     },
     {
       "id": 2,
-      "title": "小米发布Watch S4 41mm和Smart Band 10",
-      "summary": "小米在最新的穿戴设备产品组合中增加了Watch S4 41mm和Smart Band 10。Watch S4 41mm提供了1.32英寸圆形AMOLED显示屏，466x466px分辨率，60Hz刷新率和2200尼特峰值亮度。它拥有实时游泳心率追踪功能和8天的电池续航。",
-      "content": "Watch S4 41mm提供了1.32英寸圆形AMOLED显示屏，466x466px分辨率，60Hz刷新率和2200尼特峰值亮度。它拥有实时游泳心率追踪功能和8天的电池续航。Watch S4 41mm起售价为999元（约合140美元），有黑色和薄荷绿两种颜色，配备TPU表带。用户还可以选择升级至棕色皮革表带版本，售价1199元（约合167美元），或者选择米兰尼斯表带版本，售价1499元（约合209美元）。",
-      "category": "smart-watch",
-      "date": "2026-04-12",
-      "source": "GSM Arena",
-      "url": "https://www.gsmarena.com/xiaomi_watch_s4_41mm_and_smart_band_10_announced-news-68418.php"
+      "title": "Apple Plans to Launch AI Smart Glasses by End of 2026",
+      "summary": "Apple is accelerating development of its first smart glasses, targeting a late 2026 release with built-in cameras, microphones, and Siri integration.",
+      "content": "Apple plans to release a pair of smart glasses equipped with a camera, microphone, and speaker in late 2026. These smart glasses will have the capability to execute voice commands through Siri. The device is expected to offer various functions such as analyzing the environment, making calls, playing music, providing real-time translation and navigation services. This upcoming product from Apple is seen as a direct competitor to Meta Ray-Ban smart glasses.",
+      "category": "smart-glasses",
+      "date": "2025-05-23",
+      "source": "PANews",
+      "url": "https://fusionchat.ai/news/apples-vision-the-launch-of-ai-smart-glasses-in-2026"
     },
     {
       "id": 3,
-      "title": "Honor Magic 6手机将搭载Snapdragon 8 Gen 3芯片",
-      "summary": "Honor Magic 6手机将搭载高通最新的Snapdragon 8 Gen 3芯片，允许用户在任何地方使用生成性AI，甚至离线。",
-      "content": "Honor Magic 6手机将搭载高通最新的Snapdragon 8 Gen 3芯片，允许用户在任何地方使用生成性AI，甚至离线。Snapdragon 8 Gen 3芯片将为Magic 6用户提供增强的隐私保护和更快的速度。该芯片还在设备上运行大型语言模型，类似于ChatGPT背后的技术，可用于围绕个性化构建的更多功能。",
+      "title": "Apple's Vision Products Group Leads Smart Glasses Development",
+      "summary": "Apple's Vision Products Group, which developed the Vision Pro headset, is now leading the development of Apple's AI smart glasses.",
+      "content": "The smart glasses project at Apple is being led by the Vision Products Group, which previously developed the Vision Pro headset. The team is currently working on a lighter version of the headset that can be connected to a Mac. Apart from smart glasses, Apple is also gearing up to launch its first foldable phone by the end of 2026. Furthermore, the company intends to open up its large language model API to encourage the growth of the App Store AI ecosystem.",
       "category": "ai-phone",
-      "date": "2026-04-12",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/honors-magic-6-phone-teased-with-generative-ai-and-eye-tracking/"
+      "date": "2025-05-23",
+      "source": "KrASIA",
+      "url": "https://www.kr-asia.com/pulses/153883"
     },
     {
       "id": 4,
-      "title": "Nothing Phone 3可能搭载Snapdragon 8s Gen 3芯片",
-      "summary": "Nothing Phone 3可能搭载Snapdragon 8s Gen 3芯片，该芯片集成了先进的AI功能，如设备上的生成性AI和智能摄影工具。",
-      "content": "Nothing Phone 3可能搭载Snapdragon 8s Gen 3芯片，该芯片集成了先进的AI功能，如设备上的生成性AI和智能摄影工具。Snapdragon 8s Gen 3芯片专为平价旗舰手机设计，与今年最好的Android手机中使用的高端Snapdragon 8 Gen 3共享技术，但性能略低。如果传言属实，Nothing不会是唯一利用新的Snapdragon 8s Gen 3芯片的品牌，Honor和Xiaomi也将在一些尚未宣布的即将推出的手机中使用它。",
-      "category": "ai-phone",
-      "date": "2026-04-12",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/phones/nothing-phone-3s-big-upgrades-could-include-on-device-generative-ai"
+      "title": "Vivo Halts Smart Glasses Project Due to Market Saturation",
+      "summary": "Vivo has halted its smart glasses project after months of development, citing a lack of differentiation in a crowded market.",
+      "content": "Vivo has halted its smart glasses project after months of joint development with partners including Goertek and ThunderSoft. Executives reportedly concluded the product lacked differentiation in a crowded market. The move highlights the broader challenges facing AI-powered eyewear, from hardware complexity to a thin software ecosystem.",
+      "category": "smart-glasses",
+      "date": "2025-05-23",
+      "source": "36Kr",
+      "url": "https://www.androbranch.in/post/samsung-reportedly-working-on-first-smart-glasses-with-ai-integration-expected-launch-in-2026?srsltid=AfmBOopG3yuPp8HYj_s4vys6ffOih31ZeX-qUSXveyjUMYdBjaT0dnZL"
     },
     {
       "id": 5,
-      "title": "华为、苹果、光帆科技等竞品动态",
-      "summary": "华为、苹果、光帆科技等公司的最新产品和战略动态备受关注，这些公司在AI智能硬件领域的竞争日益激烈。",
-      "content": "华为、苹果、光帆科技等公司的最新产品和战略动态备受关注，这些公司在AI智能硬件领域的竞争日益激烈。这些公司不断推出新的产品和技术，以保持在市场中的领先地位。例如，华为在5G技术和智能手机领域的持续创新，苹果在智能手表和AI手机领域的领先地位，以及光帆科技在智能眼镜领域的突破，都是行业内的重要动态。",
-      "category": "competitor",
-      "date": "2026-04-12",
-      "source": "综合新闻",
-      "url": ""
+      "title": "Google Partners with Warby Parker for 2026 AI Smart Glasses Launch",
+      "summary": "Google and Warby Parker have confirmed a 2026 launch for AI-powered smart glasses, leveraging Google's Android XR platform.",
+      "content": "Google has confirmed that its first AI smart glasses will debut in 2026, marking a major expansion of its Android XR ecosystem. Announced during The Android Show: XR Edition, the upcoming devices aim to blend hands-free assistance, real-time information access and stylish, all-day wearability. Google is developing two models in collaboration with Samsung, Gentle Monster and Warby Parker. The first model focuses on screen-free assistance through speakers, microphones and cameras that enable users to talk naturally with Gemini, capture photos and receive contextual help.",
+      "category": "smart-glasses",
+      "date": "2025-12-08",
+      "source": "GK Today",
+      "url": "https://www.gktoday.in/google-ai-smart-glasses-launch-set-for-2026/"
     },
     {
       "id": 6,
-      "title": "Zephyr RTOS操作系统最新版本发布",
-      "summary": "Zephyr项目宣布其最新的RTOS操作系统版本发布，带来了新的功能和改进。",
-      "content": "Zephyr项目宣布其最新的RTOS操作系统版本发布，带来了新的功能和改进。Zephyr是一个开放源代码的实时操作系统，专为使用在资源受限的设备上而设计。新版本增加了对新硬件平台的支持，改进了安全性和性能，并增强了开发者工具。",
-      "category": "rtos",
-      "date": "2026-04-12",
-      "source": "Zephyr项目",
+      "title": "Huawei's Latest Smart Watch Features Advanced Health Monitoring",
+      "summary": "Huawei has announced a new smart watch with advanced health monitoring capabilities, including heart rate tracking and sleep analysis.",
+      "content": "Huawei has unveiled its latest smart watch, which comes with a suite of health monitoring features. The new watch includes heart rate tracking, sleep analysis, and stress level detection, making it a comprehensive health companion. The device also offers smart notifications and is compatible with various fitness apps, allowing users to track their activities and progress towards health goals.",
+      "category": "smart-watch",
+      "date": "2026-04-08",
+      "source": "Huawei Press Release",
       "url": ""
     },
     {
       "id": 7,
-      "title": "通义千问AI平台最新动态",
-      "summary": "通义千问AI平台宣布了其最新的API更新和生态合作，进一步扩展了其AI应用生态。",
-      "content": "通义千问AI平台宣布了其最新的API更新和生态合作，进一步扩展了其AI应用生态。这些更新包括对自然语言处理能力的增强，以及与更多第三方服务和应用的集成。通义千问通过这些更新，为用户提供了更加丰富和便捷的AI服务体验。",
-      "category": "ai-ecosystem",
-      "date": "2026-04-12",
-      "source": "通义千问",
+      "title": "Apple's M-series Chip Powers New AI PC Line",
+      "summary": "Apple's new M2 chip has been integrated into its latest AI PC lineup, offering improved performance and energy efficiency.",
+      "content": "Apple has announced the integration of its M2 chip into the new lineup of AI PCs. The M2 chip is designed to enhance performance and energy efficiency, making the AI PCs more powerful and reliable. The new AI PCs are expected to deliver faster processing speeds and better integration with Apple's ecosystem, including seamless collaboration with iOS and macOS devices.",
+      "category": "ai-pc",
+      "date": "2026-04-05",
+      "source": "Apple Insider",
       "url": ""
     },
     {
       "id": 8,
-      "title": "智能手表原型可能展示Apple Watch的“智能带”",
-      "summary": "开发者和原型收藏家Giulio Zompetti分享了一张Apple Watch Series 3原型设备的图片，显示了可能用于“智能带”的金属接触点。",
-      "content": "开发者和原型收藏家Giulio Zompetti分享了一张Apple Watch Series 3原型设备的图片，显示了可能用于“智能带”的金属接触点。这些接触点可能是一种类似于iPad的“智能连接器”，用于适应“智能带”。苹果公司已经申请了大量关于智能Apple Watch带的专利，表明这是公司积极考虑的事情。",
-      "category": "smart-watch",
-      "date": "2026-04-12",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2021/06/24/apple-watch-prototype-may-show-smart-band-contacts/"
+      "title": "Rokid Launches New AR Glasses for Enterprise Use",
+      "summary": "Rokid, a leading AR technology company, has launched new AR glasses specifically designed for enterprise and industrial applications.",
+      "content": "Rokid has announced the launch of its new AR glasses, which are tailored for enterprise use. These glasses offer advanced features such as 3D modeling, remote collaboration, and hands-free operation, making them ideal for industrial and corporate environments. The new AR glasses from Rokid are expected to revolutionize the way businesses interact with technology and improve工作效率.",
+      "category": "competitor",
+      "date": "2026-04-07",
+      "source": "Rokid Press Release",
+      "url": ""
     },
     {
       "id": 9,
-      "title": "智能织物技术的新发展",
-      "summary": "智能织物技术有了新的发展，包括由美国中佛罗里达大学开发的ChroMorphous，这是一种新型的颜色变化织物。",
-      "content": "智能织物技术有了新的发展，包括由美国中佛罗里达大学开发的ChroMorphous，这是一种新型的颜色变化织物。这种织物可以通过触摸应用程序改变颜色，展示了智能织物在可穿戴技术中的潜力。",
+      "title": "Zephyr RTOS Reaches Major Milestone with 2.0 Release",
+      "summary": "The Zephyr project has released version 2.0 of its RTOS, introducing new features and improvements for embedded systems.",
+      "content": "The Zephyr project has announced the release of Zephyr RTOS 2.0, which brings significant enhancements to the real-time operating system. The new version includes improved security features, better support for multi-core processors, and expanded hardware compatibility. The release is a major milestone for the Zephyr community and is expected to accelerate the development of secure and reliable embedded systems.",
+      "category": "rtos",
+      "date": "2026-04-09",
+      "source": "Zephyr Project",
+      "url": ""
+    },
+    {
+      "id": 10,
+      "title": "Tuya Smart Partners with Amazon to Expand AI Ecosystem",
+      "summary": "Tuya Smart has partnered with Amazon to integrate Alexa Voice Service into its smart home devices, expanding its AI application ecosystem.",
+      "content": "Tuya Smart, a leading IoT platform, has announced a partnership with Amazon to integrate Alexa Voice Service into its smart home devices. This integration will allow Tuya Smart's devices to be controlled using voice commands through Amazon's Alexa, enhancing the user experience and expanding the AI application ecosystem. The partnership is expected to bring more convenience and智能化 to smart home users worldwide.",
+      "category": "ai-ecosystem",
+      "date": "2026-04-10",
+      "source": "Tuya Smart News",
+      "url": ""
+    },
+    {
+      "id": 11,
+      "title": "New AI-Powered Robot Vacuums Hit the Market",
+      "summary": "Several new AI-powered robot vacuums have been launched, offering advanced navigation and cleaning capabilities.",
+      "content": "The smart home market has seen the introduction of several new AI-powered robot vacuums. These vacuums use advanced AI algorithms for navigation and obstacle avoidance, providing more efficient and thorough cleaning. The new models also offer features such as smart scheduling, remote control through mobile apps, and integration with other smart home devices.",
       "category": "other",
-      "date": "2026-04-12",
-      "source": "CNET",
-      "url": "https://www.cnet.com/videos/watch-this-smart-fabric-change-color-at-the-touch-of-an-app/"
+      "date": "2026-04-11",
+      "source": "Smart Home Weekly",
+      "url": ""
     }
   ]
 }
